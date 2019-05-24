@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+img, a { border: 0; }
+#on {visibility:visible;}
+#off {visibility:hidden;}
+#facebook_div {width:320px;height: 154px; overflow: hidden; cursor:pointer;}
+#twitter_div {width:320px;height: 154px;overflow: hidden;cursor:pointer;}
+#testimoni_div {width:300px;height: 154px;overflow: hidden;cursor:pointer;}
+
+
+#facebook_right {z-index: 10005; background-color: #fff;width:320px;height: 154px; position: fixed;right: -350px;} 
+#facebook_right img {position: absolute;top: 0px;left: -30px;}
+#facebook_right iframe { overflow: hidden;position: static;height: 154px;left:0px;top:0px;border: 0;}
+
+#twitter_right {z-index: 10004; background-color: #fff ;width:320px;height: 154px;position: fixed;right: -350px;}
+#twitter_right_img {position: absolute;top: 0px;left: -30px;}
+#twitter_right iframe { overflow: hidden;position: static;height: 154px;left:0px;top:0px;border: 0;}
+
+#testimoni_right {z-index: 10004; background-color: #fff ;width:320px;height: 154px;position: fixed;right: -350px;}
+#testimoni_right_img {position: absolute;top: 0px;left: -30px;}
+#testimoni_right iframe { overflow: hidden;position: static;height: 154px;left:0px;top:0px;border: 0;}
+
+
+
+<!--for boxes-->
+  .newformbord {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px solid #99CC00;
+	font-size: 11px;
+	line-height: 20px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	height: 20px;
+	width: 145px;
+}
+.blacktext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+<!--for boxes-->
