@@ -127,6 +127,8 @@ image:
   body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.8;
+    background-color: #e8e292;
+    margin-bottom: 2rem;
   }
   h1.display-1 {
     font-family: 'Abril Fatface', cursive;
@@ -199,16 +201,18 @@ image:
       <div class="modal-content">
 
         <!-- Modal Header -->
-        <div class="modal-header">
+        <!-- <div class="modal-header">
           <h3 class="modal-title">{{item.title}}</h3>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
+        </div> -->
 
         <!-- Modal body -->
         <div class="modal-body">
           <img src="{{item.image}}" alt="{{item.title}}">
           <br>
           <div class="cont">
+            <h3 class="modal-title">{{item.title}}</h3>
+            <br>
             {% for p in item.content %}
               <p>{{p}}</p>
             {% endfor %}
