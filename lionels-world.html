@@ -1,0 +1,240 @@
+---
+layout: compress
+title: Lionel's World
+description:
+image:
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{page.title}}</title>
+
+  <style>
+    * {
+      /* border: 1px dashed #eee; */
+    }
+
+    /* .content {
+      max-width: 85%;
+      margin: 0 auto;
+    } */
+    .r {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        grid-gap: 10px
+    }
+
+    [class*="c-"] {
+        grid-column: span 12;
+        padding: 10px
+    }
+
+
+     /* 600px */
+    @media only screen and (min-width: 600px) {
+
+        .c-50 {
+            grid-column: span 6;
+        }
+        .c-25 {
+            grid-column: span 3;
+        }
+        .c-75 {
+            grid-column: span 9;
+        }
+        .c-100 {
+            grid-column: span 12;
+        }
+
+        .c-1 {
+            grid-column: span 1
+        }
+
+        .c-2 {
+            grid-column: span 2
+        }
+
+        .c-3 {
+            grid-column: span 3
+        }
+
+        .c-4 {
+            grid-column: span 4
+        }
+
+        .c-5 {
+            grid-column: span 5
+        }
+
+        .c-6 {
+            grid-column: span 6
+        }
+
+        .c-7 {
+            grid-column: span 7
+        }
+
+        .c-8 {
+            grid-column: span 8
+        }
+
+        .c-9 {
+            grid-column: span 9
+        }
+
+        .c-10 {
+            grid-column: span 10
+        }
+
+        .c-11 {
+            grid-column: span 11
+        }
+
+        .c-12 {
+            grid-column: span 12
+        }
+
+    }
+
+
+
+     /* 600px - 800px */
+
+    @media only screen and (max-width: 800px) and (min-width: 600px) {
+
+
+        .c-50 {
+            grid-column: span 6;
+        }
+        .c-25 {
+            grid-column: span 3;
+        }
+        .c-75 {
+            grid-column: span 9;
+        }
+        .c-100 {
+            grid-column: span 12;
+        }
+
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat:400,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style>
+  body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.8;
+  }
+  h1.display-1 {
+    font-family: 'Abril Fatface', cursive;
+    color: #333;
+    text-decoration-line: underline;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .card .title {
+    height: 45px;
+  }
+
+  .card:hover {
+    box-shadow: 0 1rem 1.2rem rgba(0,0,0,.15)!important;
+  }
+
+  .mt-20 {
+    margin-top: 2em;
+  }
+
+  .modal-dialog {
+    max-width: 800px;
+  }
+
+  .modal-body {
+    padding: 0;
+  }
+  .cont {
+    padding: 1rem;
+  }
+  </style>
+</head>
+<body>
+<header>
+
+</header>
+
+<div class="container">
+  <div class="r">
+    <div class="c-2"></div>
+    <div class="c-8">
+        <h1 class="display-1 text-center">Lionel's World</h1>
+    </div>
+    <div class="c-2"></div>
+  </div>
+  <div class="row justify-content-md-center">
+  {% for item in site.data.lionel %}
+  <div class="col-12 col-md-4 mt-20">
+    <div class="card border-0 shadow">
+      <div class="card-img-top image">
+        <img src="{{item.image}}" alt="{{item.title}}">
+      </div>
+      <div class="card-body">
+        <h5 class="title">{{item.title}}</h5>
+        <p>{{item.description | truncate: 100}}</p>
+        <div class="text-right">
+          <button type="button" class="btn btn-sm btn-success" data-toggle="modal" data-target="#lionel-{{forloop.index}}">Read more...</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- The Modal -->
+  <div class="modal" id="lionel-{{forloop.index}}">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h3 class="modal-title">{{item.title}}</h3>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+        <!-- Modal body -->
+        <div class="modal-body">
+          <img src="{{item.image}}" alt="{{item.title}}">
+          <br>
+          <div class="cont">
+            {% for p in item.content %}
+              <p>{{p}}</p>
+            {% endfor %}
+          </div>
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  {% endfor %}
+
+
+
+
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
+
