@@ -11,7 +11,6 @@ image:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{{page.title}}</title>
-
   <style>
     * {
       /* border: 1px dashed #eee; */
@@ -127,13 +126,12 @@ image:
   body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.8;
-    background-color: #e8e292;
-    margin-bottom: 2rem;
   }
   h1.display-1 {
     font-family: 'Abril Fatface', cursive;
-    color: #333;
-    text-decoration-line: underline;
+    color: #fff;
+    text-shadow: 0px 0px 15px #000;
+    /* text-decoration-line: underline; */
   }
 
   img {
@@ -162,21 +160,36 @@ image:
   .cont {
     padding: 1rem;
   }
+  header {
+    background-image: url('/images/lionels-world/lionels-world-cover.jpg');
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: top;
+    margin-bottom: 2em;
+  }
+  footer {
+    margin-top: 3em;
+    font-weight: 300;
+    background: #222;
+    color: #ddd;
+    padding: 40px 0;
+}
   </style>
 </head>
 <body>
 <header>
-
-</header>
-
-<div class="container">
   <div class="r">
     <div class="c-2"></div>
     <div class="c-8">
-        <h1 class="display-1 text-center">Lionel's World</h1>
+        <h1 class="display-1 text-center mt-20">Lionel's World</h1>
     </div>
     <div class="c-2"></div>
   </div>
+</header>
+
+<div class="container">
+
   <div class="row justify-content-md-center">
   {% for item in site.data.lionel %}
   <div class="col-12 col-md-4 mt-20">
@@ -186,7 +199,7 @@ image:
       </div>
       <div class="card-body">
         <h5 class="title">{{item.title}}</h5>
-        <p>{{item.description | truncate: 100}}</p>
+        <p>{{item.description | truncate: 35}}</p>
         <div class="text-right">
           <button type="button" class="btn btn-sm btn-success" data-toggle="modal" data-target="#lionel-{{forloop.index}}">Read more...</button>
         </div>
@@ -202,7 +215,7 @@ image:
 
         <!-- Modal Header -->
         <!-- <div class="modal-header">
-          <h3 class="modal-title">{{item.title}}</h3>
+          <h4 class="modal-title">{{item.title}}</h4>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div> -->
 
@@ -211,15 +224,15 @@ image:
           <img src="{{item.image}}" alt="{{item.title}}">
           <br>
           <div class="cont">
-            <h3 class="modal-title">{{item.title}}</h3>
+            <h4 class="modal-title">{{item.title}}</h4>
             <br>
             {% for p in item.content %}
               <p>{{p}}</p>
             {% endfor %}
           </div>
         </div>
-        
-        
+
+
         <!-- Modal footer -->
         <div class="modal-footer">
           <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
@@ -236,6 +249,64 @@ image:
 
   </div>
 </div>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="logo-box">
+					<img width="30" src="/images/avocado-transparent-small.png" alt="{{page.title}}">
+					<h4>{{page.title}}</h4>
+					<p>{{page.description}}</p>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<h4>Pages</h4>
+				<ul>
+
+					<li><a href="/">Home</a></li>
+
+					<li><a href="/about/">About</a></li>
+
+					<li><a href="/contact/">Contact</a></li>
+
+					<li><a href="/blog/">Blog</a></li>
+
+				</ul>
+			</div>
+			<div class="col-md-3">
+				<h4>Latest Posts</h4>
+
+				<li><a href="/blog/avocado-theme/">Avocado Theme</a></li>
+
+				<li><a href="/blog/be-what-you-want-to-be/">Be what you want to be!</a></li>
+
+				<li><a href="/blog/love-what-you-like/">Love whatever you like!</a></li>
+
+				<li><a href="/blog/do-what-you-like/">Do what you like!</a></li>
+
+			</div>
+			<div class="col-md-3">
+				<h4>Contact Us</h4>
+				<p>Email:<a href="mailto:john@doe.com"> john@doe.com</a></p>
+				<p>Phone:<a href="tel:+1-123-456-7890"> +1-123-456-7890</a></p>
+				<!--Start of Tawk.to Script-->
+				<script type="text/javascript">
+				var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+				(function(){
+				var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+				s1.async=true;
+				s1.src='https://embed.tawk.to/5cb170e9c1fe2560f3fea30c/default';
+				s1.charset='UTF-8';
+				s1.setAttribute('crossorigin','*');
+				s0.parentNode.insertBefore(s1,s0);
+				})();
+				</script>
+				<!--End of Tawk.to Script-->
+			</div>
+		</div>
+	</div>
+</footer>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
