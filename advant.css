@@ -1,46 +1,41 @@
-
 @charset "utf-8";
+
 /* CSS Document */
-
-body
-{padding: 0px; margin: 0px; background-color: #e5e5e5;}
-
-@font-face {
-	font-family: 'SEGOEUIL';
-	src: url('images/fonts/SEGOEUIL.eot');
-	src: local('SEGOEUIL'),
-	url('images/fonts//SEGOEUIL.woff') format('woff'),
-	url('images/fonts//SEGOEUIL.ttf') format('truetype');
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #e5e5e5;
 }
 
+@font-face {
+  font-family: 'SEGOEUIL';
+  src: url('images/fonts/SEGOEUIL.eot');
+  src: local('SEGOEUIL'),
+    url('images/fonts//SEGOEUIL.woff') format('woff'),
+    url('images/fonts//SEGOEUIL.ttf') format('truetype');
+}
 
 .bordshadow {
-      width: auto;
-      padding: 5px;
-      margin: 10px;
-      height:inherit;
-      -moz-box-shadow: 0 3px 3px #ccc;
-      -webkit-box-shadow: 0 3px 3px #ccc;
-      box-shadow: 0 3px 3px #ccc;
-	  float:left;
-      zoom: 1;
-	  background-color:#fff;
-	  border: 1px solid #dadada;
-
-	 /* filter:alpha(opacity=20); /* IE */
-    /*-moz-opacity:0.2; /* Mozilla */
-    /*opacity: 0.2; /* CSS3 */
-
-
-
-/* For IE 8 */
--ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=90, Color='#000000')";
-/* For IE 5.5 - 7 */
-filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=-80, Color='#000000'),
-        progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=90, Color='#000000');
-
-
-     /*filter:
+  width: auto;
+  padding: 5px;
+  margin: 10px;
+  height: inherit;
+  -moz-box-shadow: 0 3px 3px #ccc;
+  -webkit-box-shadow: 0 3px 3px #ccc;
+  box-shadow: 0 3px 3px #ccc;
+  float: left;
+  zoom: 1;
+  background-color: #fff;
+  border: 1px solid #dadada;
+  /* filter:alpha(opacity=20); /* IE */
+  /*-moz-opacity:0.2; /* Mozilla */
+  /*opacity: 0.2; /* CSS3 */
+  /* For IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=90, Color='#000000')";
+  /* For IE 5.5 - 7 */
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=-80, Color='#000000'),
+    progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=90, Color='#000000');
+  /*filter:
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=0,strength=1),
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=45,strength=1),
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=90,strength=2),
@@ -49,438 +44,1960 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=-80, Colo
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=225,strength=3),
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=270,strength=2),
           progid:DXImageTransform.Microsoft.Shadow(color=#000,direction=315,strength=1);*/
+}
 
-   }
+#bg1 {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/mainpagebg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+}
 
+#foot {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/footbg.png');
+  background-position: bottom;
+  background-repeat: repeat-x;
+}
 
-#bg1{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/mainpagebg.jpg'); background-position: top; background-repeat: no-repeat;}
+#actual {
+  width: 1100px;
+  height: inherit;
+  margin: auto;
+  float: left;
+}
 
-#foot{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/footbg.png'); background-position: bottom; background-repeat: repeat-x;}
+#fix {
+  width: 1100px;
+  height: inherit;
+  margin: auto;
+}
 
-#actual{width:1100px; height:inherit; margin:auto; float:left;}
-#fix{width:1100px; height:inherit; margin:auto; }
+#bg2 {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/bg2.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
+}
 
-#bg2{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/bg2.jpg'); background-position: top; background-repeat: no-repeat;}
+#medibg {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/mediabg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
+}
 
-#medibg{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/mediabg.jpg'); background-position: top; background-repeat: no-repeat;}
+#servicebg {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/servicebg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
+}
 
-#servicebg{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/servicebg.jpg'); background-position: top; background-repeat: no-repeat;}
+#galbg {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/galbg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
 
-#galbg{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/galbg.jpg'); background-position: top; background-repeat: no-repeat;}
+}
 
-#seminarbg{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/seminarbg.jpg'); background-position: top; background-repeat: no-repeat;}
+#seminarbg {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/seminarbg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
+}
 
-#expertbg{width:100%; height: inherit; float:left;padding: 0px 0px; background-image: url('images/galbg.jpg'); background-position: top; background-repeat: no-repeat;}
+#expertbg {
+  width: 100%;
+  height: inherit;
+  float: left;
+  padding: 0px 0px;
+  background-image: url('images/galbg.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+	background-size: contain;
+}
 
+.ratexts {
+  width: 100%;
+  height: auto;
+  margin: 0px;
+  float: left;
+  font-family: SEGOEUIL;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-weight: lighter;
+  line-height: 20px;
+}
 
-.ratexts{width:100%; height:auto; margin:0px; float:left; font-family:SEGOEUIL; font-size:14px; color:#1c1c1c;
- font-weight: lighter; line-height:20px;}
+.logoportion {
+  width: 584px;
+  height: 584px;
+  margin: 80px 40px 0px 0px;
+  float: left;
+}
 
-.logoportion{width: 584px; height:584px; margin: 80px 40px 0px 0px; float: left;}
-.logoportion768{display: none; width: 462px; height:462px; margin: 80px 40px 0px 0px; float: left;}
-.mobilemenu{display: none;}
+.logoportion768 {
+  display: none;
+  width: 462px;
+  height: 462px;
+  margin: 80px 40px 0px 0px;
+  float: left;
+}
 
-.icons{width: auto; height: auto; margin:3px; padding:3px; float: left;}
+.mobilemenu {
+  display: none;
+}
 
-.more{width: auto; float: left;margin:5px 0px 5px 0px; background-color: #1aa954; padding: 2px 10px 2px 10px; font-family: arial; font-size:11px; font-weight: bold; color:#fff; line-height: 20px; text-decoration: none; border-radius:3px;}
-.logoleafs{width: auto;height: auto; float: left; margin: 0px; padding: 0px;}
-.rhside{ width:470px; height:inherit; float: left; margin:0px;}
+.icons {
+  width: auto;
+  height: auto;
+  margin: 3px;
+  padding: 3px;
+  float: left;
+}
 
-.phonecover{width: 447; height:83px; margin: 5px 0px 0px 0px; float:right; background-image: url('images/chatbg.png'); background-repeat: no-repeat; background-position:left;}
+.more {
+  width: auto;
+  float: left;
+  margin: 5px 0px 5px 0px;
+  background-color: #1aa954;
+  padding: 2px 10px 2px 10px;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 20px;
+  text-decoration: none;
+  border-radius: 3px;
+}
 
- .subheadscover{width:87%; min-height:25px; margin:5px auto 0px auto; padding:5px 10px; background-color: #505251; border-radius:4px; opacity:0.8;}
+.logoleafs {
+  width: auto;
+  height: auto;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
 
-  .subheads{width:auto; height:auto; margin:0px 0px 0px 0px; font-family:'SEGOEUIL'; font-size:13px; color:#fff;
- font-weight: bold; line-height:20px; text-align:left; float: left; text-decoration: none; padding:2px 3px;}
- .subheads:hover{color: #f70926;}
+.rhside {
+  width: 470px;
+  height: inherit;
+  float: left;
+  margin: 0px;
+}
 
-  .subheadscover2{width:210px; height:35px; margin:5px auto 0px auto; padding:5px 10px; background-color: #d8b129; border-radius:4px; opacity:0.6;}
+.phonecover {
+	visibility: hidden;
+  width: 447;
+  height: 83px;
+  margin: 5px 0px 0px 0px;
+  float: right;
+  background-image: url('images/chatbg.png');
+  background-repeat: no-repeat;
+  background-position: left;
+}
 
-  .footmenucover{width:430PX; height:23PX; margin:15px auto 0px auto; padding:5px 10px; float:NONE; background-color: #575757; border-radius:5px;}
-  .footsubheads{width:auto; height:auto; margin:0px 0px 0px 0px; font-family:'SEGOEUIL'; font-size:13px; color:#fff; font-weight: bold; line-height:20px; text-align:left; float: left; text-decoration: none; padding:2px 3px;}
+.subheadscover {
+  width: 87%;
+  min-height: 25px;
+  margin: 5px auto 0px auto;
+  padding: 5px 10px;
+  background-color: #505251;
+  border-radius: 4px;
+  opacity: 0.8;
+}
 
- .footsubheads:hover{color: #f70926;}
+.subheads {
+  width: auto;
+  height: auto;
+  margin: 0px 0px 0px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 13px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: left;
+  float: left;
+  text-decoration: none;
+  padding: 2px 3px;
+}
 
-  .caption{width:100%; height:auto; margin:40px 0px 10px 0px; font-family:'SEGOEUIL'; font-size:50px; color:#aa4499; text-shadow:4px 4px 4px #000; font-weight:700; line-height:55px; text-align:left; float: left;}
+.subheads:hover {
+  color: #f70926;
+}
 
- .subcaption{width:100%; height:auto; margin:0px 0px 10px 0px; font-family:'SEGOEUIL'; font-size:25px; color:#000; font-weight: bold; line-height:35px; text-align:left; float: left; }
+.subheadscover2 {
+  width: 210px;
+  height: 35px;
+  margin: 5px auto 0px auto;
+  padding: 5px 10px;
+  background-color: #d8b129;
+  border-radius: 4px;
+  opacity: 0.6;
+}
 
-  .stayintouch{width: auto; height:auto; margin:15px 0px 0px 0px; font-family:'SEGOEUIL'; font-size:18px; color:#000; font-weight: normal; line-height:30px; padding-left:20px; float: left;}
+.footmenucover {
+  width: 430PX;
+  height: 23PX;
+  margin: 15px auto 0px auto;
+  padding: 5px 10px;
+  float: NONE;
+  background-color: #575757;
+  border-radius: 5px;
+}
 
-  .number{width: auto; height:auto; margin:0px; font-family:'SEGOEUIL'; font-size:16px; color:#fff; font-weight: bold; line-height:30px; padding-left:15px; float: left;}
+.footsubheads {
+  width: auto;
+  height: auto;
+  margin: 0px 0px 0px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 13px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: left;
+  float: left;
+  text-decoration: none;
+  padding: 2px 3px;
+}
 
-.lhhome{width:480px; height: auto; float: left; margin:50px 25px 20px 0px;}
-.rhhome{width:570px; height: auto; float: left; margin:50px 0px 20px 25px;}
+.footsubheads:hover {
+  color: #f70926;
+}
 
-.photos{ width: auto; height: auto; float: left; margin: 5px;}
-.photoscovr1{width:350px; height: auto; float: left; margin:0px;}
-.photoscovr2{width:185px; height: auto; float: left; margin:0px;}
-.semimg{width: auto; float: left; }
-.galhedrs{width:100%; height:25px; margin:0px; font-family:SEGOEUIL; font-size:16px; color:#484848; font-weight:bold;
- line-height:20px; text-align: center;}
+.caption {
+  width: 100%;
+  height: auto;
+  margin: 40px 0px 10px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 50px;
+	color: #4bb568;
+  text-shadow: 4px 4px 4px #97b398;
+  /* color: #aa4499;
+  text-shadow: 4px 4px 4px #000; */
+  font-weight: 700;
+  line-height: 55px;
+  text-align: left;
+  float: left;
+}
 
-.galbordimg{border: 1px solid #ababab; padding: 3px; width: 140px; height: 100px; float: left; margin: 5px;}
+.subcaption {
+  width: 100%;
+  height: auto;
+  margin: 0px 0px 10px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 25px;
+  /* color: #000; */
+	color: #474444;
+  font-weight: bold;
+  line-height: 35px;
+  text-align: left;
+  float: left;
+}
 
-.catbox{border: 1px solid #ababab; padding: 3px; width: 140px; height: 100px; float: left; margin: 5px;}
+.stayintouch {
+  width: auto;
+  height: auto;
+  margin: 15px 0px 0px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 18px;
+  color: #000;
+  font-weight: normal;
+  line-height: 30px;
+  padding-left: 20px;
+  float: left;
+}
 
-.phototext{ width:200px; height: auto; float: left; margin: 5px;}
+.number {
+  width: auto;
+  height: auto;
+  margin: 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 30px;
+  padding-left: 15px;
+  float: left;
+}
 
-.searchbox{width:100%;margin: 5px 0px 0px 0px; float: left;}
-.srhfild{width: 83%; border:1px solid #fff;font-family: arial; font-size:12px; font-weight: normal; color:#000; line-height: 16px;}
+.lhhome {
+  width: 480px;
+  height: auto;
+  float: left;
+  margin: 50px 25px 20px 0px;
+}
 
-.bgtext{width:96%; height:auto; margin:0px; float:left; font-family:SEGOEUIL; font-size:15px; color:#000;
- font-weight: lighter; line-height:22px; background-color:#fff; padding: 10px 2%; text-align: justify;}
+.rhhome {
+  width: 570px;
+  height: auto;
+  float: left;
+  margin: 50px 0px 20px 25px;
+}
 
- .bgtext strong{font-weight: bold;}
- .spacer {padding: 10px 0px 10px 0px; }
+.photos {
+  width: auto;
+  height: auto;
+  float: left;
+  margin: 5px;
+}
 
- .iconcover{width:96%; height:auto; margin:2px 0px 2px 0px; float:left; background-color:#fff; padding: 10px 2%; text-align: center; border: 1px solid #d9d9d9;}
+.photoscovr1 {
+  width: 350px;
+  height: auto;
+  float: left;
+  margin: 0px;
+}
 
-.bighd{width:auto; height:auto; margin:5px 0px 10px 0px ; font-family:'SEGOEUIL'; font-size:30px; color:#222221; font-weight: lighter; line-height:35px; text-align:left;}
+.photoscovr2 {
+  width: 185px;
+  height: auto;
+  float: left;
+  margin: 0px;
+}
 
+.semimg {
+  width: auto;
+  float: left;
+}
 
-.pagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #aa4499; padding-left:3%;}
+.galhedrs {
+  width: 100%;
+  height: 25px;
+  margin: 0px;
+  font-family: SEGOEUIL;
+  font-size: 16px;
+  color: #484848;
+  font-weight: bold;
+  line-height: 20px;
+  text-align: center;
+}
 
-.mediapagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #70469c; padding-left:3%;}
+.galbordimg {
+  border: 1px solid #ababab;
+  padding: 3px;
+  width: 140px;
+  height: 100px;
+  float: left;
+  margin: 5px;
+}
 
-.servicpagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #05b4c1; padding-left:3%;}
+.catbox {
+  border: 1px solid #ababab;
+  padding: 3px;
+  width: 140px;
+  height: 100px;
+  float: left;
+  margin: 5px;
+}
 
-.gallerypagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #3b4099; padding-left:3%;}
+.phototext {
+  width: 200px;
+  height: auto;
+  float: left;
+  margin: 5px;
+}
 
-.researchpagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #409945; padding-left:3%;}
+.searchbox {
+  width: 100%;
+  margin: 5px 0px 0px 0px;
+  float: left;
+}
 
-.franchaisepagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #f04923; padding-left:3%;}
+.srhfild {
+  width: 83%;
+  border: 1px solid #fff;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000;
+  line-height: 16px;
+}
 
-.ccnpagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #7e1416; padding-left:3%;}
+.bgtext {
+  width: 96%;
+  height: auto;
+  margin: 0px;
+  float: left;
+  font-family: SEGOEUIL;
+  font-size: 15px;
+  color: #000;
+  font-weight: lighter;
+  line-height: 22px;
+  background-color: #fff;
+  padding: 10px 2%;
+  text-align: justify;
+}
 
-.vignetthd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #71b544; padding-left:3%;}
+.bgtext strong {
+  font-weight: bold;
+}
 
-.thingspagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #b71e50; padding-left:3%;}
+.spacer {
+  padding: 10px 0px 10px 0px;
+}
 
-.seminarpagehd{width:97%; height:auto; margin:25px 0px 5px 0px; font-family:SEGOEUIL; font-size:18px; color:#fff; font-weight:bold; line-height:40px;float: left; background-color: #06a57f; padding-left:3%;}
+.iconcover {
+  width: 96%;
+  height: auto;
+  margin: 2px 0px 2px 0px;
+  float: left;
+  background-color: #fff;
+  padding: 10px 2%;
+  text-align: center;
+  border: 1px solid #d9d9d9;
+}
 
- .newspaper{background-image: url('images/newslogobg.png'); background-position: left; background-repeat: no-repeat;
- width: 302px; height: 43px; margin:20px; float: left; padding: 30px 0px 25px 0px; text-align: center;}
+.bighd {
+  width: auto;
+  height: auto;
+  margin: 5px 0px 10px 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 30px;
+  color: #222221;
+  font-weight: lighter;
+  line-height: 35px;
+  text-align: left;
+}
 
-.expert{background-image:  background-position: left; background-repeat: no-repeat;
- width: 302px; height: 43px; margin:20px; float: left; padding: 35px 0px 20px 0px; text-align: center;}
+.pagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #aa4499;
+  padding-left: 3%;
+}
 
- .row1{width: 190px; height: auto; float: left; margin:10px 10px 10px 0px;}
- .row2{width: 210px; height: auto; float: left; margin:80px 10px 10px 0px;}
- .row3{width: 250px; height: auto; float: left; margin:290px 10px 10px 0px;}
- .row4{width: 210px; height: auto; float: left; margin:80px 10px 10px 0px;}
-.imggap{width:100%; height:auto; margin:5px 0px; float: left;}
+.mediapagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #70469c;
+  padding-left: 3%;
+}
 
-.arrowtext{width:97%; float:left; font-family:SEGOEUIL; font-size:13px; color:#504f4f; font-weight:bold; margin:1px 0px; line-height:30px; padding-left:3%; background-image: url('images/arrow.png'); background-repeat: no-repeat;
-background-position: 5px 10px; text-decoration: none; background-color: #fff; border: 1px solid #e0cfc4;}
+.servicpagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #05b4c1;
+  padding-left: 3%;
+}
 
-.bighd4{width:auto; height:auto; margin:0px 0px 10px 0px; font-family:arial; font-size:13px; color:#000000; font-weight:bold; line-height:40px; border-bottom:1px solid #ccc;}
+.gallerypagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #3b4099;
+  padding-left: 3%;
+}
 
-.onebyone{width:100%; float: left; height: auto;}
-.onebytwo{width:50%; float: left; height: auto;}
-.onebythre{width:71%; float: left; height: auto; margin:2%;}
-.onebyfour{width:21%; float: left; height: auto; margin:2%;}
+.researchpagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #409945;
+  padding-left: 3%;
+}
 
-.leftbox{width:250px; float: left; height: auto;}
-.rightbox{width:250px; float: right; height: auto;}
+.franchaisepagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #f04923;
+  padding-left: 3%;
+}
 
+.ccnpagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #7e1416;
+  padding-left: 3%;
+}
 
- .bighd5{float:left; width:auto; height:auto; font-family:arial; font-size:14px; color:#000000; font-weight: bold; line-height:25px;}
-  .imgs{ width:auto; height:inherit; float:left; margin:5px;}
-.bordimg{margin: 3px 15px 0px 0px; padding: 3px; border:1px solid #cacec0; width: auto; float: left;}
+.vignetthd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #71b544;
+  padding-left: 3%;
+}
+
+.thingspagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #b71e50;
+  padding-left: 3%;
+}
+
+.seminarpagehd {
+  width: 97%;
+  height: auto;
+  margin: 25px 0px 5px 0px;
+  font-family: SEGOEUIL;
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+  float: left;
+  background-color: #06a57f;
+  padding-left: 3%;
+}
+
+.newspaper {
+  background-image: url('images/newslogobg.png');
+  background-position: left;
+  background-repeat: no-repeat;
+  width: 302px;
+  height: 43px;
+  margin: 20px;
+  float: left;
+  padding: 30px 0px 25px 0px;
+  text-align: center;
+}
+
+.expert {
+  background-image: background-position: left;
+  background-repeat: no-repeat;
+  width: 302px;
+  height: 43px;
+  margin: 20px;
+  float: left;
+  padding: 35px 0px 20px 0px;
+  text-align: center;
+}
+
+.row1 {
+  width: 190px;
+  height: auto;
+  float: left;
+  margin: 10px 10px 10px 0px;
+}
+
+.row2 {
+  width: 210px;
+  height: auto;
+  float: left;
+  margin: 80px 10px 10px 0px;
+}
+
+.row3 {
+  width: 250px;
+  height: auto;
+  float: left;
+  margin: 290px 10px 10px 0px;
+}
+
+.row4 {
+  width: 210px;
+  height: auto;
+  float: left;
+  margin: 80px 10px 10px 0px;
+}
+
+.imggap {
+  width: 100%;
+  height: auto;
+  margin: 5px 0px;
+  float: left;
+}
+
+.arrowtext {
+  width: 97%;
+  float: left;
+  font-family: SEGOEUIL;
+  font-size: 13px;
+  color: #504f4f;
+  font-weight: bold;
+  margin: 1px 0px;
+  line-height: 30px;
+  padding-left: 3%;
+  background-image: url('images/arrow.png');
+  background-repeat: no-repeat;
+  background-position: 5px 10px;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #e0cfc4;
+}
+
+.bighd4 {
+  width: auto;
+  height: auto;
+  margin: 0px 0px 10px 0px;
+  font-family: arial;
+  font-size: 13px;
+  color: #000000;
+  font-weight: bold;
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+.onebyone {
+  width: 100%;
+  float: left;
+  height: auto;
+}
+
+.onebytwo {
+  width: 50%;
+  float: left;
+  height: auto;
+}
+
+.onebythre {
+  width: 71%;
+  float: left;
+  height: auto;
+  margin: 2%;
+}
+
+.onebyfour {
+  width: 21%;
+  float: left;
+  height: auto;
+  margin: 2%;
+}
+
+.leftbox {
+  width: 250px;
+  float: left;
+  height: auto;
+}
+
+.rightbox {
+  width: 250px;
+  float: right;
+  height: auto;
+}
+
+.bighd5 {
+  float: left;
+  width: auto;
+  height: auto;
+  font-family: arial;
+  font-size: 14px;
+  color: #000000;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.imgs {
+  width: auto;
+  height: inherit;
+  float: left;
+  margin: 5px;
+}
+
+.bordimg {
+  margin: 3px 15px 0px 0px;
+  padding: 3px;
+  border: 1px solid #cacec0;
+  width: auto;
+  float: left;
+}
 
 .scroll-top-wrapper {
-    position: fixed;
-opacity: 0;
-visibility: hidden;
-overflow: hidden;
-text-align: center;
-z-index: 99999999;
-background-color: #777777;
-background-image: url('images/Scroll-to-top-button.png'); background-repeat: no-repeat;
-background-position: 10px 10px;
-color: #eeeeee;
-width: 40px;
-height: 40px;
-line-height: 48px;
-right: 30px;
-bottom: 100px;
-padding-top: 2px;
-border-top-left-radius: 10px;
-border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
-border-bottom-left-radius: 10px;
--webkit-transition: all 0.5s ease-in-out;
--moz-transition: all 0.5s ease-in-out;
--ms-transition: all 0.5s ease-in-out;
--o-transition: all 0.5s ease-in-out;
-transition: all 0.5s ease-in-out;
+  position: fixed;
+  opacity: 0;
+  visibility: hidden;
+  overflow: hidden;
+  text-align: center;
+  z-index: 99999999;
+  background-color: #777777;
+  background-image: url('images/Scroll-to-top-button.png');
+  background-repeat: no-repeat;
+  background-position: 10px 10px;
+  color: #eeeeee;
+  width: 40px;
+  height: 40px;
+  line-height: 48px;
+  right: 30px;
+  bottom: 100px;
+  padding-top: 2px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
+
 .scroll-top-wrapper:hover {
-background-color: #888888;
+  background-color: #888888;
 }
+
 .scroll-top-wrapper.show {
-    visibility:visible;
-    cursor:pointer;
-opacity: 1.0;
+  visibility: visible;
+  cursor: pointer;
+  opacity: 1.0;
 }
+
 .scroll-top-wrapper i.fa {
-line-height: inherit;
+  line-height: inherit;
 }
 
-.footer{width:100%; height: inherit; float:left; margin-top: 20px;}
+.footer {
+  width: 100%;
+  height: inherit;
+  float: left;
+  margin-top: 20px;
+}
 
-.copyright{ width:350px; height:inherit; float:left; margin:0px; font-family:'SEGOEUIL'; font-size:12px; color:#969695; font-weight:normal; line-height:20px; text-align:justify; padding: 10px 0px 0px 30px;}
+.copyright {
+  width: 350px;
+  height: inherit;
+  float: left;
+  margin: 0px;
+  font-family: 'SEGOEUIL';
+  font-size: 12px;
+  color: #969695;
+  font-weight: normal;
+  line-height: 20px;
+  text-align: justify;
+  padding: 10px 0px 0px 30px;
+}
 
-.web{width:250px; height: inherit; float:left; margin:0px; padding:0px;}
-.soccov{width:350px; height: inherit; float:left; margin:0px; padding:0px;}
-.social{width: auto; height:inherit; float:left; margin:3px; font-family:'SEGOEUIL'; font-size:12px; color:#fff; font-weight:bold; line-height:40px;}
+.web {
+  width: 250px;
+  height: inherit;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
 
-#popcover{width:80%; height:inherit; margin:auto; padding:50px; background-color:#00CC66;}
+.soccov {
+	visibility: hidden;
+  width: 350px;
+  height: inherit;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
 
+.social {
+  width: auto;
+  height: inherit;
+  float: left;
+  margin: 3px;
+  font-family: 'SEGOEUIL';
+  font-size: 12px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 40px;
+}
+
+#popcover {
+  width: 80%;
+  height: inherit;
+  margin: auto;
+  padding: 50px;
+  background-color: #00CC66;
+}
 
 @media only screen and (min-width:1000px) and (max-width:1099px) {
-
-	 #fix{width:1000px; height:inherit; margin:auto;}
- #actual{width:1000px; height:inherit; margin:auto;}
- .logoportion{width: 584px; height:584px; margin: 80px 20px 0px 0px; float: left;}
- .logoportion768{display: none;}
-  .mobilemenu{display: none;}
-  .rhside{ width:390Px; height:inherit; float: left; margin:0px; padding: 0PX;}
-  .phonecover{width:360px; height:83px; margin: 25px 0px 0px 0px; float: left; background-image: url('images/chatbg3.png'); background-repeat: no-repeat; background-position: top;}
-.stayintouch{margin:10px 0px 0px 0px; font-size:16px; line-height:25px; padding-left:20px;}
-.number{font-size:16px; color:#fff;line-height:25px; padding-left:30px; float: left;}
-.widimg {height: auto; width: 100%;}
-.caption{font-size:40px; line-height: 30px;}
-.subcaption{font-size:20px;}
-.lhhome{width:480px; height: auto; float: left; margin:50px 5px 20px 0px;}
-.rhhome{width:510px; height: auto; float: left; margin:50px 0px 20px 5px;}
-.photos{ width: auto; height: auto; float: left; margin: 3px;}
-.photoscovr1{width:340px; height: auto; float: left; margin:0px;}
-.photoscovr2{width:160px; height: auto; float: left; margin:0px;}
-.copyright{ width:350px;}
-.web{width:250px;}
-.soccov{width:350px;}
-
-.newspaper{background-image: url('images/newslogobg.png'); background-position: left; background-repeat: no-repeat;
- width: 302px; height: 43px; margin:15px; float: left; padding: 35px 0px 20px 0px; text-align: center;}
-
- .row1{width: 175px; height: auto; float: left; margin:10px 10px 10px 0px;}
- .row2{width: 190px; height: auto; float: left; margin:80px 10px 10px 0px;}
- .row3{width: 220px; height: auto; float: left; margin:200px 10px 10px 0px;}
- .row4{width: 190px; height: auto; float: left; margin:80px 10px 10px 0px;}
- .widimg{width: 100%; height: auto;}
-
- .leftbox{width: 225px; float: left; height: auto;}
-.rightbox{width: 225px; float: right; height: auto;}
-
-	}
-
-
- @media only screen and (min-width:768px) and (max-width:999px) {
-
- #fix{width:768px; height:inherit; margin:auto;}
- #actual{width:768px; height:inherit; margin:auto;}
- .logoportion768{ width: 462px; height:462px; margin: 80px 0px 0px 0px; float: left; display: block;}
-  .logoportion{display: none;}
-  .mobilemenu{display: none;}
-  .rhside{ width:300px; height:inherit; float: left; margin:0px;}
-   .caption{font-size:33px; line-height: 30px;}
-   .subcaption{font-size:15px;}
-  .phonecover{width: 270; height:83px; margin: 25px 0px 0px 0px; float:right; background-image: url('images/chatbg2.png');
- background-repeat: no-repeat; background-position: top;}
-  .stayintouch{width: auto; height:auto; margin:10px 0px 0px 0px; font-family:'SEGOEUIL'; font-size:15px; color:#000; font-weight: normal; line-height:20px; padding-left:20px; float: left;}
-   .number{width: auto; height:auto; margin:0px; font-family:'SEGOEUIL'; font-size:12px; color:#fff; font-weight: bold; line-height:20px; padding-left:20px; float: left;}
- .lhhome{width:385px; height: auto; float: left; margin:50px 5px 20px 0px;}
-.rhhome{width:370px; height: auto; float: left; margin:50px 0px 20px 5px;}
-.photos{ width: auto; height: auto; float: left; margin: 5px;}
-.photoscovr1{width:100%; height: auto; float: left; margin:0px;}
-.photoscovr2{width:100%; height: auto; float: left; margin:0px;}
-.icons{width: auto; height: auto; margin:3px; padding:3px; float: left;}
-.arrowtext{width:95%; float:left; font-family:SEGOEUIL; font-size:13px; color:#504f4f; font-weight:bold; margin:1px 0px; line-height:30px; padding-left:5%; background-image: url('images/arrow.png'); background-repeat: no-repeat;
-background-position: 5px 10px; text-decoration: none; background-color: #fff; border: 1px solid #e0cfc4;}
- .row1{width: 130px; height: auto; float: left; margin:10px 10px 10px 0px;}
- .row2{width: 145px; height: auto; float: left; margin:80px 10px 10px 0px;}
- .row3{width: 160px; height: auto; float: left; margin:200px 10px 10px 0px;}
- .row4{width: 150px; height: auto; float: left; margin:80px 10px 10px 0px;}
- .widimg{width: 100%; height: auto;}
- .researchpagehd{font-size:13px;}
-  .copyright{ width:220px; height:inherit; float:left; margin:0px; font-family:'SEGOEUIL'; font-size:11px; color:#969695; font-weight:normal; line-height:20px; text-align:justify; padding: 10px 0px 0px 0px;}
-
-.web{width:210px; height: inherit; float:left; margin:0px; padding:0px;}
-.soccov{width:310px; height: inherit; float:left; margin:0px; padding:0px;}
-.social{width: auto; height:inherit; float:left; margin:3px; font-family:'SEGOEUIL'; font-size:11px; color:#fff; font-weight:bold; line-height:40px;}
-
-   .galimage{ width:200; height:inherit; float:left; margin:8px; border:1px solid #a5a4a2; padding:5px;}
-.leftbox{width: 225px; float: left; height: auto;}
-.rightbox{width: 225px; float: right; height: auto;}
-
- }
-
- @media(min-width:500px) and (max-width:767px) {
-
- #fix{width:500px; height:inherit; margin:auto;}
- #actual{width:500px; height:inherit; margin:auto;}
- #top{width:100%; height:inherit;}
- .logoportion{ width:220px; text-align:left; display: none;}
- .logoportion768{display: none;}
- .mobilemenu{display: block;}
- .menuportion{ width:500px; margin:0px; height:inherit;}
- .caption{font-size:40px; line-height: 40px; margin: 10px 0px 0px 0px;}
-.photoscovr1{width:100%; margin:10px 0px 0px 0px;}
-.photoscovr2{width:100%; margin:10px 0px 0px 0px;}
-  .redblcbg2{margin-left:0px; width:465px;}
-  .loginfieldsbig{ width:245px; }
- .facecovers{display:none;}
- .faciltycover{ width:110px; display:none;}
-  .names{width:100%;}
-   .rhside{ width:100%; margin: 0px;}
-   .phonecover{width: 100%; height: auto; margin: 25px 0px 0px 0px; float: left; background-color: #e25916; background-image: none;}
-   .copyright{width:60%; padding: 0px; margin: 0px;}
-   .web{width:40%;padding: 0px; margin: 0px; }
-   .soccov{width:270px; float: left; display: none; }
-   .social{margin:0px; }
-    .lhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-.rhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-
-.onebythre{width: 100%; margin: 0px;}
-.onebyfour{width: 100%; margin: 0px;}
-
-.row1{margin:0px; width: 100%; text-align: center;}
-.row2{margin:0px; width: 100%; text-align: center;}
-.row3{margin:0px; width: 100%; text-align: center;}
-.row4{margin:0px; width: 100%; text-align: center;}
-.bgtext{width: 95%; padding: 10px 12px 10px 13px; margin: 0px;}
-
-  .arrowtext{ width:96%; font-size:14px; margin-right:0px;}
-  .galimage{ width:auto; height:inherit; float:left; margin:5px;}
-  .copyright{ width:240px;}
-	 #footer{width:100%; height:inherit; float:left; border-top:3px solid #d37302; background-color:#1c1c1c; background-image:url(images/blc.jpg); background-position:bottom; }
-
-	 .galimage{ width:200; height:inherit; float:left; margin:8px; border:1px solid #a5a4a2; padding:5px;}
-.leftbox{width: 245px; float: left; height: auto;}
-.rightbox{width: 245px; float: right; height: auto;}
-
-.newspaper{background-image:none; border:1px solid #ccc; width: 225px; height: 40px; margin:10px 5px 10px 5px; float: left; padding: 10px 5px 10px 5px; text-align: center; background-color: #fff;}
- }
-
-  @media(min-width:350px) and (max-width:499px) {
-
-  #fix{width:350px; height:inherit; margin:auto;}
-  #actual{width:350px; height:inherit; margin:auto; float:left;}
-   #top{width:100%; height:inherit; float:left;}
-   .logoportion{ width:100%; text-align:center; margin:10px 0px 0px 0px; display: none;}
-   .logoportion768{display: none;}
-   .mobilemenu{display: block;}
-  .caption{font-size:40px; line-height: 40px; margin: 10px 0px 0px 0px;}
-  .lhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-  .rhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-  .photoscovr1{width:100%; margin:10px 0px 0px 0px;}
-.photoscovr2{width:100%; margin:10px 0px 0px 0px;}
- .rhside{ width:100%; margin: 0px;}
- .phonecover{width: 100%; height: auto; margin: 25px 0px 0px 0px; float: left; background-color: #e25916; background-image: none;}
-  .number{width: auto; height:auto; margin:0px; font-family:'SEGOEUIL'; font-size:15px; color:#fff; font-weight: bold; line-height:30px; padding-left:10px; float: left;}
-  .stayintouch{font-size:15px;padding-left:10px;}
-  .subcaption{font-size:18px;}
-
- .arrowtext{ width:94.5%; font-size:14px; margin-right:0px; padding-left: 5%;}
-
- .onebythre{width: 100%; margin: 0px;}
-.onebyfour{width: 100%; margin: 0px;}
-
-.row1{margin:0px; width: 100%; text-align: center;}
-.row2{margin:0px; width: 100%; text-align: center;}
-.row3{margin:0px; width: 100%; text-align: center;}
-.row4{margin:0px; width: 100%; text-align: center;}
-.bgtext{width: 93%; padding: 10px 12px 10px 13px; margin: 0px;}
-
- #footer{width:100%; height:inherit; float:left; border-top:3px solid #d37302; background-color:#1c1c1c;
- background-image:url(images/blc.jpg); background-position:bottom; }
- .footmenucover{width:100%; float: left; margin:0px; height: auto;}
-    .copyright{ width:100%; margin: 0px; padding: 0px;}
-	 .web{ width:100%; margin: 0px; padding: 0px;}
-    .soccov{display: none;}
-
-.leftbox{width: 100%; float: left; height: auto;}
-.rightbox{width: 100%; float: left; height: auto;}
-
-
+  #fix {
+    width: 1000px;
+    height: inherit;
+    margin: auto;
   }
 
-
-  @media(min-width:250px) and (max-width:349px) {
-
-  #fix{width:250px; height:inherit; margin:auto;}
-  #actual{width:250px; height:inherit; margin:auto; float:left;}
-  #top{width:100%; height:inherit; float:left;}
-  .logoportion{display: none;}
-  .logoportion768{display: none;}
-   .mobilemenu{display: block;}
-   .icons{width:100%; height: auto; margin:0px; padding:0px; float: left; text-align: center;}
-   .caption{font-size:40px; line-height: 40px; margin: 10px 0px 0px 0px;}
-  .lhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-  .rhhome{width:100%; height: auto; float: left; margin:20px 0px 20px 0px;}
-  .photoscovr1{width:100%; margin:10px 0px 0px 0px;}
-  .photoscovr2{width:100%; margin:10px 0px 0px 0px;}
-  .photos{width:100%; text-align: center; margin: 10px 0px 0px 0px; padding: 0px;}
-  .semimg{width: 220px; float: left; }
-  .bordshadow{margin: 5px 0px 5px 0px;}
-  .galhedrs{font-size: 12px; }
-   .bgtext strong{font-weight: bold; font-size: 12px; text-align: left;}
- .rhside{ width:100%; margin: 0px;}
- .phonecover{width: 100%; height: auto; margin: 25px 0px 0px 0px; float: left; background-color: #e25916; background-image: none;}
-  .number{width: auto; height:auto; margin:0px; font-family:'SEGOEUIL'; font-size:15px; color:#fff; font-weight: bold; line-height:30px; padding-left:10px; float: left;}
-  .stayintouch{font-size:15px;padding-left:10px;}
-  .subcaption{font-size:18px;}
-   .arrowtext{ width:93%; font-size:13px; margin-right:0px; padding-left: 6%;}
-    .onebythre{width: 100%; margin: 0px;}
-.onebyfour{width: 100%; margin: 0px;}
-
-.row1{margin:0px; width: 100%; text-align: center;}
-.row2{margin:0px; width: 100%; text-align: center;}
-.row3{margin:0px; width: 100%; text-align: center;}
-.row4{margin:0px; width: 100%; text-align: center;}
-.bgtext{width: 93%; padding: 10px 12px 10px 13px; margin: 0px;}
-  .bordimg{margin: 3px 0px 3px 0px; padding: 1px; border:1px solid #cacec0; width: 100%; float: left;}
-
- #footer{width:100%; height:inherit; float:left; border-top:3px solid #d37302; background-color:#1c1c1c;
- background-image:url(images/blc.jpg); background-position:bottom; }
-  .footmenucover{width:100%; float: left; margin:0px; height: auto;}
-   .copyright{ width:100%; margin: 0px; padding: 0px;}
-	 .web{ width:100%; margin: 0px; padding: 0px;}
-    .soccov{display: none;}
-
-	.leftbox{width: 100%; float: left; height: auto;}
-.rightbox{width: 100%; float: left; height: auto;}
-
- .newspaper{background-image:none; border:1px solid #ccc; width: 240px; height: auto; margin:10px 0px 10px 0px; float: left; padding: 5px 0px 5px 0px; text-align: center; background-color: #fff;}
-
+  #actual {
+    width: 1000px;
+    height: inherit;
+    margin: auto;
   }
+
+  .logoportion {
+    width: 584px;
+    height: 584px;
+    margin: 80px 20px 0px 0px;
+    float: left;
+  }
+
+  .logoportion768 {
+    display: none;
+  }
+
+  .mobilemenu {
+    display: none;
+  }
+
+  .rhside {
+    width: 390Px;
+    height: inherit;
+    float: left;
+    margin: 0px;
+    padding: 0PX;
+  }
+
+  .phonecover {
+    width: 360px;
+    height: 83px;
+    margin: 25px 0px 0px 0px;
+    float: left;
+    background-image: url('images/chatbg3.png');
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+  .stayintouch {
+    margin: 10px 0px 0px 0px;
+    font-size: 16px;
+    line-height: 25px;
+    padding-left: 20px;
+  }
+
+  .number {
+    font-size: 16px;
+    color: #fff;
+    line-height: 25px;
+    padding-left: 30px;
+    float: left;
+  }
+
+  .widimg {
+    height: auto;
+    width: 100%;
+  }
+
+  .caption {
+    font-size: 40px;
+    line-height: 30px;
+  }
+
+  .subcaption {
+    font-size: 20px;
+  }
+
+  .lhhome {
+    width: 480px;
+    height: auto;
+    float: left;
+    margin: 50px 5px 20px 0px;
+  }
+
+  .rhhome {
+    width: 510px;
+    height: auto;
+    float: left;
+    margin: 50px 0px 20px 5px;
+  }
+
+  .photos {
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 3px;
+  }
+
+  .photoscovr1 {
+    width: 340px;
+    height: auto;
+    float: left;
+    margin: 0px;
+  }
+
+  .photoscovr2 {
+    width: 160px;
+    height: auto;
+    float: left;
+    margin: 0px;
+  }
+
+  .copyright {
+    width: 350px;
+  }
+
+  .web {
+    width: 250px;
+  }
+
+  .soccov {
+    width: 350px;
+  }
+
+  .newspaper {
+    background-image: url('images/newslogobg.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    width: 302px;
+    height: 43px;
+    margin: 15px;
+    float: left;
+    padding: 35px 0px 20px 0px;
+    text-align: center;
+  }
+
+  .row1 {
+    width: 175px;
+    height: auto;
+    float: left;
+    margin: 10px 10px 10px 0px;
+  }
+
+  .row2 {
+    width: 190px;
+    height: auto;
+    float: left;
+    margin: 80px 10px 10px 0px;
+  }
+
+  .row3 {
+    width: 220px;
+    height: auto;
+    float: left;
+    margin: 200px 10px 10px 0px;
+  }
+
+  .row4 {
+    width: 190px;
+    height: auto;
+    float: left;
+    margin: 80px 10px 10px 0px;
+  }
+
+  .widimg {
+    width: 100%;
+    height: auto;
+  }
+
+  .leftbox {
+    width: 225px;
+    float: left;
+    height: auto;
+  }
+
+  .rightbox {
+    width: 225px;
+    float: right;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:999px) {
+  #fix {
+    width: 768px;
+    height: inherit;
+    margin: auto;
+  }
+
+  #actual {
+    width: 768px;
+    height: inherit;
+    margin: auto;
+  }
+
+  .logoportion768 {
+    width: 462px;
+    height: 462px;
+    margin: 80px 0px 0px 0px;
+    float: left;
+    display: block;
+  }
+
+  .logoportion {
+    display: none;
+  }
+
+  .mobilemenu {
+    display: none;
+  }
+
+  .rhside {
+    width: 300px;
+    height: inherit;
+    float: left;
+    margin: 0px;
+  }
+
+  .caption {
+    font-size: 33px;
+    line-height: 30px;
+  }
+
+  .subcaption {
+    font-size: 15px;
+  }
+
+  .phonecover {
+    width: 270;
+    height: 83px;
+    margin: 25px 0px 0px 0px;
+    float: right;
+    background-image: url('images/chatbg2.png');
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+  .stayintouch {
+    width: auto;
+    height: auto;
+    margin: 10px 0px 0px 0px;
+    font-family: 'SEGOEUIL';
+    font-size: 15px;
+    color: #000;
+    font-weight: normal;
+    line-height: 20px;
+    padding-left: 20px;
+    float: left;
+  }
+
+  .number {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    font-family: 'SEGOEUIL';
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 20px;
+    padding-left: 20px;
+    float: left;
+  }
+
+  .lhhome {
+    width: 385px;
+    height: auto;
+    float: left;
+    margin: 50px 5px 20px 0px;
+  }
+
+  .rhhome {
+    width: 370px;
+    height: auto;
+    float: left;
+    margin: 50px 0px 20px 5px;
+  }
+
+  .photos {
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 5px;
+  }
+
+  .photoscovr1 {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 0px;
+  }
+
+  .photoscovr2 {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 0px;
+  }
+
+  .icons {
+    width: auto;
+    height: auto;
+    margin: 3px;
+    padding: 3px;
+    float: left;
+  }
+
+  .arrowtext {
+    width: 95%;
+    float: left;
+    font-family: SEGOEUIL;
+    font-size: 13px;
+    color: #504f4f;
+    font-weight: bold;
+    margin: 1px 0px;
+    line-height: 30px;
+    padding-left: 5%;
+    background-image: url('images/arrow.png');
+    background-repeat: no-repeat;
+    background-position: 5px 10px;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #e0cfc4;
+  }
+
+  .row1 {
+    width: 130px;
+    height: auto;
+    float: left;
+    margin: 10px 10px 10px 0px;
+  }
+
+  .row2 {
+    width: 145px;
+    height: auto;
+    float: left;
+    margin: 80px 10px 10px 0px;
+  }
+
+  .row3 {
+    width: 160px;
+    height: auto;
+    float: left;
+    margin: 200px 10px 10px 0px;
+  }
+
+  .row4 {
+    width: 150px;
+    height: auto;
+    float: left;
+    margin: 80px 10px 10px 0px;
+  }
+
+  .widimg {
+    width: 100%;
+    height: auto;
+  }
+
+  .researchpagehd {
+    font-size: 13px;
+  }
+
+  .copyright {
+    width: 220px;
+    height: inherit;
+    float: left;
+    margin: 0px;
+    font-family: 'SEGOEUIL';
+    font-size: 11px;
+    color: #969695;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: justify;
+    padding: 10px 0px 0px 0px;
+  }
+
+  .web {
+    width: 210px;
+    height: inherit;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .soccov {
+    width: 310px;
+    height: inherit;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .social {
+    width: auto;
+    height: inherit;
+    float: left;
+    margin: 3px;
+    font-family: 'SEGOEUIL';
+    font-size: 11px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 40px;
+  }
+
+  .galimage {
+    width: 200;
+    height: inherit;
+    float: left;
+    margin: 8px;
+    border: 1px solid #a5a4a2;
+    padding: 5px;
+  }
+
+  .leftbox {
+    width: 225px;
+    float: left;
+    height: auto;
+  }
+
+  .rightbox {
+    width: 225px;
+    float: right;
+    height: auto;
+  }
+}
+
+@media(min-width:500px) and (max-width:767px) {
+  #fix {
+    width: 500px;
+    height: inherit;
+    margin: auto;
+  }
+
+  #actual {
+    width: 500px;
+    height: inherit;
+    margin: auto;
+  }
+
+  #top {
+    width: 100%;
+    height: inherit;
+  }
+
+  .logoportion {
+    width: 220px;
+    text-align: left;
+    display: none;
+  }
+
+  .logoportion768 {
+    display: none;
+  }
+
+  .mobilemenu {
+    display: block;
+  }
+
+  .menuportion {
+    width: 500px;
+    margin: 0px;
+    height: inherit;
+  }
+
+  .caption {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .photoscovr1 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .photoscovr2 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .redblcbg2 {
+    margin-left: 0px;
+    width: 465px;
+  }
+
+  .loginfieldsbig {
+    width: 245px;
+  }
+
+  .facecovers {
+    display: none;
+  }
+
+  .faciltycover {
+    width: 110px;
+    display: none;
+  }
+
+  .names {
+    width: 100%;
+  }
+
+  .rhside {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .phonecover {
+    width: 100%;
+    height: auto;
+    margin: 25px 0px 0px 0px;
+    float: left;
+    background-color: #e25916;
+    background-image: none;
+  }
+
+  .copyright {
+    width: 60%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .web {
+    width: 40%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .soccov {
+    width: 270px;
+    float: left;
+    display: none;
+  }
+
+  .social {
+    margin: 0px;
+  }
+
+  .lhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .rhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .onebythre {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .onebyfour {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .row1 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row2 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row3 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row4 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .bgtext {
+    width: 95%;
+    padding: 10px 12px 10px 13px;
+    margin: 0px;
+  }
+
+  .arrowtext {
+    width: 96%;
+    font-size: 14px;
+    margin-right: 0px;
+  }
+
+  .galimage {
+    width: auto;
+    height: inherit;
+    float: left;
+    margin: 5px;
+  }
+
+  .copyright {
+    width: 240px;
+  }
+
+  #footer {
+    width: 100%;
+    height: inherit;
+    float: left;
+    border-top: 3px solid #d37302;
+    background-color: #1c1c1c;
+    background-image: url(images/blc.jpg);
+    background-position: bottom;
+  }
+
+  .galimage {
+    width: 200;
+    height: inherit;
+    float: left;
+    margin: 8px;
+    border: 1px solid #a5a4a2;
+    padding: 5px;
+  }
+
+  .leftbox {
+    width: 245px;
+    float: left;
+    height: auto;
+  }
+
+  .rightbox {
+    width: 245px;
+    float: right;
+    height: auto;
+  }
+
+  .newspaper {
+    background-image: none;
+    border: 1px solid #ccc;
+    width: 225px;
+    height: 40px;
+    margin: 10px 5px 10px 5px;
+    float: left;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    background-color: #fff;
+  }
+}
+
+@media(min-width:350px) and (max-width:499px) {
+  #fix {
+    width: 350px;
+    height: inherit;
+    margin: auto;
+  }
+
+  #actual {
+    width: 350px;
+    height: inherit;
+    margin: auto;
+    float: left;
+  }
+
+  #top {
+    width: 100%;
+    height: inherit;
+    float: left;
+  }
+
+  .logoportion {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    display: none;
+  }
+
+  .logoportion768 {
+    display: none;
+  }
+
+  .mobilemenu {
+    display: block;
+  }
+
+  .caption {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .lhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .rhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .photoscovr1 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .photoscovr2 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .rhside {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .phonecover {
+    width: 100%;
+    height: auto;
+    margin: 25px 0px 0px 0px;
+    float: left;
+    background-color: #e25916;
+    background-image: none;
+  }
+
+  .number {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    font-family: 'SEGOEUIL';
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 30px;
+    padding-left: 10px;
+    float: left;
+  }
+
+  .stayintouch {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+
+  .subcaption {
+    font-size: 18px;
+  }
+
+  .arrowtext {
+    width: 94.5%;
+    font-size: 14px;
+    margin-right: 0px;
+    padding-left: 5%;
+  }
+
+  .onebythre {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .onebyfour {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .row1 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row2 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row3 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row4 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .bgtext {
+    width: 93%;
+    padding: 10px 12px 10px 13px;
+    margin: 0px;
+  }
+
+  #footer {
+    width: 100%;
+    height: inherit;
+    float: left;
+    border-top: 3px solid #d37302;
+    background-color: #1c1c1c;
+    background-image: url(images/blc.jpg);
+    background-position: bottom;
+  }
+
+  .footmenucover {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    height: auto;
+  }
+
+  .copyright {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .web {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .soccov {
+    display: none;
+  }
+
+  .leftbox {
+    width: 100%;
+    float: left;
+    height: auto;
+  }
+
+  .rightbox {
+    width: 100%;
+    float: left;
+    height: auto;
+  }
+}
+
+@media(min-width:250px) and (max-width:349px) {
+  #fix {
+    width: 250px;
+    height: inherit;
+    margin: auto;
+  }
+
+  #actual {
+    width: 250px;
+    height: inherit;
+    margin: auto;
+    float: left;
+  }
+
+  #top {
+    width: 100%;
+    height: inherit;
+    float: left;
+  }
+
+  .logoportion {
+    display: none;
+  }
+
+  .logoportion768 {
+    display: none;
+  }
+
+  .mobilemenu {
+    display: block;
+  }
+
+  .icons {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    text-align: center;
+  }
+
+  .caption {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .lhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .rhhome {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 20px 0px 20px 0px;
+  }
+
+  .photoscovr1 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .photoscovr2 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+  }
+
+  .photos {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+  }
+
+  .semimg {
+    width: 220px;
+    float: left;
+  }
+
+  .bordshadow {
+    margin: 5px 0px 5px 0px;
+  }
+
+  .galhedrs {
+    font-size: 12px;
+  }
+
+  .bgtext strong {
+    font-weight: bold;
+    font-size: 12px;
+    text-align: left;
+  }
+
+  .rhside {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .phonecover {
+    width: 100%;
+    height: auto;
+    margin: 25px 0px 0px 0px;
+    float: left;
+    background-color: #e25916;
+    background-image: none;
+  }
+
+  .number {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    font-family: 'SEGOEUIL';
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 30px;
+    padding-left: 10px;
+    float: left;
+  }
+
+  .stayintouch {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+
+  .subcaption {
+    font-size: 18px;
+  }
+
+  .arrowtext {
+    width: 93%;
+    font-size: 13px;
+    margin-right: 0px;
+    padding-left: 6%;
+  }
+
+  .onebythre {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .onebyfour {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .row1 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row2 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row3 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .row4 {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .bgtext {
+    width: 93%;
+    padding: 10px 12px 10px 13px;
+    margin: 0px;
+  }
+
+  .bordimg {
+    margin: 3px 0px 3px 0px;
+    padding: 1px;
+    border: 1px solid #cacec0;
+    width: 100%;
+    float: left;
+  }
+
+  #footer {
+    width: 100%;
+    height: inherit;
+    float: left;
+    border-top: 3px solid #d37302;
+    background-color: #1c1c1c;
+    background-image: url(images/blc.jpg);
+    background-position: bottom;
+  }
+
+  .footmenucover {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    height: auto;
+  }
+
+  .copyright {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .web {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .soccov {
+    display: none;
+  }
+
+  .leftbox {
+    width: 100%;
+    float: left;
+    height: auto;
+  }
+
+  .rightbox {
+    width: 100%;
+    float: left;
+    height: auto;
+  }
+
+  .newspaper {
+    background-image: none;
+    border: 1px solid #ccc;
+    width: 240px;
+    height: auto;
+    margin: 10px 0px 10px 0px;
+    float: left;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    background-color: #fff;
+  }
+}
 
 /* Custom styles here */
- @media screen and (max-width:600px) {
-		.rmm.sapphire {
-			display: none;
-		}
+@media screen and (max-width:600px) {
+  .rmm.sapphire {
+    display: none;
+  }
 
-		.rhside {
-			margin-top: 150px;
-		}
+  .rhside {
+    margin-top: 150px;
+  }
 
-		.rmm.sapphire {
-			display: block;
-			position: absolute;
-			top: 0px;
-			left: 0;
-			right:0;
-			z-index: 999;
-		}
-		.rmm.sapphire .rmm-toggled {
-			width: 100% !important;
-			border-radius: 0 !important;
-		}
-		.mobilemenu img.spacer {
-			position: relative;
-			top: 40px;
-		}
+  .rmm.sapphire {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
+
+  .rmm.sapphire .rmm-toggled {
+    width: 100% !important;
+    border-radius: 0 !important;
+  }
+
+  .mobilemenu img.spacer {
+    position: relative;
+    top: 40px;
+  }
 }
