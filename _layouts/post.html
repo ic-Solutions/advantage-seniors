@@ -1,0 +1,19 @@
+---
+layout: new-default
+---
+<section class="blog-index py-5">
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 py-2">
+        <img class="img-fluid pb-3" src="{{page.image}}" alt="{{page.title}}">
+        {{content}}
+      </div>
+
+  {% include blog-sidebar.html %}
+
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>

@@ -3,6 +3,7 @@ layout: compress
 title: Lionel's World
 description:
 image:
+redirect_to: /
 ---
 
 <!DOCTYPE html>
@@ -195,7 +196,7 @@ image:
   <div class="col-12 col-md-4 mt-20">
     <div class="card border-0 shadow">
       <div class="card-img-top image">
-        <img src="{{item.image}}" alt="{{item.title}}">
+        <img src="{{item.image}}" alt="{{item.title}}" >
       </div>
       <div class="card-body">
         <h5 class="title">{{item.title}}</h5>
@@ -313,4 +314,3 @@ image:
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>
-

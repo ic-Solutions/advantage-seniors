@@ -1,0 +1,34 @@
+---
+# front matter here
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include new-head.html %}
+<body id="page-top">
+{% include new-navigation.html %}
+{% include new-header.html %}
+
+{{content}}
+
+{% include new-footer.html %}
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <!-- <script src="/assets/js/scrolling-nav.js"></script> -->
+
+  <script src="/assets/js/main.js"></script>
+
+  <!-- Chat JavaScript -->
+  {% include chat.html %}
+
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+---
+layout: new-default
+title: Welcome to Lionel's World
+redirect_from:
+  - /lionels-world.html
+permalink: /lionels-world/
+---
+
+
+<section id="lionels-cards">
+  <div class="container">
+    <div class="row justify-content-md-center">
+    {% for item in site.data.lionel %}
+    <div class="col-12 col-md-4 mt-20">
+      <div class="card border shadow">
+        <div class="card-img-top image">
+          <img height="300" src="{{item.image}}" alt="{{item.title}}">
+        </div>
+        <div class="card-body">
+          <h5 class="title">{{item.title}}</h5>
+          <p>{{item.description | truncate: 60}}</p>
+          <div class="text-right">
+            <button type="button" class="btn btn-sm btn-success" data-toggle="modal" data-target="#lionel-{{forloop.index}}">Read more...</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- The Modal -->
+    <div class="modal" id="lionel-{{forloop.index}}">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <!-- Modal body -->
+          <div class="modal-body">
+            <img class="img-fluid" src="{{item.image}}" alt="{{item.title}}">
+            <br>
+            <div class="cont">
+              <h5 class="modal-title">{{item.title}}</h5>
+              <br>
+              {% for p in item.content %}
+                <p>{{p}}</p>
+              {% endfor %}
+            </div>
+          </div>
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+
+
+
+
+    </div>
+  </div>
+</section>

@@ -1,0 +1,127 @@
+/* Add your custom styles here */
+img {
+  max-width: 100%;
+}
+
+.navbar {
+  padding: 1rem;
+}
+.bg-trans {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+#lionels-cards {
+  .card {
+    margin-bottom: 2em;
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    h5 {
+      font-size: $font-size;
+      font-weight: bold;
+    }
+
+  }
+
+  .modal-dialog {
+    max-width: 800px;
+  }
+}
+
+
+
+//footer
+footer {
+  color: #eee;
+
+  a {
+    color: #eee;
+    &:hover {
+      color: $brand-color;
+    }
+  }
+
+  h4 {
+     @include media-query($on-palm) {
+          margin-top: 2em;
+     }
+   }
+
+
+  .logo {
+
+    display: inline-block;
+    border: 3px solid #ddd;
+    border-radius: 1px;
+    padding: 8px 15px;
+    margin-bottom: 1em;
+
+    &:hover {
+        border-color: $brand-color;
+        cursor: pointer;
+    }
+
+
+    &:hover img {
+      filter: grayscale(0);
+    }
+
+    img {
+      filter: grayscale(100);
+    }
+
+
+    &:hover a {
+      color: $brand-color;
+      text-decoration: none;
+    }
+
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  .payment {
+    li {
+      list-style: none;
+      display: inline-block;
+      margin-right: 10px;
+    }
+  }
+
+  .social {
+    margin-right: 10px;
+  }
+  hr {
+    margin-top: 2em !important;
+    width: 100%;
+  }
+}
+
+
+//navbar
+.navbar-dark .navbar-nav .nav-link {
+  color: #eee;
+  &:hover {
+    color: white;
+  }
+}
+
+
+//blog section
+.btn-primary {
+  color: white;
+  &:hover, &:focus, &:active {
+    color: white;
+  }
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show>.btn-primary.dropdown-toggle {
+    color: white;
+}
