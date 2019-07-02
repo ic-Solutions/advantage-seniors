@@ -5,6 +5,7 @@ body {
   padding: 0px;
   margin: 0px;
   background-color: #e5e5e5;
+  overflow-x: hidden;
 }
 
 @font-face {
@@ -61,7 +62,7 @@ body {
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/footbg.png');
+  /* background-image: url('images/footbg.png'); */
   background-position: bottom;
   background-repeat: repeat-x;
 }
@@ -266,7 +267,7 @@ body {
 }
 
 .footmenucover {
-  width: 430PX;
+  width: 375PX;
   height: 23PX;
   margin: 15px auto 0px auto;
   padding: 5px 10px;
@@ -825,14 +826,18 @@ body {
 }
 
 .footer {
-  width: 100%;
+  position: relative;
+  left: 50%;
   height: inherit;
   float: left;
   margin-top: 20px;
+  width: 100vw;
+  margin-left: -50vw;
+  background: #555;
 }
 
 .copyright {
-  width: 350px;
+  /* width: 350px;
   height: inherit;
   float: left;
   margin: 0px;
@@ -842,7 +847,16 @@ body {
   font-weight: normal;
   line-height: 20px;
   text-align: justify;
-  padding: 10px 0px 0px 30px;
+  padding: 10px 0px 0px 30px; */
+  max-width: 80%;
+  margin: 0 auto;
+  font-size: 14px;
+  color: #969695;
+  font-family: 'SEGOEUIL';
+  font-weight: normal;
+  padding: 20px;
+  float: none !important;
+  text-align: center !important;
 }
 
 .web {
@@ -1242,17 +1256,12 @@ body {
   }
 
   .copyright {
-    width: 220px;
     height: inherit;
-    float: left;
-    margin: 0px;
     font-family: 'SEGOEUIL';
-    font-size: 11px;
+    font-size: 14px;
     color: #969695;
     font-weight: normal;
     line-height: 20px;
-    text-align: justify;
-    padding: 10px 0px 0px 0px;
   }
 
   .web {
