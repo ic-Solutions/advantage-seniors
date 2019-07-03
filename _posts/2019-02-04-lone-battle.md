@@ -7,7 +7,7 @@ author:
   - Roshan Jacob
   - Soumya Nair
 ---
-Mrs. Arathi Mukharjee a 54 - year old wife, had to wind up her carrier to care for her husband who is ailing with pseudo bulbar palsy, a crippling disorder in the highest order. Husband being diagnosed with this progressive, chronic clinical condition Mrs. Mukherjee had to dash into the role of a primary care giver.
+**Mrs. Arathi Mukharjee** a 54 - year old wife, had to wind up her carrier to care for her husband who is ailing with pseudo bulbar palsy, a crippling disorder in the highest order. Husband being diagnosed with this progressive, chronic clinical condition Mrs. Mukherjee had to dash into the role of a primary care giver.
 
 It was nothing but a bolt from the blue for the Mukherjee couple and had to shelve all their post retirement plans as they were caught unawares into a desperate situation so early in life.
 
@@ -56,7 +56,7 @@ Spouses are often not the best direct caregivers and this the point I want to hi
 I know it wasn't just Mom who had problems with this caregiving role many others also feel the same. I also know it had nothing to do with her love for him. She just couldn't be his daily, hands-on caregiver.
 
 The emotional pain was too great. I believe this happens more often with diseases such as dementia, which affect the brain, than with physical ailments. The main advice I have for people who run into this problem is to roll with it. And seek outside help. When you take action, both parents will probably be happier.
-
+**
 ## Conclusion
 I have seen many caregiving spouses knowingly or unknowingly resorting to neglect and abuse when the caregiving tasks are overwhelming. An ill elder is more likely to be abused by an elderly well spouse than by adult children or other caregivers. Sometimes that is because of a history of spousal abuse, but often it's not. Many a time it is out of desperation, the spousal caregiver neglect or abuse the ailing spouse. To pre-empt such untoward incidents like spousal abuse, better to hire in-home help for as long as that works. That relieves the ‘well’ spouse of some responsibility and this freedom can be a life saver, literally. Then, when that no longer works, move the parent or parents to assisted living or if needed, a nursing home. Adult children must try to understand your aged parent who can't be a primary caregiver to the ailing spouse in all the cases.
 
