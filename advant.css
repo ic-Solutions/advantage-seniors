@@ -267,7 +267,7 @@ body {
 }
 
 .footmenucover {
-  width: 375PX;
+  width: 400PX;
   height: 23PX;
   margin: 15px auto 0px auto;
   padding: 5px 10px;
@@ -834,6 +834,8 @@ body {
   width: 100vw;
   margin-left: -50vw;
   background: #555;
+  overflow-x: hidden;
+  /* max-width: 100%; */
 }
 
 .copyright {
@@ -868,8 +870,7 @@ body {
 }
 
 .soccov {
-	visibility: hidden;
-  width: 350px;
+	display: none;
   height: inherit;
   float: left;
   margin: 0px;

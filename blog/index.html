@@ -1,12 +1,14 @@
 ---
 layout: blog
-title: Advantage Seniors Blog
+title: advantAGE Seniors Blog
+description: Are you looking for a place to keep your loved one?
 permalink: /blog/
 ---
 
 <!-- Blog Entries Column -->
-{% for post in site.posts %}
+
 <div class="col-md-8">
+  {% for post in site.posts %}
   <!-- Blog Post -->
   <div class="card mb-4">
     <img class="card-img-top" src="{{post.image}}" alt="Card image cap">
@@ -17,9 +19,10 @@ permalink: /blog/
     </div>
     <div class="card-footer text-muted">
       Posted on {{ post.date | date: '%d %B, %Y' }} by
-      <a href="/know_as.html">{{post.author}}</a>
+      <a href="/know_as.html">{{post.author | join: ', '}}</a>
     </div>
   </div>
+  {% endfor %}
   <!-- Pagination -->
   <ul class="pagination justify-content-center mb-4">
     <li class="page-item">
@@ -30,4 +33,3 @@ permalink: /blog/
     </li>
   </ul>
 </div>
-{% endfor %}

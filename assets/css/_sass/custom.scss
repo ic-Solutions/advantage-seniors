@@ -6,8 +6,23 @@ img {
 .navbar {
   padding: 1rem;
 }
-.bg-trans {
-  background-color: rgba(0, 0, 0, 0.1) !important;
+
+header {
+  img {
+    text-align: right;
+    margin-right: 2rem;
+    @include media-query($on-palm) {
+      text-align: center;
+      margin-right: 0;
+    }
+  }
+
+  .title, .lead {
+    text-align: left;
+    @include media-query($on-palm) {
+      text-align: center;
+    }
+  }
 }
 
 #lionels-cards {

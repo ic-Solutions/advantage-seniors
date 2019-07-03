@@ -1,12 +1,12 @@
 
   <!-- Footer -->
-  <footer class="footer py-5 bg-dark">
+  <footer class="footer pt-5 bg-dark">
       <div class="container">
           <div class="row">
               <div class="col-md-5">
                   <div class="logo">
                   <img width="50" class="img-fluid pb-3" src="/images/advantage-new-logo.png" alt="{{site.title}}">
-                    <a class="js-scroll-trigger" href="#page-top">{{site.title}}</a></div>
+                    <a href="/">{{site.title}}</a></div>
                   <p>When you feel the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors bangalore is the best elder care home.</p>
                   <ul class="social-icon">
                     <a href="https://www.facebook.com/Advantage-Seniors-Consulting-1671134279867943/" class="social"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -14,7 +14,7 @@
                     <a href="https://www.instagram.com/advantage.seniors/" class="social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     <a href="http://www.linkedin.com/company/advantageseniors" class="social"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     <a href="http://in.pinterest.com/advantagengageseniors/" class="social"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                    <!-- <a href="mailto:hello@email.com" class="social"><i class="fa fa-envelope" aria-hidden="true"></i></a> -->
+                    <a href="mailto:advantagejacob@gmail.com" class="social"><i class="fa fa-envelope" aria-hidden="true"></i></a>
                   </ul>
               </div>
               <div class="col-md-3">
@@ -23,6 +23,9 @@
                       <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/">Home</a> </li>
                       <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/know_as.html">Know Us</a> </li>
                       <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/case_studies.html">Case Studies</a> </li>
+                      {% if page.url != '/blog/' %}
+                      <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/blog/">Blog</a> </li>
+                      {% endif %}
                       <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="javascript:void(Tawk_API.toggle())">Contact</a> </li>
                   </ul>
               </div>
