@@ -7,6 +7,17 @@ img {
   padding: 1rem;
 }
 
+
+blockquote {
+  font-size: 2rem;
+  font-style: italic;
+  font-family: -apple-system,".sfnstext-regular",san francisco,roboto,segoe ui,helvetica neue,lucida grande,Arial,sans-serif;
+  border-left: 6px solid $brand-color;
+  padding-left: 1rem;
+  margin-left: 1rem;
+}
+
+
 header {
   img {
     text-align: right;
