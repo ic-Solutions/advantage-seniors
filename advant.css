@@ -267,7 +267,8 @@ body {
 }
 
 .footmenucover {
-  width: 400PX;
+  display: flex;
+  justify-content: center;
   height: 23PX;
   margin: 15px auto 0px auto;
   padding: 5px 10px;
@@ -850,13 +851,13 @@ body {
   line-height: 20px;
   text-align: justify;
   padding: 10px 0px 0px 30px; */
-  max-width: 80%;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
   font-size: 14px;
   color: #969695;
   font-family: 'SEGOEUIL';
   font-weight: normal;
-  padding: 20px;
+  padding: 5px;
   float: none !important;
   text-align: center !important;
 }
@@ -2010,4 +2011,19 @@ body {
     position: relative;
     top: 40px;
   }
+}
+
+
+
+
+.social-icons {
+  display: flex;
+  /* width: 20%; */
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.social-icons i {
+  font-size: 20px;
+  margin-right: 10px;
 }
