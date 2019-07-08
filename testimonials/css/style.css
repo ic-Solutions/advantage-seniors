@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -12,14 +12,14 @@ Primary style
 body {
   font-size: 100%;
   font-family: "Helvetica Neue", sans-serif;
-  color: #39393c;  
+  color: #39393c;
 }
 
 @font-face {
 	font-family: 'SEGOEUIL';
 	src: url('../../images/fonts/SEGOEUIL.eot');
-	src: local('SEGOEUIL'), 
-	url('../../images/fonts//SEGOEUIL.woff') format('woff'), 
+	src: local('SEGOEUIL'),
+	url('../../images/fonts//SEGOEUIL.woff') format('woff'),
 	url('../../images/fonts/SEGOEUIL.ttf') format('truetype');
 }
 
@@ -32,9 +32,9 @@ img {
   max-width: 100%;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 .cd-testimonials-wrapper {
@@ -109,13 +109,13 @@ Main components
 }
 @media only screen and (min-width: 768px) {
   .cd-testimonials p {
-    font-size: 14px;
-    
+    font-size: 18px;
+
   }
 }
 @media only screen and (min-width: 1170px) {
-  .cd-testimonials p {    
-    font-size: 14px;
+  .cd-testimonials p {
+    font-size: 20px;
     line-height: 1.6;
 	text-align: justify;
   }

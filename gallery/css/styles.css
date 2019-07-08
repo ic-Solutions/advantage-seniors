@@ -24,7 +24,7 @@ body{font: 12px Arial, Helvetica, sans-serif, "Arial Narrow";color:#a5a5a5;}
 .portfolio-content, .portfolio-area{width:100%;}
 .title-page{font-size:40px;margin:50px 0px 60px 0px; color:#fff;}
 .goto{float:right;width:130px;margin:-80px 30px 0px 0px;}
-.post-subtitle-portfolio{font: 12px Arial; font-weight: bold; color:#000;}
+.post-subtitle-portfolio{font: 12px Arial !important; font-weight: bold !important; color:#000;}
 
 /**** PORTFOLIO STYLES*****/
 .portfolio-categ{margin-bottom:30px;}

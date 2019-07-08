@@ -161,7 +161,7 @@ line-height: 2;
   font-size: 18px;
   color: #1c1c1c;
   font-weight: lighter;
-  line-height: 20px;
+  line-height: 1.8;
 }
 
 .logoportion {
@@ -247,7 +247,7 @@ line-height: 2;
   height: auto;
   margin: 0px 0px 0px 0px;
   font-family: 'SEGOEUIL';
-  font-size: 15px;
+  font-size: 12px;
   color: #fff;
   font-weight: bold;
   line-height: 20px;
@@ -456,10 +456,10 @@ line-height: 2;
   margin: 0px;
   float: left;
   font-family: SEGOEUIL;
-  font-size: 15px;
+  font-size: 20px;
   color: #000;
   font-weight: lighter;
-  line-height: 22px;
+  line-height: 2;
   background-color: #fff;
   padding: 10px 2%;
   text-align: justify;
@@ -467,6 +467,12 @@ line-height: 2;
 
 .bgtext strong {
   font-weight: bold;
+  font-weight: 20px;
+}
+
+.bgtext p {
+  font-size: 20px;
+  line-height: 2;
 }
 
 .spacer {
