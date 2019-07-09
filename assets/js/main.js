@@ -2,7 +2,7 @@ var scroll_pos = 0;
          $(document).scroll(function() {
              scroll_pos = $(this).scrollTop();
              if(scroll_pos > 100) {
-                 $(".navbar").css('background-color', '#ACB9E8');
+                 $(".navbar").css('background-color', '#4d62ad');
              } else {
                  $(".navbar").css('background-color', 'transparent');
              }
