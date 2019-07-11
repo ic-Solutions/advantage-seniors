@@ -33,6 +33,11 @@
 
   <script src="/assets/js/font-resize.js"></script>
 
+<script>
+$('.close').click(function(){
+  $('.video-embed')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+});
+</script>
 </body>
 
 </html>

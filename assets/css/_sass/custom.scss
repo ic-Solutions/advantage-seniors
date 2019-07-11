@@ -157,7 +157,7 @@ p.nav-link.font-changer {
     display: initial;
 
     span {
-      cursor: pointer; 
+      cursor: pointer;
     }
 }
 
@@ -170,5 +170,44 @@ p.nav-link.font-changer {
 
   &-increase {
     font-size: 125%;
+  }
+}
+
+#advantage-videos {
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .card {
+    margin-bottom: 2em;
+  }
+
+  .video {
+    img {
+      height: 195px;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .modal-dialog {
+    max-width: 800px;
+    margin: 30px auto;
+  }
+
+  .modal-body {
+    position: relative;
+    padding: 0;
+  }
+
+  .close {
+    position: absolute;
+    right: -30px;
+    top: 0;
+    z-index: 999;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #fff;
+    opacity: 1;
   }
 }
