@@ -2,16 +2,17 @@
 layout: post
 title: Are you seriously worried about your disabled sibling’s future? Here are few tips
 description: Deciding who will care for a sister or brother once the parents die or become too frail, is rarely discussed.
-image: /images/josh-appel-0nkFvdcM-X4-unsplash.jpg
+image: /assets/images/blog/Disabled_Siblings.jpg
 author:
   - Roshan Jacob
   - Soumya Nair
 ---
+
 A child perhaps mentally or physically disabled from birth or one who might have suffered an accident earlier in life, grows into adulthood, having been cared for by very loving parents who did everything that could’ve muster is no more and the responsibility falls on the adult siblings.
 
 This is such a difficult scenario, yet happens everywhere, every time. For many, deciding who will care for a sister or brother once the parents die or become too frail, is rarely discussed. As social gerontologists we encounter more and more such care concerns in our practice. So we thought it fitting to get a conversation going. We spoke to many, all 50 plus, who will experience all of these but concerns mentioned by us are genuine. Below are some concerns of siblings and we suggest few options.
 
-Let’s start with a letter which we received recently from Sharjah, UAE from Mr. Balagopal. His younger brother aged 54 is deaf, cognitively delayed and OCD.  (A portion is reproduced here with his permission for the purpose of this article.)
+Let’s start with a letter which we received recently from Sharjah, UAE from Mr. Balagopal. His younger brother aged 54 is deaf, cognitively delayed and OCD. (A portion is reproduced here with his permission for the purpose of this article.)
 
 “Parents are old but ain't dying or anything, but I'm just thinking ahead. For some reason, this has been bothering me and it is making me so depressed and sad, so I will seek your advice. Also, there is no other immediate family living India other than few distant cousins. All my family in another country are as old as I am or old people.
 
@@ -27,10 +28,10 @@ In the past children born with disabilities didn’t always live to be adults, o
 
 In today’s world order, It’s tough managing one’s own ‘core’ family, much less having to worry about sibling with disabilities joining that family, no matter how much siblings love each other, how committed they are, or how thoroughly arrangements had been made by aged parents prior to their own deaths. if living to be an adult and ageing, understand that family circumstances keep changing, medical, financial and caring arrangements should be made with the best interest for all stake holders.
 
-The challenges of the immediate kith and kin are many when it comes to caring a disabled sibling. The challenges include fitting the many new tasks and responsibilities for their sibling into their own life routine. Will the sibling with disabilities move in with the abled one?  How do the sibling with disability’s needs fit into the routine of family life, especially when younger children, the nieces and nephews of the sibling with disabilities, are involved? Who attends the clinical appointments? Or makes medical decisions? How does it funded, especially if Mom and Dad didn’t leave any substantial corpus? Compounding the challenges, now-a-days, it’s a usual thing for the sibling with disabilities to live in one location, while the caregiver sibling lives out-of-state, thousands of miles away.
-What’s the legal position?  In general, across the world, Parents are obligated by law to care for their children, and children are obligated to care for their elderly parents, but no law requires siblings to care for each other.
+The challenges of the immediate kith and kin are many when it comes to caring a disabled sibling. The challenges include fitting the many new tasks and responsibilities for their sibling into their own life routine. Will the sibling with disabilities move in with the abled one? How do the sibling with disability’s needs fit into the routine of family life, especially when younger children, the nieces and nephews of the sibling with disabilities, are involved? Who attends the clinical appointments? Or makes medical decisions? How does it funded, especially if Mom and Dad didn’t leave any substantial corpus? Compounding the challenges, now-a-days, it’s a usual thing for the sibling with disabilities to live in one location, while the caregiver sibling lives out-of-state, thousands of miles away.
+What’s the legal position? In general, across the world, Parents are obligated by law to care for their children, and children are obligated to care for their elderly parents, but no law requires siblings to care for each other.
 
-When your parents die, a guardian will most likely be appointed for your sibling. You will not be obligated to care for them. Definitely Mr. Balagopal, can relax, because no laws to force a sibling to care for another sibling against their will.  
+When your parents die, a guardian will most likely be appointed for your sibling. You will not be obligated to care for them. Definitely Mr. Balagopal, can relax, because no laws to force a sibling to care for another sibling against their will.
 
 When the parents become old or very old, find they cannot continue to provide care. It might be time to have a discussion with your parents about long-term care for your sibling, even if he is still living with them now.
 
