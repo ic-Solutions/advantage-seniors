@@ -2,17 +2,23 @@
 layout: new-default
 ---
 <section class="blog-index resize">
-  <!-- Page Content -->
-  <div class="container">
-    <div class="row">
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            {{content}}
+            {% include blog-sidebar.html %}
 
-      {{content}}
-
-
-      {% include blog-sidebar.html %}
-
+        </div>
+        <!-- /.row -->
     </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
+    <!-- /.container -->
 </section>
+
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({searchInput: document.getElementById("search-input"), resultsContainer: document.getElementById("results-container"), json: "/search.json", searchResultTemplate: "<div><a href=\"{url}\"><p>{title}</p></a></div>"})
+</script>
