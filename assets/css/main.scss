@@ -1,18 +1,19 @@
 ---
 ---
+
 @charset "utf-8";
 
 $brand-color: #4d62ad !default;
 // selected based on https://www.resene.co.nz/homeown/use_colr/colours-for-living.htm
-$font-family: 'DM Sans', sans-serif;
-$header-family: 'Source Sans Pro', sans-serif;
+$font-family: "DM Sans", sans-serif;
+$header-family: "Source Sans Pro", sans-serif;
 $font-size: 1.2rem;
 $body-color: #666;
 
 // Width of the content area
-$content-width:    800px;
-$on-palm:          600px;
-$on-laptop:        800px;
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -22,9 +23,9 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
 html {
@@ -49,7 +50,6 @@ html {
 @import "bootstrap/utilities/display";
 @import "bootstrap/utilities/flex";
 @import "bootstrap/utilities/spacing";
-
 
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
@@ -95,5 +95,4 @@ html {
 @import "bootstrap/spinners";
 @import "bootstrap/utilities";
 @import "bootstrap/print";
-@import "scrolling-nav",
-        "custom";
+@import "scrolling-nav", "custom";

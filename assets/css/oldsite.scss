@@ -1,0 +1,42 @@
+---
+---
+
+@charset "utf-8";
+
+$brand-color: #4d62ad !default;
+// selected based on https://www.resene.co.nz/homeown/use_colr/colours-for-living.htm
+$font-family: "DM Sans", sans-serif;
+$header-family: "Source Sans Pro", sans-serif;
+$font-size: 1.2rem;
+$body-color: #666;
+
+// Width of the content area
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+@import "oldsite/media";

@@ -1,0 +1,28 @@
+img {
+  max-width: 100%;
+}
+
+.media-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+
+  .media {
+    position: relative;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px #b3b1b1;
+  }
+
+  .media-article {
+    border-radius: 15px;
+    object-fit: cover;
+    height: 360px;
+  }
+  .media-house {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-radius: 2px;
+    border-bottom-right-radius: 15px;
+  }
+}
