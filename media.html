@@ -227,35 +227,38 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 </div>
 </div>
 
-<div style="display: block; clear: both; float: none">
- <img class="media-logo" src="/images/media/the_new_indian_express.png" alt="{{item.mediatitle}}">
+{% for item in site.data.media %}
+<div style="display: block; clear: both; float: none; margin-top: 20px">
+ <img class="media-logo" src="{{item.logo}}" alt="{{item.mediatitle}}">
   <div class="media-container">       
+    
+    {% for media in item.articles %}
     <div class="media">         
-        <a href="images/media/newspaper12.jpg" class="highslide" onclick="return hs.expand(this)">
-            <img class="media-article" src="/images/media/newspaper12.jpg" alt="{{item.title}}">
+        <a href="{{media.image}}" class="highslide" onclick="return hs.expand(this)">
+            <img class="media-article" src="{{media.image}}" alt="{{item.title}}">
         </a>
      <label for="modal-10" class="btn btn-primary media-house">Read more</label>      
     </div>
-    
-    <div class="media">
-        <img class="media-article" src="/images/media/newspaper15.jpg" alt="{{item.title}}">
-        <a href="#" class="btn btn-primary media-house">Read more</a>
-    </div>
+    {% endfor %}
+
   </div>
+
+  {% for media in item.articles %}
 <!-- Modal Starts -->
   <input class="modal-state" id="modal-10" type="checkbox" />
     <div class="modal">
       <label class="modal__bg" for="modal-10"></label>
       <div class="modal__inner">
         <label class="modal__close" for="modal-10"></label>
-        <div class="modhd">The New Indian Express</div>
-        <p><img src="images/media/the_new_indian_express.png" alt="The New Indian Express" />
-        <STRONG>AdvantAGE of Hope, Care and Helping Hands</STRONG></p>
-        <p>A reporting on how advantAGE seniors established a coma care facility, the first of its kind facility that takes care of terminally ill people. The write-up highlight the efforts of advantAGE to ease the ordeal of comatose and the suffering of their kin.</p>
+        <div class="modhd">{{item.media-house}}</div>
+       {% for p in media.content %}
+        <p>{{p}}</p>
+       {% endfor %}
       </div>
-    </div>  
+    </div>
+    {% endfor %}  
 </div>
-
+{% endfor %}
 
 <div class="newspaper">
 <label for="modal-1"><img src="images/media/kuow_org.png" alt="kuow.org newspaper" border="0" title="kuow.org newspaper"/></label>
