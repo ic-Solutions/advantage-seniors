@@ -5,10 +5,28 @@
       title: The New Indian Express
       content:
         - A reporting on how advantAGE seniors established a coma care facility, the first of its kind facility that takes care of terminally ill people. The write-up highlight the efforts of advantAGE to ease the ordeal of comatose and the suffering of their kin.
-        - A reporting on how advantAGE seniors established a coma care facility, the first of its kind facility that takes care of terminally ill people. The write-up highlight the efforts of advantAGE to ease the ordeal of comatose and the suffering of their kin.
-    - image: /images/media/newspaper12.jpg
-      title: The New Indian Express
+        
+- media-house: Times of India
+  logo: /images/media/timesofindia.png
+  articles:
+    - image: /images/media/newspaper10.jpg
+      title: Coma care centre takes these patients forward - TNN | Jun 13, 2011, 12.37AM
       content:
-        - A reporting on how advantAGE seniors established a coma care facility, the first of its kind facility that takes care of terminally ill people. The write-up highlight the efforts of advantAGE to ease the ordeal of comatose and the suffering of their kin.
+        - A unique coma care facility has come up in the city to rehabilitate patients, once doctors and hospitals have tried all medical processes and discharged them. What they need, and get here, is care of a different kind.
+        - Playing on that bleak chance called miracle, the Centre For Comatose Patients takes their lives forward from hospital care. Its aim is to care for these patients and rehabilitate them, and hope for a revival.
+        - Started by Advantage Seniors Foundation, the patients are taken care of, spoken to and put through physiotherapy. These are patients mostly with conditions of trauma, meningitis, stroke, encephalitis, brain tumour or high blood pressure who slip into a coma or semi-coma. The facility already has five patients.
+        - A 53-year-old woman who suffered a severe brain haemorrhage and went into coma, was admitted to the centre around a month ago. So was Phillip (name changed), 56, who too suffered a brain haemorrhage and went into a semi-coma. But according to staff attending to him, he has slowly started responding to their calls by moving his head or extending his hand.
+        - Lakshman (name changed), 46, a businessman, met with an accident which left him with a severe brain injury. Rajesh (name changed), 54, fell off his bike and injured his head. All the patients have had tracheotomy performed on them, have a peg tube attached to their stomach -- an endoscopic medical procedure in which a tube is passed into a patient s stomach through the abdominal wall as a means of feeding when oral intake is not adequate -- besides a catheter.
+        -  Coma patients need constant care, especially physical support. They need to be moved or they develop serious contractures (permanent shortening of a muscle or joint) or severe bed sores. Mentally too, we need to constantly communicate with them, either by touching or talking to them, explained consultant social gerontologist Roshan Jacob.
+        - The youngest among the lot is Vivian Mathew, who was paralysed neck down after an injury while playing basketball. He was completely numb, but after one-and-half years, he is slowly started getting back some sensation in his arms and above his waist. I came here because I was lonely at home. My parents go to work and I did not want to stay indoors all day. I have been here for a month now and I watch TV, listen to music or watch movies, he said.
+        - A doctor and physiotherapist visit the centre regularly. Families visit the patients often. Nurses take care of feeding, grooming, bathing, medication, bed-sore prevention, catheter management and other needs.
+
+        
+- media-house: Know.ORG
+  logo: /images/media/kuow_org.png
+  articles:
+    - image: /images/media/newspaper12.jpg
+      title: The Word Is Dumping By LIZ JONES • NOV 18, 2014
+      content:
         - A reporting on how advantAGE seniors established a coma care facility, the first of its kind facility that takes care of terminally ill people. The write-up highlight the efforts of advantAGE to ease the ordeal of comatose and the suffering of their kin.
 
