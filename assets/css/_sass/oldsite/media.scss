@@ -6,7 +6,7 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 40px;
-    margin: 1em 0;
+  margin: 1em 0;
 
   .media {
     position: relative;
@@ -17,7 +17,7 @@ img {
   .media-article {
     border-radius: 15px;
     object-fit: cover;
-    height: 360px;
+    object-position: center;
   }
   .media-house {
     position: absolute;
@@ -28,8 +28,8 @@ img {
   }
 }
 .media-logo {
-    margin: .5em 0;
+  margin: 0.5em 0;
 }
 .modal {
-    z-index: 9
+  z-index: 9;
 }

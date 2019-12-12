@@ -233,11 +233,15 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
   <div class="media-container">       
     
     {% for media in item.articles %}
-    <div class="media">         
+    <div class="media">
+      {% if media.image %}         
         <a href="{{media.image}}" class="highslide" onclick="return hs.expand(this)">
             <img class="media-article" src="{{media.image}}" alt="{{item.title}}">
         </a>
-     <label for="modal-{{forloop.index}}" class="btn btn-primary media-house">Read more</label>      
+        {% else %}
+        <img class="media-article" src="http://placehold.jp/e5e5e5/383838/450x450.png?text={{media.title | url_encode | truncate: 30}}" alt="{{item.title}}">
+        {% endif %}
+     <label for="modal-{{item.id}}-{{forloop.index}}" class="btn btn-primary media-house">Read more</label>      
     </div>
     {% endfor %}
 
@@ -245,11 +249,11 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
   {% for media in item.articles %}
 <!-- Modal Starts -->
-  <input class="modal-state" id="modal-{{forloop.index}}" type="checkbox" />
+  <input class="modal-state" id="modal-{{item.id}}-{{forloop.index}}" type="checkbox" />
     <div class="modal">
-      <label class="modal__bg" for="modal-{{forloop.index}}"></label>
+      <label class="modal__bg" for="modal-{{item.id}}-{{forloop.index}}"></label>
       <div class="modal__inner">
-        <label class="modal__close" for="modal-{{forloop.index}}"></label>
+        <label class="modal__close" for="modal-{{item.id}}-{{forloop.index}}"></label>
         <div class="modhd">{{item.media-house}}</div>
        {% for p in media.content %}
         <p>{{p}}</p>
