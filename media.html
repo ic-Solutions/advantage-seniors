@@ -228,18 +228,23 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 </div>
 
 <div style="display: block; clear: both; float: none">
-  <div class="media-container">
-    <div class="media">
+ <img class="media-logo" src="/images/media/the_new_indian_express.png" alt="{{item.mediatitle}}">
+  <div class="media-container">       
+    <div class="media">         
       <img class="media-article" src="/images/media/newspaper12.jpg" alt="{{item.title}}">
-      <img class="media-house" src="/images/media/the_new_indian_express.png" alt="{{item.mediatitle}}">
+<!--      <img class="media-house" src="/images/media/the_new_indian_express.png" alt="{{item.mediatitle}}">-->
+      <a href="#" class="btn btn-primary media-house">Read more</a>
     </div>
-
     <div class="media">
         <img class="media-article" src="/images/media/newspaper15.jpg" alt="{{item.title}}">
-        <img class="media-house" src="/images/media/malayalmanorama.png" alt="{{item.mediatitle}}">
-      </div>
-  </div>
+<!--        <img class="media-house" src="/images/media/malayalmanorama.png" alt="{{item.mediatitle}}">-->
+        <a href="#" class="btn btn-primary media-house">Read more</a>
+    </div>       
+  </div>  
 </div>
+
+
+
 {% include footer.html %}
 
 
