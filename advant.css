@@ -732,6 +732,10 @@ line-height: 2;
   background-color: #fff;
   border: 1px solid #e0cfc4;
 }
+.arrowtext a{
+    color: #504f4f;
+    text-decoration: none
+}
 
 .bighd4 {
   width: auto;

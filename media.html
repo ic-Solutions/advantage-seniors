@@ -241,15 +241,16 @@ image: /images/servicebg.jpg
               <h1 class="caption">Senior Care Options</h1>
               <div class="subcaption">You are not alone You have options...</div>
 
-              <div class="mediapagehd">Media, Newspaper Articles</div>
-              <div class="arrowtext">kuow.org</div>
-              <div class="arrowtext">Los Angeles Times</div>
-              <div class="arrowtext">Open Magazine</div>
-              <div class="arrowtext">Times of India</div>
-              <div class="arrowtext">Deccan Herald</div>
-              <div class="arrowtext">Malayala Manorama</div>
-              <div class="arrowtext">Bangalore Mirror</div>
-              <div class="arrowtext">India Today</div>
+              <div class="mediapagehd">Media, Some Important Newspaper Articles</div>
+                <div class="arrowtext"><a href="#know_org">kuow.org</a></div>
+                <div class="arrowtext"><a href="#los_angeles_times">Los Angeles Times</a></div>
+                <div class="arrowtext"><a href="#open_magazine">Open Magazine</a></div>
+                <div class="arrowtext"><a href="#times_of_india">Times of India</a></div>
+                <div class="arrowtext"><a href="#deccan_herald">Deccan Herald</a></div>
+                <div class="arrowtext"><a href="#malayala_manorama">Malayala Manorama</a></div>
+                <div class="arrowtext"><a href="#bangalore_mirror">Bangalore Mirror</a></div>
+                <div class="arrowtext"><a href="#india_today">India Today</a></div>
+                <div class="arrowtext"><a href="#the_new_indian_express">The New Indian Express</a></div>
 
 
             </div>
@@ -264,7 +265,7 @@ image: /images/servicebg.jpg
 
         {% for item in site.data.media %}
         <div style="display: block; clear: both; float: none; margin-top: 20px">
-          <img class="media-logo" src="{{item.logo}}" alt="{{item.mediatitle}}">
+          <img class="media-logo" id="{{item.logoid}}" src="{{item.logo}}" alt="{{item.mediatitle}}">
           <div class="media-container">
 
             {% for media in item.articles %}
