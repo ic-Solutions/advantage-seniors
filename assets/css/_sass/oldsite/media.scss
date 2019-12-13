@@ -17,8 +17,9 @@ img {
 
   .media-article {
     border-radius: 15px;
-    object-fit: cover;
-    object-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
     height: 300px;
   }
   .media-house {
