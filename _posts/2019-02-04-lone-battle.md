@@ -5,7 +5,7 @@ description: Caring for an elderly, ailing spouse is an unimaginably difficult t
 image: /assets/images/blog/spousal-caregiver.jpg
 author:
   - Roshan Jacob
-  - Soumya Nair
+  - Soumya Laxmi
 ---
 
 **Mrs. Arathi Mukharjee** a 54 - year old wife, had to wind up her carrier to care for her husband who is ailing with pseudo bulbar palsy, a crippling disorder in the highest order. Husband being diagnosed with this progressive, chronic clinical condition Mrs. Mukherjee had to dash into the role of a primary care giver.

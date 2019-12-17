@@ -5,7 +5,7 @@ description: Renjitha Reddy’s aged parents used to live harmoniously but now, 
 image: /assets/images/blog/Hostility-Between-Aged-Parents.jpg
 author:
   - Roshan Jacob
-  - Soumya Nair
+  - Soumya Laxmi
 ---
 
 Renjitha Reddy’s aged parents used to live harmoniously but now, in their 80s, they constantly bicker and snipe at each other. Renjitha is no more able to withstand this new development called “parental quarrelling” and she is fed up with being caught in the crossfire.
