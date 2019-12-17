@@ -221,12 +221,11 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
   color: #fff;
   padding: 10px 25px;
   border-radius: 2px;
-  &:hover {
-    text-decoration: none;
-    background: darken(#52a550, 10%);
-  }
 }
-
+.author-image {
+  vertical-align: middle;
+  margin-right: 10px;
+}
 </style>
 
 <section class="main-content">
@@ -245,10 +244,10 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
    <script>
     $(document).ready(function() {
      $("#google-reviews").googlePlaces({
-         placeId: 'ChIJYzr6B6MWrjsR-B7_17fBkO0'
-       , render: ['reviews']
-       , min_rating: 5
-       , max_rows: 0
+      placeId: 'ChIJYzr6B6MWrjsR-B7_17fBkO0', 
+      render: ['reviews'], 
+      min_rating: 5, 
+      max_rows: 0
      });
    });
    </script>

@@ -146,6 +146,7 @@
     var renderReviews = function(reviews) {
       reviews = sort_by_date(reviews);
       reviews = filter_minimum_rating(reviews);
+      console.log(reviews);
       var html = "";
       var row_count =
         plugin.settings.max_rows > 0
@@ -159,7 +160,10 @@
         var date = convertTime(reviews[i].time);
         html =
           html +
-          "<div class='review-item'><div class='review-meta'><span class='review-author'>" +
+          "<div class='review-item'><div class='review-meta'><img width='25' class='author-image' src=" +
+          reviews[i].profile_photo_url +
+          "></img>" +
+          "<span class='review-author'>" +
           reviews[i].author_name +
           "</span><span class='review-sep'>, </span><span class='review-date'>" +
           date +
