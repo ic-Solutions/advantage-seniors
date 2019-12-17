@@ -1,0 +1,135 @@
+.slider-header {
+  margin: 1em;
+  font-family: -apple-system, ".sfnstext-regular", san francisco, roboto,
+    segoe ui, helvetica neue, lucida grande, Arial, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+  @include media-query($on-palm) {
+    font-size: 1em;
+  }
+}
+
+#slider {
+  position: relative;
+  overflow: hidden;
+  margin: 30px auto 30px auto;
+  border-radius: 4px;
+  font-family: -apple-system, ".sfnstext-regular", san francisco, roboto,
+    segoe ui, helvetica neue, lucida grande, Arial, sans-serif;
+  @include media-query($on-palm) {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  list-style: none;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 1000px;
+  min-height: 400px;
+  text-align: center;
+  line-height: 1.8;
+  @include media-query($on-palm) {
+    width: 320px;
+    min-height: 300px;
+  }
+}
+
+#slider .card {
+  padding: 50px 60px;
+  background: white;
+  border-radius: 10px;
+  @include media-query($on-palm) {
+    padding: 30px;
+  }
+}
+
+#slider blockquote {
+  color: #555;
+  font-size: 25px;
+  font-style: italic;
+  text-align: justify;
+  @include media-query($on-palm) {
+    font-size: 15px;
+  }
+}
+
+#slider img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+#slider p {
+  color: #333;
+  text-align: right;
+  padding: 0 30px;
+}
+
+a.control_prev,
+a.control_next {
+  position: absolute;
+  top: 40%;
+  z-index: 999;
+  display: block;
+  padding: 3% 2%;
+  width: auto;
+  height: auto;
+  background: #52a550;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+a.control_prev:hover,
+a.control_next:hover {
+  opacity: 1;
+  -webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+  border-radius: 0 2px 2px 0;
+}
+
+a.control_next {
+  right: 0;
+  border-radius: 2px 0 0 2px;
+}
+
+.slider_option {
+  position: relative;
+  margin: 10px auto;
+  width: 160px;
+  font-size: 18px;
+}
+
+.more-reviews {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.btn {
+  text-decoration: none;
+  background: #52a550;
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 2px;
+  &:hover {
+    text-decoration: none;
+    background: darken(#52a550, 10%);
+  }
+}
