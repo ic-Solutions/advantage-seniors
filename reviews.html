@@ -196,6 +196,10 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 .review-author {
     font-weight: bold;
 }
+.review-meta img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
 .review-stars ul {
   margin: 0;
   margin-top: 10px;
@@ -232,27 +236,23 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
     <header>
      <h2>Reviews</h2>
      </header>
-     <div id="google-reviews"></div>
-     <a href="http://search.google.com/local/writereview?placeid=ChIJYzr6B6MWrjsR-B7_17fBkO0">Read all reviews</a>
+     
+    {% for item in site.data.google-reviews %}
+     <div class="review-item">
+      <div class="review-meta"><img width="35" src="{{item.image}}" alt="{{item.name}}"><span class="review-author">{{item.name}}</span></div>
+      <div class="review-stars">
+          <ul>
+            {% for i in (1..item.rating) %}
+              <li><i class="fa fa-star" aria-hidden="true"></i></li>
+            {% endfor %}
+          </ul>
+      </div>
+      <p class="review-text">{{item.review}}</p>
+      </div>
+  {% endfor %}
+
+     <a target="_blank" href="http://search.google.com/local/writereview?placeid=ChIJYzr6B6MWrjsR-B7_17fBkO0">Read all reviews</a>
    </section>
-
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-   <script src="/assets/js/google-places.js"></script>
-   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfIuBFNjXPX7Omn_Edc4sJgrFW3OiHet0&libraries=places"></script>
-
-
-
-   <script>
-    $(document).ready(function() {
-     $("#google-reviews").googlePlaces({
-      placeId: 'ChIJYzr6B6MWrjsR-B7_17fBkO0', 
-      render: ['reviews'], 
-      min_rating: 5, 
-      max_rows: 0
-     });
-   });
-   </script>
-
 
 </div>
 
