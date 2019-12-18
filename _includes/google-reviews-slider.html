@@ -7,7 +7,7 @@
   <a class="control_next">></a>
   <a class="control_prev"><</a>
   <ul>
-    {% for item in site.data.google-reviews %}
+    {% for item in site.data.google-reviews limit: 6 %}
     <li>
       <div class="card">
         <blockquote>
