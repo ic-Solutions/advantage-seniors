@@ -182,16 +182,6 @@
       content:
         - This coverage is about how the home health services of advantAGE help the aged stay at home and receive quality care in their later years.
 
-- media-house: India Today
-  id: media-9
-  logo: /images/media/india_today.png
-  logoid: india_today
-  articles:
-    - image: /images/media/newspaper14.jpg
-      title: Women we Love
-      content:
-        - India Today profiled Ms. Soumya Laxmi, our Executive Director as a low profile and dedicated person who has contributed to the society in the field of long term care for the infirm elderly. The comfort of the aged population is her objective and India Today acknowledge her as a remarkable personality just because of her passion.
-
 - media-house: The Pioneer
   id: media-10
   logo: /images/media/the_pioneer.png
