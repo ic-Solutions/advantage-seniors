@@ -7,16 +7,15 @@ img {
   padding: 1rem;
 }
 
-
 blockquote {
   font-size: 2rem;
   font-style: italic;
-  font-family: -apple-system,".sfnstext-regular",san francisco,roboto,segoe ui,helvetica neue,lucida grande,Arial,sans-serif;
+  font-family: -apple-system, ".sfnstext-regular", san francisco, roboto,
+    segoe ui, helvetica neue, lucida grande, Arial, sans-serif;
   border-left: 6px solid $brand-color;
   padding-left: 1rem;
   margin-left: 1rem;
 }
-
 
 header {
   img {
@@ -28,7 +27,8 @@ header {
     }
   }
 
-  .title, .lead {
+  .title,
+  .lead {
     text-align: left;
     @include media-query($on-palm) {
       text-align: center;
@@ -50,15 +50,15 @@ header {
       font-size: $font-size;
       font-weight: bold;
     }
-
   }
 
   .modal-dialog {
     max-width: 800px;
   }
+  .modal-footer {
+    justify-content: flex-start;
+  }
 }
-
-
 
 //footer
 footer {
@@ -72,14 +72,12 @@ footer {
   }
 
   h4 {
-     @include media-query($on-palm) {
-          margin-top: 2em;
-     }
-   }
-
+    @include media-query($on-palm) {
+      margin-top: 2em;
+    }
+  }
 
   .logo {
-
     display: inline-block;
     border: 3px solid #ddd;
     border-radius: 1px;
@@ -87,10 +85,9 @@ footer {
     margin-bottom: 1em;
 
     &:hover {
-        border-color: $brand-color;
-        cursor: pointer;
+      border-color: $brand-color;
+      cursor: pointer;
     }
-
 
     &:hover img {
       filter: grayscale(0);
@@ -100,12 +97,10 @@ footer {
       filter: grayscale(100);
     }
 
-
     &:hover a {
       color: $brand-color;
       text-decoration: none;
     }
-
   }
 
   ul {
@@ -130,7 +125,6 @@ footer {
   }
 }
 
-
 //navbar
 .navbar-dark .navbar-nav .nav-link {
   color: #eee;
@@ -139,28 +133,30 @@ footer {
   }
 }
 
-
 //blog section
 .btn-primary {
   color: white;
-  &:hover, &:focus, &:active {
+  &:hover,
+  &:focus,
+  &:active {
     color: white;
   }
 }
 
-.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show>.btn-primary.dropdown-toggle {
-    color: white;
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: white;
 }
 
 // Font resizer
 p.nav-link.font-changer {
-    display: initial;
+  display: initial;
 
-    span {
-      cursor: pointer;
-    }
+  span {
+    cursor: pointer;
+  }
 }
-
 
 .js-font {
   //should probably set  the font-size to a px/rem/em instead of %
