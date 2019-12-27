@@ -1375,6 +1375,13 @@ line-height: 2;
 }
 
 @media(min-width:500px) and (max-width:767px) {
+  .subheadscover {
+    display: grid;
+  }
+  .subheads:nth-of-type(even) {
+      display: none;
+      margin: 5px;
+  }
   #fix {
     width: 500px;
     height: inherit;
@@ -1602,6 +1609,13 @@ line-height: 2;
 }
 
 @media(min-width:350px) and (max-width:499px) {
+.subheadscover {
+  display: grid;
+}
+.subheads:nth-of-type(even) {
+    display: none;
+    margin: 5px;
+}
   #fix {
     width: 350px;
     height: inherit;
