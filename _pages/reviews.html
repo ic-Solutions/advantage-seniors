@@ -1,0 +1,236 @@
+---
+layout: compress
+title: Homecare for seniors
+description: Advantage Seniors is knows for its hospitality. Read some of the reviews by people who opted Advantage Seniors care facility.
+image: /images/servicebg.jpg
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/images/fav-icon.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+
+<meta name="keywords" content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology" />
+
+<link href="/advant.css?ver2" rel="stylesheet" type="text/css"/>
+<script src="/scroltop/scrolltop.js"></script>
+<script src="/scroltop/scrolcontrole.js"></script>
+
+<!--mobile menu start-->
+<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css"/>
+<script type="text/javascript" src="/respmenu/jquery.min.js"></script>
+<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
+<!--mobile menu end-->
+
+<!--accordion start-->
+<link rel="stylesheet" href="/accordian/jquery-ui.css">
+  <link rel="stylesheet" href="/demos/style.css">
+  <script src="/accordian/jquery-1.12.4.js"></script>
+  <script src="/accordian/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+<!--accordion end-->
+
+<!--sidebar script start from here-->
+<script src="/sidebar/jquery.js" type="text/javascript"></script>
+<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+jQuery(document).ready (
+function(){jQuery("#facebook_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
+function(){ jQuery("#facebook_right").stop(true,false).animate({right: -325}, 500); });
+
+jQuery("#twitter_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
+function(){ jQuery("#twitter_right").stop(true,false).animate({right: -325}, 500); });
+
+jQuery("#testimoni_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
+function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 500); });
+});
+</script>
+
+<!--sidebar script end from here-->
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-140719676-1');
+</script>
+</head>
+
+<body>
+<div id="servicebg">
+<div id="foot">
+<div id="fix">
+<div id="actual">
+
+<div class="ratexts">
+
+{% include menu.html %}
+
+
+</div>
+
+<div class="ratexts">
+
+<div class="onebythre">
+
+
+<div class="servicpagehd"><a name="1">What Do They Say?</a></div>
+
+
+<style>
+.review-item {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.review-author {
+    font-weight: bold;
+}
+.review-meta img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.review-stars ul {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+  display: inline-block;
+  list-style: none;
+}
+.review-stars ul {
+  list-style: none;
+}
+.review-stars li {
+  display: inline-block;
+  margin-right: 5px;
+}
+.review-stars ul li i {
+    color: #E4B248;
+    font-size: 18px;
+    font-style: normal;
+}
+.btn {
+  text-decoration: none;
+  background: #52a550;
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 2px;
+}
+.author-image {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+</style>
+
+<section class="main-content">
+    <header>
+     <h2>Reviews</h2>
+     </header>
+     
+    {% for item in site.data.google-reviews %}
+     <div class="review-item">
+      <div class="review-meta"><img width="35" src="{{item.image}}" alt="{{item.name}}"><span class="review-author">{{item.name}}</span></div>
+      <div class="review-stars">
+          <ul>
+            {% for i in (1..item.rating) %}
+              <li><i class="fa fa-star" aria-hidden="true"></i></li>
+            {% endfor %}
+          </ul>
+      </div>
+      <p class="review-text">{{item.review}}</p>
+      </div>
+  {% endfor %}
+
+     <a target="_blank" href="http://search.google.com/local/writereview?placeid=ChIJYzr6B6MWrjsR-B7_17fBkO0">Read all reviews</a>
+   </section>
+
+</div>
+
+<div class="onebyfour">
+
+<div class="servicpagehd">Download Brouchure</div>
+<div class="iconcover" align="center"><a href="/images/downloads/Brochure.pdf" target="_blank" ><img src="/images/download.jpg" border="0" class="widimg"/></a></div>
+
+<div class="servicpagehd">Geriatric Care Facilitys</div>
+<div class="iconcover" align="center"><img src="/images/icons1.jpg"/></div>
+<div class="iconcover" align="center"><img src="/images/icons2.jpg"/></div>
+<div class="iconcover" align="center"><img src="/images/icons3.jpg"/></div>
+<div class="iconcover" align="center"><img src="/images/icons4.jpg"/></div>
+<div class="iconcover" align="center"><img src="/images/icons5.jpg"/></div>
+<div class="iconcover" align="center"><img src="/images/icons6.jpg"/></div>
+
+
+</div>
+
+
+</div>
+
+<div class="scroll-top-wrapper ">
+<span class="scroll-top-inner">
+<i class="fa fa-arrow-up"></i>
+</span>
+</div>
+
+
+{% include footer.html %}
+
+</div>
+</div>
+</div>
+</div>
+
+<table width="100%">
+        <tr>
+        <td>
+
+
+          <div id="on">
+    <div id="facebook_right" style="top: 15%; right: -325px; border: 1px solid #822206;">
+        <div id="facebook_div">
+            <img src="/images/ebrochure.png">
+            <iframe src="/sidebar/enquiry.htm" scrolling="no" width="320px" frameborder="0"></iframe>
+        </div>
+    </div>
+</div>
+
+
+<div id="on">
+    <div id="twitter_right" style="top: 45%; right: -325px; border: 1px solid #822206;">
+        <div id="twitter_div">
+            <img id="twitter_right_img" src="/images/contactus.png">
+             <iframe src="/sidebar/contact.htm" scrolling="no" width="320px" frameborder="0"></iframe>
+
+        </div>
+    </div>
+</div>
+        </td>
+        </tr>
+        </table>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!-- End of Tawk.to Script --><!-- Fontawesome through JavaScript -->
+<script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
+
+</body>
+</html>
