@@ -8,6 +8,22 @@ layout: new-default
             <div class="col-md-8 py-2">
                 <img class="img-fluid pb-3" src="{{page.image}}" alt="{{page.title}}">
                 {{content}}
+                <hr>
+                <div class="comments">
+                    <h5>Add a comment</h5>
+                    <div id="disqus_thread"></div>
+                    <script>
+                      (function() { 
+                      var d = document, s = d.createElement('script');
+                      s.src = 'https://advantage-seniors.disqus.com/embed.js';
+                      s.setAttribute('data-timestamp', +new Date());
+                      (d.head || d.body).appendChild(s);
+                      })();
+                      </script>
+                    <noscript>Please enable JavaScript to view the
+                        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+                    </noscript>
+                </div>
             </div>
 
             {% include blog-sidebar.html %}
