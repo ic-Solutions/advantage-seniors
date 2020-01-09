@@ -4,38 +4,46 @@
 
 <!DOCTYPE html>
 <html lang="en">
-{% include new-head.html %}
-<body id="page-top">
-{% include new-navigation.html %}
-{% include new-header.html %}
+    {% include new-head.html %}
+    <body id="page-top">
+        {% include new-navigation.html %}
+        {% include new-header.html %}
 
-{{content}}
+        {{content}}
 
-{% include new-footer.html %}
+        {% include new-footer.html %}
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- Bootstrap core JavaScript -->
+        <script src="/assets/vendor/jquery/jquery.min.js"></script>
+        <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Plugin JavaScript -->
-  <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+        <!-- Plugin JavaScript -->
+        <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 
-  <!-- Custom JavaScript for this theme -->
-  <!-- <script src="/assets/js/scrolling-nav.js"></script> -->
+        <!-- Custom JavaScript for this theme -->
+          <!-- <script src="/assets/js/scrolling-nav.js"></script> -->
 
-  <script src="/assets/js/main.js"></script>
+        <script src="/assets/js/main.js"></script>
 
-  <!-- Fontawesome through JavaScript -->
-  <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
+        <!-- Fontawesome through JavaScript -->
+        <script type="text/javascript">
+            (function () {
+                var css = document.createElement("link");
+                css.href = "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+                css.rel = "stylesheet";
+                css.type = "text/css";
+                document.getElementsByTagName("head")[0].appendChild(css);
+            })();
+        </script>
 
-  <!-- Chat JavaScript -->
-  {% include chat.html %}
+        <!-- Chat JavaScript -->
+        {% include chat.html %}
 
-  <script src="/assets/js/font-resize.js"></script>
-  {% if page.url == '/videos/' %}
-  <link rel="stylesheet" href="/assets/css/video.popup.css">
-  <script src="/assets/js/video.popup.js"></script>
-  <script>
+        <script src="/assets/js/font-resize.js"></script>
+        {% if page.url == '/videos/' %}
+            <link href="/assets/css/video.popup.css" rel="stylesheet">
+            <script src="/assets/js/video.popup.js"></script>
+            <script>
     {%- for item in site.data.videos -%}
       $("#video{{forloop.index}}").videoPopup({
           autoplay: 1,
@@ -45,7 +53,9 @@
       });
     {%- endfor -%}
   </script>
-  {% endif %}
-</body>
+        {% endif %}
+
+        <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1" src="//instant.page/3.0.0" type="module"></script>
+    </body>
 
 </html>
