@@ -9,23 +9,51 @@
   bottom: 0;
   left: 0;
   text-align: left;
-  background: rgba(0,0,0, .9);
-  transition: opacity .25s ease;
+  background: rgba(0, 0, 0, 0.9);
+  transition: opacity 0.25s ease;
 }
-strong{font-weight: bold;}
+strong {
+  font-weight: bold;
+}
 
-.modhd{font-size: 20px; font-weight: bold; border-bottom: 1px solid #ccc; line-height: 30px; color: #000;}
-.modsubhd{font-size: 16px; font-weight: bold; line-height: 30px; text-align: left; color: #000;}
-.modhd span{font-size: 13px; padding: 0px 0px 0px 20px; color: #000;}
-p{font-family:SEGOEUIL; font-size:14px; color:#000; font-weight: lighter; line-height:20px; text-align: justify;}
-p strong{font-weight: bold;}
+.modhd {
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  line-height: 30px;
+  color: #000;
+}
+.modsubhd {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 30px;
+  text-align: left;
+  color: #000;
+}
+.modhd span {
+  font-size: 13px;
+  padding: 0px 0px 0px 20px;
+  color: #000;
+}
+p {
+  font-family: inherit;
+  font-size: 14px;
+  color: #000;
+  font-weight: lighter;
+  line-height: 20px;
+  text-align: justify;
+}
+p strong {
+  font-weight: bold;
+}
 
 p img {
   max-width: 165px;
   height: auto;
   float: left;
-  margin: 0 1em 1em 0; 
-  padding:3px; border:1px solid #c3c2c2; 
+  margin: 0 1em 1em 0;
+  padding: 3px;
+  border: 1px solid #c3c2c2;
 }
 
 .modal__bg {
@@ -41,11 +69,13 @@ p img {
   display: none;
 }
 
-.label img{cursor: pointer;}
+.label img {
+  cursor: pointer;
+}
 
 .modal-state:checked + .modal {
   opacity: 1;
-  visibility: visible; 
+  visibility: visible;
 }
 
 .modal-state:checked + .modal .modal__inner {
@@ -53,7 +83,7 @@ p img {
 }
 
 .modal__inner {
-  transition: top .25s ease;
+  transition: top 0.25s ease;
   position: absolute;
   top: -20%;
   right: 0;
@@ -79,7 +109,7 @@ p img {
 
 .modal__close:after,
 .modal__close:before {
-  content: '';
+  content: "";
   position: absolute;
   width: 2px;
   height: 1.5em;
@@ -101,7 +131,6 @@ p img {
 }
 
 @media screen and (max-width: 768px) {
-	
   .modal__inner {
     width: 90%;
     height: 90%;
@@ -109,16 +138,14 @@ p img {
   }
 }
 
-
 /* Other
  * =============================== */
-
 
 .btn {
   cursor: pointer;
   background: #27ae60;
   display: inline-block;
-  padding: .5em 1em;
+  padding: 0.5em 1em;
   color: #fff;
   border-radius: 3px;
 }
@@ -130,7 +157,7 @@ p img {
 
 .btn:active {
   background: #27ae60;
-  box-shadow: 0 1px 2px rgba(0,0,0, .2) inset;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset;
 }
 
 .btn--blue {
@@ -145,5 +172,3 @@ p img {
 .btn--blue:active {
   background: #2980b9;
 }
-
-
