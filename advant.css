@@ -2041,7 +2041,18 @@ line-height: 2;
   }
 }
 
-
+.feature-column{
+    width: 33.33%;
+}
+.fcol1{
+    float: left
+}
+.fcol2{
+    display: inline-block;
+}
+.fcol3 {
+    float: right
+}
 
 
 /* Custom styles here */
@@ -2106,6 +2117,9 @@ line-height: 2;
 
   .scroll-top-wrapper {
       bottom: 10px;
+  }
+  .feature-column{
+    width: 100%;
   }
 
 }

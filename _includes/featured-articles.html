@@ -2,10 +2,11 @@
     <div class="container">
         <h2 class="slider-header">Featured Articles</h2>
         <div class="row">
-            <div class="col-12 mb-4">
+            <div class="feature-column fcol1  mb-4">
                 <a class="nostyle" target="_blank"
                     href="http://archive.kuow.org/post/who-will-care-parents-expat-indians-0">
-                    <div class="fm shadow p-3">
+                    <div class="fm shadow p-3 ">
+                        <img src="/images/featured-articles/featured-1.jpg" alt="" width="100%">
                         <h3 class="display-4">Who Will Care For The Parents Of Expat Indians?</h3>
                         <p>Three generations live under the same roof in this bustling home: two rambunctious kids,
                             their weary parents and an 80-year-old grandfather...</p>
@@ -13,19 +14,28 @@
                 </a>
             </div>
 
-            <div class="col-12 mb-4">
+            <div class="feature-column fcol2 mb-4">
                 <a class="nostyle" target="_blank"
                     href="https://www.newindianexpress.com/cities/bengaluru/2011/jun/13/advantage-of-hope-care-and-helping-hands-262197.html">
-                    <div class="fm shadow p-3">
+                    <div class="fm shadow p-3 ">
+                        <img src="/images/featured-articles/featured-2.jpg" alt="" width="100%">
                         <h3 class="display-4">Advantage of hope, care and helping hands</h3>
-                        <p>While people took to the streets to protest the administration of euthanasia to Aruna
-                            Shanbhag, who survived a horror but was relegated to coma and who is now in a vegetative
-                            state...</p>
+                        <p>Aruna Shanbhag, who survived a horror but was relegated to coma and who is now in a vegetative state...</p>
+                    </div>
+                </a>
+            </div>
+               
+            <div class="feature-column fcol3 mb-4">
+                <a class="nostyle" target="_blank"
+                    href="https://timesofindia.indiatimes.com/city/bengaluru/Coma-care-centre-takes-these-patients-forward/articleshow/8829789.cms">
+                    <div class="fm shadow p-3 ">
+                        <img src="/images/featured-articles/featured-3.jpg" alt="" width="100%">
+                        <h3 class="display-4">Coma care centre takes these patients forward</h3>
+                        <p>Started by Advantage Seniors Foundation, the patients are taken care of, spoken to and put through physiotherapy...</p>
                     </div>
                 </a>
             </div>
         </div>
-    </div>
     </div>
 </section>
 
@@ -50,13 +60,21 @@
 
     .display-4 {
         font-size: 1.3rem;
-        margin-bottom: 1rem;
+        margin: 1rem 0;
+        color: #52a550
     }
 
     .fm {
         background: white;
         padding: 15px;
         border-radius: 4px;
+        margin: 0 .5em;
+        min-height: 350px;
+    }
+    
+    .fm:hover{
+        transform: scale(.95);
+        transition: .5s all ease;
     }
 
     .shadow {
