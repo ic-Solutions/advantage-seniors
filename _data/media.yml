@@ -1,3 +1,20 @@
+- media-house: Know.ORG
+  id: media-3
+  logo: /images/media/kuow_org.png
+  logoid: know_org
+  articles:
+    - image: /images/media/know-org-001.jpg
+      title: The Word Is Dumping By LIZ JONES • NOV 18, 2014
+      content:
+        - Back in Bangalore, Roshan Jacob runs an in-home health care service for seniors, many whose children live abroad. “I can provide nursing services, live-in nurses, physical therapy, daily, weekly, monthly visits,” Jacob says. “Any procedure I can do in the house. You name anything under the sun, medical, and I can do it in the house. OK?” He also sends frequent updates to the children abroad. It’s a service that offers a sort of middle ground between retirement homes and kids moving back in.
+        - Jacob and his partner Soumya Laxmi started this business, advantAGE Seniors, in 2001. It now employs about 500 caregivers on staff.
+        - He firmly believes seniors are better off in their own homes, where they can keep up with their friends and hobbies. It’s an idea, and business model, that’s gaining traction across India. A major consulting firm recently estimated this industry is growing nearly 20 percent a year.Still, Jacob says, this approach can be a tough sell to children thousands of miles away. Distance can sometimes weaken family bonds.
+        - “Most of the children – don’t take this as negative; I’m sharing my experience with you – they’re simply not bothered,” he says. Jacob’s price for a live-in caregiver starts at $200 a month.  He says some of the children, who often work for multinational companies, balk at the cost.
+        - “They’re under the impression that India is still cheap,” Jacob says. “The care-giving task is not cheap. You have to pay more to get this quality, but children are not interested in that.” He acknowledges that senior living facilities in India are improving, and some are top notch. But like many Indians, it’s tough for him to shake an old social stigma about these places.
+        - “Dumping your mother,” he says. “The word is dumping. Other neighbors or relatives will say, ‘Oh, he dumped his mother in an old age home.’” Across town at Sanjay’s multi-generational house, the kids wind down for bed. Grandfather and granddaughter tuck in on the couch.
+        - Sanjay believes this arrangement, in this lively household, keeps his dad active and healthy. At a retirement home, Sanjay worries his father would watch too much TV and languish. I ask him whether he thinks this is the best arrangement for his father. “I think it’s the best arrangement for me,” he says with a grin. Like many families, they’ll likely dance around this conversation for years.         
+        - <a href="http://archive.kuow.org/post/who-will-care-parents-expat-indians-0" target="_blank">Read in Know.org website</a>
+
 - media-house: The New Indian Express
   id: media-1
   logo: /images/media/the_new_indian_express.png
@@ -34,22 +51,6 @@
       title: The Old are Precious People Too
       content:
         - This is about the need for more specialized care of the elderly and calls for a soft approach when it comes to elder approach again because they have special needs. Dr.Prathibha Pereira, who was associated with the erstwhile advantAGE, highlight the need for more geriatricians to tackle the various medical needs of this ever increasing cohort.
-
-- media-house: Know.ORG
-  id: media-3
-  logo: /images/media/kuow_org.png
-  logoid: know_org
-  articles:
-    - image:
-      title: The Word Is Dumping By LIZ JONES • NOV 18, 2014
-      content:
-        - Back in Bangalore, Roshan Jacob runs an in-home health care service for seniors, many whose children live abroad. “I can provide nursing services, live-in nurses, physical therapy, daily, weekly, monthly visits,” Jacob says. “Any procedure I can do in the house. You name anything under the sun, medical, and I can do it in the house. OK?” He also sends frequent updates to the children abroad. It’s a service that offers a sort of middle ground between retirement homes and kids moving back in.
-        - Jacob and his partner Soumya Laxmi started this business, advantAGE Seniors, in 2001. It now employs about 500 caregivers on staff.
-        - He firmly believes seniors are better off in their own homes, where they can keep up with their friends and hobbies. It’s an idea, and business model, that’s gaining traction across India. A major consulting firm recently estimated this industry is growing nearly 20 percent a year.Still, Jacob says, this approach can be a tough sell to children thousands of miles away. Distance can sometimes weaken family bonds.
-        - “Most of the children – don’t take this as negative; I’m sharing my experience with you – they’re simply not bothered,” he says. Jacob’s price for a live-in caregiver starts at $200 a month.  He says some of the children, who often work for multinational companies, balk at the cost.
-        - “They’re under the impression that India is still cheap,” Jacob says. “The care-giving task is not cheap. You have to pay more to get this quality, but children are not interested in that.” He acknowledges that senior living facilities in India are improving, and some are top notch. But like many Indians, it’s tough for him to shake an old social stigma about these places.
-        - “Dumping your mother,” he says. “The word is dumping. Other neighbors or relatives will say, ‘Oh, he dumped his mother in an old age home.’” Across town at Sanjay’s multi-generational house, the kids wind down for bed. Grandfather and granddaughter tuck in on the couch.
-        - Sanjay believes this arrangement, in this lively household, keeps his dad active and healthy. At a retirement home, Sanjay worries his father would watch too much TV and languish. I ask him whether he thinks this is the best arrangement for his father. “I think it’s the best arrangement for me,” he says with a grin. Like many families, they’ll likely dance around this conversation for years.
 
 - media-house: Los Angeles Times
   id: media-4
