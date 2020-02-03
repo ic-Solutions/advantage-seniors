@@ -19,3 +19,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
+
+facebook:
+  app_id: 580865736041893
+  publisher: "advantAGE Seniors"
+
+twitter:
+  username: AdvantageSenio4
+  card: summary
