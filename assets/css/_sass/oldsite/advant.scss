@@ -54,7 +54,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/mainpagebg.jpg');
+  background-image: url('/images/mainpagebg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 }
@@ -64,7 +64,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  /* background-image: url('images/footbg.png'); */
+  /* background-image: url('/images/footbg.png'); */
   background-position: bottom;
   background-repeat: repeat-x;
 }
@@ -87,7 +87,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/bg2.jpg');
+  background-image: url('/images/bg2.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -98,7 +98,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/mediabg.jpg');
+  background-image: url('/images/mediabg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -109,7 +109,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/servicebg.jpg');
+  background-image: url('/images/servicebg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -120,7 +120,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/galbg.jpg');
+  background-image: url('/images/galbg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -132,7 +132,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/seminarbg.jpg');
+  background-image: url('/images/seminarbg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -143,7 +143,7 @@ line-height: 2;
   height: inherit;
   float: left;
   padding: 0px 0px;
-  background-image: url('images/galbg.jpg');
+  background-image: url('/images/galbg.jpg');
   background-position: top;
   background-repeat: no-repeat;
 	background-size: contain;
@@ -174,6 +174,11 @@ line-height: 2;
   height: 462px;
   margin: 80px 40px 0px 0px;
   float: left;
+}
+
+.ratexts.adjust {
+  margin-top: -9px;
+  margin-bottom: -9px;
 }
 
 .mobilemenu {
@@ -224,7 +229,7 @@ line-height: 2;
   height: 83px;
   margin: 5px 0px 0px 0px;
   float: right;
-  background-image: url('images/chatbg.png');
+  background-image: url('/images/chatbg.png');
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -656,7 +661,7 @@ line-height: 2;
 }
 
 .newspaper {
-  background-image: url('images/newslogobg.png');
+  background-image: url('/images/newslogobg.png');
   background-position: left;
   background-repeat: no-repeat;
   width: 302px;
@@ -668,7 +673,7 @@ line-height: 2;
 }
 
 .expert {
-  background-image: background-position: left;
+  background-position: left;
   background-repeat: no-repeat;
   width: 302px;
   height: 43px;
@@ -723,7 +728,7 @@ line-height: 2;
   margin: 1px 0px;
   line-height: 30px;
   padding-left: 3%;
-  background-image: url('images/arrow.png');
+  background-image: url('/images/arrow.png');
   background-repeat: no-repeat;
   background-position: 5px 10px;
   text-decoration: none;
@@ -819,7 +824,7 @@ line-height: 2;
   text-align: center;
   z-index: 99999999;
   background-color: #777777;
-  background-image: url('images/Scroll-to-top-button.png');
+  background-image: url('/images/Scroll-to-top-button.png');
   background-repeat: no-repeat;
   background-position: 10px 10px;
   color: #eeeeee;
@@ -966,7 +971,7 @@ line-height: 2;
     height: 83px;
     margin: 25px 0px 0px 0px;
     float: left;
-    background-image: url('images/chatbg3.png');
+    background-image: url('/images/chatbg3.png');
     background-repeat: no-repeat;
     background-position: top;
   }
@@ -1048,7 +1053,7 @@ line-height: 2;
   }
 
   .newspaper {
-    background-image: url('images/newslogobg.png');
+    background-image: url('/images/newslogobg.png');
     background-position: left;
     background-repeat: no-repeat;
     width: 302px;
@@ -1172,7 +1177,7 @@ line-height: 2;
     height: 83px;
     margin: 25px 0px 0px 0px;
     float: right;
-    background-image: url('images/chatbg2.png');
+    background-image: url('/images/chatbg2.png');
     background-repeat: no-repeat;
     background-position: top;
   }
@@ -1256,7 +1261,7 @@ line-height: 2;
     margin: 1px 0px;
     line-height: 30px;
     padding-left: 5%;
-    background-image: url('images/arrow.png');
+    background-image: url('/images/arrow.png');
     background-repeat: no-repeat;
     background-position: 5px 10px;
     text-decoration: none;
@@ -1556,7 +1561,7 @@ line-height: 2;
     float: left;
     border-top: 3px solid #d37302;
     background-color: #1c1c1c;
-    background-image: url(images/blc.jpg);
+    background-image: url(/images/blc.jpg);
     background-position: bottom;
   }
 
@@ -1755,7 +1760,7 @@ line-height: 2;
     float: left;
     border-top: 3px solid #d37302;
     background-color: #1c1c1c;
-    background-image: url(images/blc.jpg);
+    background-image: url(/images/blc.jpg);
     background-position: bottom;
   }
 
@@ -1963,6 +1968,7 @@ line-height: 2;
     text-align: center;
   }
 
+
   .row4 {
     margin: 0px;
     width: 100%;
@@ -1989,7 +1995,7 @@ line-height: 2;
     float: left;
     border-top: 3px solid #d37302;
     background-color: #1c1c1c;
-    background-image: url(images/blc.jpg);
+    background-image: url(/images/blc.jpg);
     background-position: bottom;
   }
 
