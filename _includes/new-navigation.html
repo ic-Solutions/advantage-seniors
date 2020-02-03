@@ -1,39 +1,38 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand js-scroll-trigger" href="/">{{site.title}}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+      aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/things_to_know.html">Things to Know</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/guidance_resources.html">Guidance</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/lionels-world/">Lionel's World</a>
+        </li>
+        {% if page.url != '/blog/' %}
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="/blog/">Blog</a>
+        </li>
+        {% endif %}
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="javascript:void(Tawk_API.toggle())">Contact</a>
+        </li>
 
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="/">{{site.title}}</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/things_to_know.html">Things to Know</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/guidance_resources.html">Guidance</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/lionels-world/">Lionel's World</a>
-          </li>
-          {% if page.url != '/blog/' %}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/blog/">Blog</a>
-          </li>
-          {% endif %}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="javascript:void(Tawk_API.toggle())">Contact</a>
-          </li>
-
-          {% if page.layout == 'blog' or page.layout == 'post' %}
-          <li>
-            <p class="nav-link font-changer">Font size: <span class="js-font-decrease">A</span> <span class="js-font-normal">A</span> <span class="js-font-increase">A</span></p>
-          </li>
-          {% endif %}
-
-
-        </ul>
-      </div>
+        {% if page.layout == 'blog' or page.layout == 'post' %}
+        <li>
+          <p class="nav-link font-changer">Font size: <span class="js-font-decrease">A</span> <span
+              class="js-font-normal">A</span> <span class="js-font-increase">A</span></p>
+        </li>
+        {% endif %}
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>

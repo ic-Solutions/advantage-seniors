@@ -5,30 +5,30 @@
 
 <div id="slider">
   <a class="control_next">></a>
-  <a class="control_prev"><</a>
-  <ul>
-    {% for item in site.data.google-reviews limit: 10 %}
-    <li>
-      <div class="card">
-        <blockquote>
-          {{item.review | truncate: 480}}
-        </blockquote>
-        <p style="text-align: right">
-          <img src="{{item.image}}" alt="{{item.name}}" /> {{item.name}}
-        </p>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
+  <a class="control_prev">
+    <</a> <ul>
+      {% for item in site.data.google-reviews limit: 10 %}
+      <li>
+        <div class="card">
+          <blockquote>
+            {{item.review | truncate: 480}}
+          </blockquote>
+          <p style="text-align: right">
+            <img src="{{item.image}}" alt="{{item.name}}" /> {{item.name}}
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+      </ul>
 </div>
 
 <p class="more-reviews"><a class="btn" href="reviews.html">More Reviews</a></p>
 
 <!-- Testimonial slider script -->
 <script>
-  jQuery(document).ready(function($) {
-    $("#checkbox").change(function() {
-      setInterval(function() {
+  jQuery(document).ready(function ($) {
+    $("#checkbox").change(function () {
+      setInterval(function () {
         moveRight();
       }, 3000);
     });
@@ -50,7 +50,7 @@
           left: +slideWidth
         },
         300,
-        function() {
+        function () {
           $("#slider ul li:last-child").prependTo("#slider ul");
           $("#slider ul").css("left", "");
         }
@@ -63,18 +63,18 @@
           left: -slideWidth
         },
         300,
-        function() {
+        function () {
           $("#slider ul li:first-child").appendTo("#slider ul");
           $("#slider ul").css("left", "");
         }
       );
     }
 
-    $("a.control_prev").click(function() {
+    $("a.control_prev").click(function () {
       moveLeft();
     });
 
-    $("a.control_next").click(function() {
+    $("a.control_next").click(function () {
       moveRight();
     });
   });
