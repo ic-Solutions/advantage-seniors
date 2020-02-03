@@ -45,14 +45,14 @@
     <link href="/assets/css/video.popup.css" rel="stylesheet">
     <script src="/assets/js/video.popup.js"></script>
     <script>
-        {% - for item in site.data.videos -%}
+        {%- for item in site.data.videos -%}
         $("#video{{forloop.index}}").videoPopup({
             autoplay: 1,
             controlsColor: 'white',
             showVideoInformations: 0,
             width: 800,
         });
-        {% - endfor -%}
+        {%- endfor -%}
     </script>
     {% endif %}
 
