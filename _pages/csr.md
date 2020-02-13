@@ -16,11 +16,7 @@ redirect_from: /csr.html
     <meta
         content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology"
         name="keywords" />
-
     <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-    <script src="/scroltop/scrolltop.js"></script>
-    <script src="/scroltop/scrolcontrole.js"></script>
-
     <!--mobile menu start-->
     <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
     <script src="/respmenu/jquery.min.js" type="text/javascript"></script>
