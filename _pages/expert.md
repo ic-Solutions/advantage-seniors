@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: Experts in senior care
 description: Here are some of the experts in seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology.
 image: /images/servicebg.jpg
@@ -7,8 +7,7 @@ permalink: /experts/
 redirect_from: /experts.html
 ---
 
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="/images/fav-icon.png" />
@@ -317,21 +316,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 </div>
 
 {% include sidebar-brochure.html %}
-
-<!--Start of Tawk.to Script-->
-<script async type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!-- End of Tawk.to Script --><!-- Fontawesome through JavaScript -->
-<script async  type="text/javascript"> (function() { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
+{% include chat.html %}
 <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 </body>
-</html>
+

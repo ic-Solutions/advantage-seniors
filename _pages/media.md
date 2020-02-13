@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Media
 description: Some of the media houses where advanAge seniors elder Geriatric Care Facility has been featured.
 image: /images/servicebg.jpg
@@ -6,9 +7,6 @@ permalink: /media/
 redirect_from: /media.html
 ---
 
-
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -40,7 +38,7 @@ redirect_from: /media.html
   <link rel="stylesheet" type="text/css" href="/highslide/highslide.css">
 
   <!--
-	2) Optionally override the settings defined at the top
+	1) Optionally override the settings defined at the top
 	of the highslide.js file. The parameter hs.graphicsDir is important!
 -->
 
@@ -171,25 +169,8 @@ redirect_from: /media.html
 
 
   {% include sidebar-brochure.html %}
+  {% include chat.html %}
 
-  <!--Start of Tawk.to Script-->
-  <script async type="text/javascript">
-    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-    (function () {
-      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-      s1.async = true;
-      s1.src = 'https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default';
-      s1.charset = 'UTF-8';
-      s1.setAttribute('crossorigin', '*');
-      s0.parentNode.insertBefore(s1, s0);
-    })();
-  </script>
-  <!-- End of Tawk.to Script -->
-  <!-- Fontawesome through JavaScript -->
-  <script
-    type="text/javascript"> (function () { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
   <script src="//instant.page/3.0.0" type="module" defer
     integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 </body>
-
-</html>

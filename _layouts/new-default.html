@@ -1,5 +1,5 @@
 ---
-# front matter here
+#front matter here
 ---
 
 <!DOCTYPE html>
@@ -45,17 +45,17 @@
     <link href="/assets/css/video.popup.css" rel="stylesheet">
     <script src="/assets/js/video.popup.js"></script>
     <script>
-        {%- for item in site.data.videos -%}
+        {% for item in site.data.videos %}
         $("#video{{forloop.index}}").videoPopup({
             autoplay: 1,
             controlsColor: 'white',
             showVideoInformations: 0,
             width: 800,
         });
-        {%- endfor -%}
+        {% endfor %}
     </script>
     {% endif %}
-
+    {% include chat.html %}
     <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"
         src="https://instant.page/3.0.0" type="module"></script>
 </body>

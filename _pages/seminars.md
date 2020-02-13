@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Seminars on senior care
 description: In 2012, We conducted three international seminars in Bangalore, Kochi and Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai, Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK who are experts in their field presented interesting and innovative studies in the geriatric field.
 image: /images/servicebg.jpg
@@ -7,8 +8,6 @@ redirect_from: /seminars.html
 ---
 
 
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="/images/fav-icon.png" />
@@ -23,7 +22,7 @@ redirect_from: /seminars.html
 <link rel="stylesheet" type="text/css" href="/highslide/highslide.css">
 
 <!--
-	2) Optionally override the settings defined at the top
+	1) Optionally override the settings defined at the top
 	of the highslide.js file. The parameter hs.graphicsDir is important!
 -->
 
@@ -524,21 +523,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 </div>
 
 {% include sidebar-brochure.html %}
-
-<!--Start of Tawk.to Script-->
-<script async type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!-- End of Tawk.to Script --><!-- Fontawesome through JavaScript -->
-<script async  type="text/javascript"> (function() { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
+{% include chat.html %}
 <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 </body>
-</html>
+

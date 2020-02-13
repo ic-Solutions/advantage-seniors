@@ -1,14 +1,11 @@
 ---
-layout: compress
+layout: default
 title: Homecare for seniors
 description: Advantage Seniors is knows for its hospitality. Read some of the reviews by people who opted Advantage Seniors care facility.
 image: /images/servicebg.jpg
 permalink: /reviews/
 redirect_from: /reviews.html
 ---
-
-<!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -228,34 +225,7 @@ redirect_from: /reviews.html
     </div>
 
     {% include sidebar-brochure.html %}
-
-    <!--Start of Tawk.to Script-->
-    <script async type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function () {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = "https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default";
-            s1.charset = "UTF-8";
-            s1.setAttribute("crossorigin", "*");
-            s0.parentNode.insertBefore(s1, s0);
-        })();
-    </script>
-    <!-- End of Tawk.to Script -->
-    <!-- Fontawesome through JavaScript -->
-    <script type="text/javascript">
-        (function () {
-            var css = document.createElement("link");
-            css.href = "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
-            css.rel = "stylesheet";
-            css.type = "text/css";
-            document.getElementsByTagName("head")[0].appendChild(css);
-        })();
-    </script>
+    {% include chat.html %}
     <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"
         src="//instant.page/3.0.0" type="module"></script>
 </body>
-
-</html>

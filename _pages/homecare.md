@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: Homecare for seniors
 description: When you feel the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors bangalore is the best elder Geriatric Care Facility.
 image: /images/servicebg.jpg
@@ -7,8 +7,7 @@ permalink: /homecare/
 redirect_from: /homecare.html
 ---
 
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="/images/fav-icon.png" />
@@ -294,21 +293,7 @@ Plus three months of clinical that teaches the students how to
 </div>
 
 {% include sidebar-brochure.html %}
-
-<!--Start of Tawk.to Script-->
-<script async type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!-- End of Tawk.to Script --><!-- Fontawesome through JavaScript -->
-<script async  type="text/javascript"> (function() { var css = document.createElement('link'); css.href = '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })();</script>
+{% include chat.html %}
 <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 </body>
-</html>
+

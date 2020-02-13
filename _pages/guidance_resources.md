@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: Guidance for senior care
 description: As Indians live longer, many develop chronic health conditions that require complex care. Caring for older adults with chronic conditions and complex health needs is becoming increasingly challenging.
 image: /images/servicebg.jpg
@@ -7,8 +7,6 @@ permalink: /guidance-resources/
 redirect_from: /guidance_resources.html
 ---
 
-<!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -234,35 +232,8 @@ redirect_from: /guidance_resources.html
         </div>
 
         {% include sidebar-brochure.html %}
-
-        <!--Start of Tawk.to Script-->
-        <script async type="text/javascript">
-            var Tawk_API = Tawk_API || {},
-                Tawk_LoadStart = new Date();
-            (function () {
-                var s1 = document.createElement("script"),
-                    s0 = document.getElementsByTagName("script")[0];
-                s1.async = true;
-                s1.src = "https://embed.tawk.to/5831b72d7295ad7394d0ba6f/default";
-                s1.charset = "UTF-8";
-                s1.setAttribute("crossorigin", "*");
-                s0.parentNode.insertBefore(s1, s0);
-            })();
-        </script>
-        <!-- End of Tawk.to Script -->
-        <!-- Fontawesome through JavaScript -->
-        <script type="text/javascript">
-            (function () {
-                var css = document.createElement("link");
-                css.href = "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
-                css.rel = "stylesheet";
-                css.type = "text/css";
-                document.getElementsByTagName("head")[0].appendChild(css);
-            })();
-        </script>
+        {% include chat.html %}
         <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"
             src="//instant.page/3.0.0" type="module"></script>
 </body>
 </body>
-
-</html>
