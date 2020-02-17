@@ -24,7 +24,7 @@ redirect_from: /csr.html
     <!--mobile menu end-->
 
 
-    <!--sidebar script start from here-->
+    <!-- sidebar script start from here -->
     <script src="/sidebar/jquery.js" type="text/javascript"></script>
     <link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript">
@@ -61,7 +61,7 @@ redirect_from: /csr.html
         });
     </script>
 
-    <!--sidebar script end from here-->
+    <!-- sidebar script end from here -->
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
     <script>
@@ -191,12 +191,7 @@ redirect_from: /csr.html
 
                     </div>
 
-                    <div class="scroll-top-wrapper ">
-                        <span class="scroll-top-inner">
-                            <i class="fa fa-arrow-up"></i>
-                        </span>
-                    </div>
-
+                   
                     {% include footer.html %}
 
                 </div>

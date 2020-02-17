@@ -25,18 +25,6 @@ redirect_from: /gallery.html
 
   <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
 
-  <script src="/scroltop/scrolltop.js"></script>
-
-  <script src="/scroltop/scrolcontrole.js"></script>
-
-
-  <!--mobile menu start-->
-
-  <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
-
-  <script src="/respmenu/responsivemobilemenu.js" type="text/javascript"></script>
-
-  <!--mobile menu end-->
 
 
 
@@ -106,6 +94,16 @@ redirect_from: /gallery.html
 
 
   <!--sidebar script end from here-->
+
+
+  <!--mobile menu start-->
+
+  <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
+
+  <script src="/respmenu/responsivemobilemenu.js" type="text/javascript"></script>
+
+  <!--mobile menu end-->
+
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>

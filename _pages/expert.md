@@ -16,13 +16,7 @@ redirect_from: /experts.html
 
 <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
 
-<script src="/scroltop/scrolltop.js"></script>
-<script src="/scroltop/scrolcontrole.js"></script>
 
-<!--mobile menu start-->
-<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css"/>
-<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
-<!--mobile menu end-->
 
 <!--sidebar script start from here-->
 <script src="/sidebar/jquery.js" type="text/javascript"></script>
@@ -41,6 +35,13 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 </script>
 
 <!--sidebar script end from here-->
+
+
+<!--mobile menu start-->
+<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css"/>
+<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
+<!--mobile menu end-->
+
 
 <!--popup content start here-->
 <link href="/pop/modelpop.css" rel="stylesheet" type="text/css">

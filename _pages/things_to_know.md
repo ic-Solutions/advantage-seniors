@@ -16,13 +16,7 @@ redirect_from: /things_to_know.html
 	<meta name="keywords"
 		content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology" />
 	<link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-	<script src="/scroltop/scrolltop.js"></script>
-	<script src="/scroltop/scrolcontrole.js"></script>
-	<!--mobile menu start-->
-	<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css" />
-	<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
-	<!--mobile menu end-->
-	<!--sidebar script start from here-->
+	<!-- sidebar script start from here -->
 	<script src="/sidebar/jquery.js" type="text/javascript"></script>
 	<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript">
@@ -36,14 +30,17 @@ redirect_from: /things_to_know.html
 					function () { jQuery("#testimoni_right").stop(true, false).animate({ right: -300 }, 500); });
 			});
 	</script>
-	<!--sidebar script end from here-->
+	<!-- sidebar script end from here -->
+	<!-- mobile menu start -->
+	<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css" />
+	<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
+	<!--mobile menu end-->
 	<!-- Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
 		gtag('js', new Date());
-
 		gtag('config', 'UA-140719676-1');
 	</script>
 </head>

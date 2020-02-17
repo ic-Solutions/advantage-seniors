@@ -13,9 +13,6 @@ redirect_from: /franchise.html
     <meta content="width=device-width, initial-scale=1" name="viewport">
     {% seo %}
     <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-    <script src="/scroltop/scrolltop.js"></script>
-    <script src="/scroltop/scrolcontrole.js"></script>
-
     <!--mobile menu start-->
     <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
     <script src="/respmenu/jquery.min.js" type="text/javascript"></script>
@@ -151,11 +148,6 @@ redirect_from: /franchise.html
 
                     </div>
 
-                    <div class="scroll-top-wrapper ">
-                        <span class="scroll-top-inner">
-                            <i class="fa fa-arrow-up"></i>
-                        </span>
-                    </div>
 
                     {% include footer.html %}
 

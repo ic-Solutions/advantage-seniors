@@ -19,8 +19,6 @@ redirect_from: comacare.html
     name="keywords" />
 
   <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-  <script src="/scroltop/scrolltop.js"></script>
-  <script src="/scroltop/scrolcontrole.js"></script>
 
   <!--mobile menu start-->
   <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
@@ -177,12 +175,6 @@ redirect_from: comacare.html
             </div>
 
 
-          </div>
-
-          <div class="scroll-top-wrapper ">
-            <span class="scroll-top-inner">
-              <i class="fa fa-arrow-up"></i>
-            </span>
           </div>
 
 
