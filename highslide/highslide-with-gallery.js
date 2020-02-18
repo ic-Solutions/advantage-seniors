@@ -33,7 +33,7 @@ lang : {
 	loadingTitle : 'Click to cancel',
 	focusTitle : 'Click to bring to front',
 	fullExpandTitle : 'Expand to actual size (f)',
-	creditsText : 'Powered by <i>eyotatechnology</i>',
+	creditsText : 'Powered by <i>ics</i>',
 	creditsTitle : '',
 	previousText : 'Previous',
 	nextText : 'Next', 
@@ -72,7 +72,7 @@ padToMinWidth : false, // pad the popup width to make room for wide caption
 fullExpandPosition : 'bottom right',
 fullExpandOpacity : 1,
 showCredits : true, // you can set this to false if you want
-creditsHref : 'http://eyotatechnology.com/',
+creditsHref : 'https://icsoln.com/',
 creditsTarget : '_self',
 enableKeyListener : true,
 openerTagNames : ['a'], // Add more to allow slideshow indexing
