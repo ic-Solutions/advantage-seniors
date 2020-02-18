@@ -2129,3 +2129,10 @@ line-height: 2;
   }
 
 }
+
+
+.text-center {
+  @include media-query($on-palm) {
+    text-align: center;
+  }
+}
