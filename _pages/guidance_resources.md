@@ -5,6 +5,13 @@ description: As Indians live longer, many develop chronic health conditions that
 image: /images/servicebg.jpg
 permalink: /guidance-resources/
 redirect_from: /guidance_resources.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 

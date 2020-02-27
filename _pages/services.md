@@ -5,6 +5,13 @@ description: Home is the first and the best option for the elders and we call it
 image: /images/servicebg.jpg
 permalink: /services/
 redirect_from: /services.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 <head>

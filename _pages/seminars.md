@@ -5,6 +5,13 @@ description: In 2012, We conducted three international seminars in Bangalore, Ko
 image: /images/servicebg.jpg
 permalink: /seminars/
 redirect_from: /seminars.html
+links:
+  - Geriatric Care Facility
+  - Coma Care
+  - Foster Care
+  - Respite Care
+  - Geriatric Counselling
+  - Family Care Giver Counselling
 ---
 
 

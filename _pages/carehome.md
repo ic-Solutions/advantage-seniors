@@ -8,6 +8,13 @@ more professional care. This is when the institutionalized care comes as a proba
 image: /images/servicebg.jpg
 permalink: /carehome/
 redirect_from: /carehome.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 <head>

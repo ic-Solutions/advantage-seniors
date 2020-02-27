@@ -111,25 +111,14 @@
 
   <h1 class="caption">Senior Care Options</h1>
   <div class="subcaption">You are not alone You have options...</div>
-
-  <div class="gallerypagehd">CSR - Corporate Social Responsibility</div>
+	
+	{% for item in page.links %}
+	{% if forloop.index == 1 %}
+  <div class="gallerypagehd">{{item}}</div>
+	{% else %}
   <div>
-    <a class="arrowtext" href="#1">PHM</a>
+    <a class="arrowtext" href="#{{forloop.index}}">{{item}}</a>
   </div>
-  <div>
-    <a class="arrowtext" href="#2">Rural Interventions</a>
-  </div>
-  <div>
-    <a class="arrowtext" href="#3">Ashraya Seva Samasthe</a>
-  </div>
-  <div>
-    <a class="arrowtext" href="#4">Sandhya Kutteera</a>
-  </div>
-  <div>
-    <a class="arrowtext" href="#5">Chinnara Angala</a>
-  </div>
-  <div>
-    <a class="arrowtext" href="#6">Swawalambhini</a>
-  </div>
-
+	{% endif %}
+{% endfor %}
 </div>

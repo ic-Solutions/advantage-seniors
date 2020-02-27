@@ -7,6 +7,13 @@ patient."
 image: /images/servicebg.jpg
 permalink: /coma-care/
 redirect_from: comacare.html
+links:
+  - Geriatric Care Facility
+  - Coma Care
+  - Foster Care
+  - Respite Care
+  - Geriatric Counselling
+  - Family Care Giver Counselling
 ---
 
 <head>

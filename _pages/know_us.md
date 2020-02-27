@@ -5,6 +5,13 @@ description: Our Chairman, Roshan Jacob got inspired to start a home based care 
 image: /images/servicebg.jpg
 permalink: /know-us/
 redirect_from: /know_as.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 

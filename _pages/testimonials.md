@@ -3,6 +3,13 @@ layout: default
 title: Testimonials
 description: Reviews from our partners and patrons about advantAge seniors elder Geriatric Care Facility in Bangalore.
 image: /images/servicebg.jpg
+links:
+  - Geriatric Care Facility
+  - Coma Care
+  - Foster Care
+  - Respite Care
+  - Geriatric Counselling
+  - Family Care Giver Counselling
 ---
 
 

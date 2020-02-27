@@ -5,6 +5,13 @@ description: When you feel the need for a professional care giver for your loved
 image: /images/servicebg.jpg
 permalink: /homecare/
 redirect_from: /homecare.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 

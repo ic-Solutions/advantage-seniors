@@ -5,6 +5,13 @@ description: Like us, you want to make a difference in the world around you. You
 image: /images/servicebg.jpg
 permalink: /franchise/
 redirect_from: /franchise.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 <head>

@@ -5,6 +5,13 @@ description: In todays world, it is common for extended families and friends to 
 image: /images/servicebg.jpg
 permalink: /things-to-know/
 redirect_from: /things_to_know.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 

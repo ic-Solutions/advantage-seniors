@@ -5,6 +5,13 @@ description: Here are some case studies which is taken out of real situations. I
 image: /images/servicebg.jpg
 permalink: /case-studies/
 redirect_from: /case_studies.html
+links:
+    - Geriatric Care Facility
+    - Coma Care
+    - Foster Care
+    - Respite Care
+    - Geriatric Counselling
+    - Family Care Giver Counselling
 ---
 
 
