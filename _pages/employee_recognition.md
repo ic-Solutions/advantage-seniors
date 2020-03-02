@@ -16,7 +16,9 @@ links:
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <link href="/images/fav-icon.png" rel="shortcut icon" />
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+
     <meta content="width=device-width, initial-scale=1" name="viewport">
     {% seo %}
     <meta

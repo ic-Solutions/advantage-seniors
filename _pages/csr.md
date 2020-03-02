@@ -17,67 +17,69 @@ links:
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <link href="/images/fav-icon.png" rel="shortcut icon" />
-    <meta content="width=device-width, initial-scale=1" name="viewport">
-    {% seo %}
-    <meta
-        content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology"
-        name="keywords" />
-    <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-    <!--mobile menu start-->
-    <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
-    <script src="/respmenu/jquery.min.js" type="text/javascript"></script>
-    <script src="/respmenu/responsivemobilemenu.js" type="text/javascript"></script>
-    <!--mobile menu end-->
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+
+<meta content="width=device-width, initial-scale=1" name="viewport">
+{% seo %}
+<meta
+    content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology"
+    name="keywords" />
+<link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
+<!--mobile menu start-->
+<link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
+<script src="/respmenu/jquery.min.js" type="text/javascript"></script>
+<script src="/respmenu/responsivemobilemenu.js" type="text/javascript"></script>
+<!--mobile menu end-->
 
 
-    <!-- sidebar script start from here -->
-    <script src="/sidebar/jquery.js" type="text/javascript"></script>
-    <link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript">
-        jQuery(document).ready(function () {
-            jQuery("#facebook_right").hover(function () {
-                jQuery(this).stop(true, false).animate({
-                    right: 0
-                }, 500);
-            }, function () {
-                jQuery("#facebook_right").stop(true, false).animate({
-                    right: -325
-                }, 500);
-            });
-
-            jQuery("#twitter_right").hover(function () {
-                jQuery(this).stop(true, false).animate({
-                    right: 0
-                }, 500);
-            }, function () {
-                jQuery("#twitter_right").stop(true, false).animate({
-                    right: -325
-                }, 500);
-            });
-
-            jQuery("#testimoni_right").hover(function () {
-                jQuery(this).stop(true, false).animate({
-                    right: 0
-                }, 500);
-            }, function () {
-                jQuery("#testimoni_right").stop(true, false).animate({
-                    right: -300
-                }, 500);
-            });
+<!-- sidebar script start from here -->
+<script src="/sidebar/jquery.js" type="text/javascript"></script>
+<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        jQuery("#facebook_right").hover(function () {
+            jQuery(this).stop(true, false).animate({
+                right: 0
+            }, 500);
+        }, function () {
+            jQuery("#facebook_right").stop(true, false).animate({
+                right: -325
+            }, 500);
         });
-    </script>
 
-    <!-- sidebar script end from here -->
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+        jQuery("#twitter_right").hover(function () {
+            jQuery(this).stop(true, false).animate({
+                right: 0
+            }, 500);
+        }, function () {
+            jQuery("#twitter_right").stop(true, false).animate({
+                right: -325
+            }, 500);
+        });
 
-        gtag('config', 'UA-140719676-1');
-    </script>
+        jQuery("#testimoni_right").hover(function () {
+            jQuery(this).stop(true, false).animate({
+                right: 0
+            }, 500);
+        }, function () {
+            jQuery("#testimoni_right").stop(true, false).animate({
+                right: -300
+            }, 500);
+        });
+    });
+</script>
+
+<!-- sidebar script end from here -->
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-140719676-1');
+</script>
 </head>
 
 <body>
