@@ -10,6 +10,28 @@ links:
     - Respite Care
     - Geriatric Counselling
     - Family Care Giver Counselling
+
+permalink: /referrals/
+redirect_from:
+  - refferals.html
+  - referrals.html
+  - things-to-know/refferals.html
+  - know-us/refferals.html
+  - media/refferals.html
+  - case-studies/refferals.html
+  - guidance-resources/refferals.html
+  - services/refferals.html
+  - franchise/refferals.html
+  - experts/refferals.html
+  - research/refferals.html
+  - gallery/refferals.html
+  - seminars/refferals.html
+  - corporate-social-responsibility/refferals.html
+  - coma-care/refferals.html
+  - carehome/refferals.html
+  - homecare/refferals.html
+  - reviews/refferals.html
+
 ---
 
 

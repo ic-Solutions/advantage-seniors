@@ -25,7 +25,6 @@ redirect_from:
   - gallery/testimonials.html
   - seminars/testimonials.html
   - corporate-social-responsibility/testimonials.html
-  - testimonials.html
   - coma-care/testimonials.html
   - carehome/testimonials.html
   - homecare/testimonials.html
