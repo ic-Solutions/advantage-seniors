@@ -10,6 +10,27 @@ links:
   - Respite Care
   - Geriatric Counselling
   - Family Care Giver Counselling
+
+redirect_from:
+  - testimonials.html
+  - things-to-know/testimonials.html
+  - know-us/testimonials.html
+  - media/testimonials.html
+  - case-studies/testimonials.html
+  - guidance-resources/testimonials.html
+  - services/testimonials.html
+  - franchise/testimonials.html
+  - experts/testimonials.html
+  - research/testimonials.html
+  - gallery/testimonials.html
+  - seminars/testimonials.html
+  - corporate-social-responsibility/testimonials.html
+  - testimonials.html
+  - coma-care/testimonials.html
+  - carehome/testimonials.html
+  - homecare/testimonials.html
+  - reviews/testimonials.html
+permalink: /testimonials/
 ---
 
 
