@@ -10,6 +10,12 @@ permalink: /lionels-world/
     <p class="mt-5 text-center desc-2">This comic series intends to convey the challenges faced by elderly people through the conversations between a social gerontologist and her pet.</p>
 </div>
 
+{% for item in site.lionels-world %}
+<ul>
+  <li><a href="{{item.url}}">{{item.title}}</a></li>
+</ul>
+{% endfor %}
+
 <section id="lionels-cards" class="pt-5">
   <div class="container"> 
     <div class="row justify-content-md-center">
