@@ -75,4 +75,4 @@ The need for skilled care that cannot be afforded by most people within the home
 
 Reasons for institutionalization may vary greatly but revolves around a single factor – the elderly need care within a facility.
 
-**Advantage Seniors** has been the leader in elderly home care in bangalore. [Read our testiminials](https://advantageseniors.org/reviews/)
+**Advantage Seniors** has been the leader in elderly home care in bangalore. [Read our testiminials](/reviews/)
