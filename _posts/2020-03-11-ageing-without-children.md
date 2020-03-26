@@ -5,6 +5,9 @@ description: Most of us hope that our family will step up and help out. But the 
 image: /assets/images/blog/Ageing-without-children-2.jpg
 author:
   - Roshan Jacob, Soumya Laxmi
+
+redirect_from:
+  - /2020/03/11/ageing-without-children.html
 ---
 
 It was a chance meeting with Diwakar Kamat and he told me when I met him at a free medical camp recently:

@@ -6,6 +6,8 @@ image: /assets/images/blog/Disabled_Siblings.jpg
 author:
   - Roshan Jacob
   - Soumya Laxmi
+redirect_from:
+  - /2019/02/05/disabled-siblings.html
 ---
 
 A child perhaps mentally or physically disabled from birth or one who might have suffered an accident earlier in life, grows into adulthood, having been cared for by very loving parents who did everything that could’ve muster is no more and the responsibility falls on the adult siblings.

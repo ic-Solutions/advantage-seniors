@@ -6,6 +6,8 @@ image: /assets/images/blog/spousal-caregiver.jpg
 author:
   - Roshan Jacob
   - Soumya Laxmi
+redirect_from: 
+  - /2019/02/04/lone-battle.html
 ---
 
 **Mrs. Arathi Mukharjee** a 54 - year old wife, had to wind up her carrier to care for her husband who is ailing with pseudo bulbar palsy, a crippling disorder in the highest order. Husband being diagnosed with this progressive, chronic clinical condition Mrs. Mukherjee had to dash into the role of a primary care giver.

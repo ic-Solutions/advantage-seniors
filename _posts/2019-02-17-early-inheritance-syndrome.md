@@ -4,6 +4,8 @@ title: Seniors wrecked by this phenomenon called, 'Early Inheritance Syndrome'
 description: Also called as ‘Inheritance Impatience’, early inheritance syndrome is just one of the ugly faces of financial elder abuse. It is becoming a more common issue in a society where elders are living longer and living richer than at any time.
 image: /assets/images/blog/early-inheritance-syndrome.jpg
 author: Soumya Laxmi
+redirect_from:
+    - /2019/02/17/early-inheritance-syndrome.html
 ---
 
 **Also called as ‘Inheritance Impatience’, early inheritance syndrome** is just one of the ugly faces of financial elder abuse. It is becoming a more common issue in a society where elders are living longer and living richer than at any time. Adult Children with ''early inheritance syndrome'' feel a sense of entitlement to their old parents' assets.

@@ -10,7 +10,7 @@ permalink: /blog/
 <div class="col-md-8 resize">
     {% for post in site.posts %}
         <!-- Blog Post -->
-        <div class="card mb-4">
+        <div class="card mb-5">
             <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}">
             <div class="card-body">
                 <h2 class="card-title">{{post.title}}</h2>
@@ -21,17 +21,9 @@ permalink: /blog/
                 Posted on
                 {{ post.date | date: '%d %B, %Y' }}
                 by
-                <a href="/know_as.html">{{post.author | join: ', '}}</a>
+                <a href="/know-us/">{{post.author | join: ', '}}</a>
             </div>
         </div>
     {% endfor %}
-    <!-- Pagination -->
-    <ul class="pagination justify-content-center mb-4">
-        <li class="page-item">
-            <a class="page-link" href="#">← Older</a>
-        </li>
-        <li class="page-item disabled">
-            <a class="page-link" href="#">Newer →</a>
-        </li>
-    </ul>
+
 </div>

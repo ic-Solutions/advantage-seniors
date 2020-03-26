@@ -5,6 +5,8 @@ description: According to many social gerontology studies across the world, soci
 image: /assets/images/blog/how-often-you-visit-your-aged-parents.jpg
 author:
   - Soumya Laxmi
+redirect_from:
+  - /2018/06/26/how-often-you-visit-aged-parents.html
 ---
 
 Recently, my colleague and I visited a Trust run old age home where they house underprivileged or may be not so privileged elderly women. In a large dormitory with beds adjacent to each other with an ample space to move around and highly ventilated well-kept with utmost cleanliness it is far fancier to be called as a charitable place.
