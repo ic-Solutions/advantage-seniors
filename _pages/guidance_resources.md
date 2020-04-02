@@ -209,7 +209,7 @@ links:
 
                                 <div class="servicpagehd">Download Brouchure</div>
                                 <div align="center" class="iconcover">
-                                    <a href="/images/downloads/Brochure.pdf" target="_blank"><img border="0"
+                                    <a href="/images/downloads/Brochure.pdf" target="_blank"><img
                                             class="widimg" src="/images/download.jpg" /></a>
                                 </div>
 

@@ -212,7 +212,7 @@ links:
               <div class="servicpagehd">Download Brouchure</div>
 
               <div class="iconcover" align="center"><a href="/images/downloads/Brochure.pdf" target="_blank"><img
-                    src="/images/download.jpg" border="0" class="widimg" alt="download brochure button" /></a></div>
+                    src="/images/download.jpg" class="widimg" alt="download brochure button" /></a></div>
 
 
 

@@ -145,7 +145,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-1">
 <div class="galhedrs">Lisie hospital kochi kerala</div>
-<img src="/images/lissy.jpg" alt="Lisie hospital kochi" border="0" title="Lisie hospital kochi" class="semimg"/></label>
+<img src="/images/lissy.jpg" alt="Lisie hospital kochi" title="Lisie hospital kochi" class="semimg"/></label>
 
 <input class="modal-state" id="modal-1" type="checkbox" />
 <div class="modal">
@@ -157,19 +157,19 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
      <div class="ratexts">
 <a href="/images/seminars/2012/Lissy/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/1.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Lissy/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Lissy/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/2.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Lissy/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Lissy/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/3.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Lissy/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Lissy/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/4.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Lissy/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Lissy/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/5.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Lissy/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 </div>
 
@@ -183,7 +183,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-2">
 <div class="galhedrs">Nimhans Bangalore</div>
-<img src="/images/nimhans.jpg" alt="Nimhans" border="0" title="Nimhans" class="semimg"/></label>
+<img src="/images/nimhans.jpg" alt="Nimhans" title="Nimhans" class="semimg"/></label>
 
 <input class="modal-state" id="modal-2" type="checkbox" />
 <div class="modal">
@@ -196,31 +196,31 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
 <a href="/images/seminars/2012/Nimhans/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/1.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/2.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/3.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/4.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/5.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/6.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/6.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/7.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/7.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/8.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/8.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 <a href="/images/seminars/2012/Nimhans/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/9.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg" /></a>
+<img src="/images/seminars/2012/Nimhans/thumb/9.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
 
 
 </div>
@@ -235,7 +235,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-3">
 <div class="galhedrs">Pushpagiri Medical College</div>
-<img src="/images/pushpagiri.jpg" alt="Pushpagiri Medical College" border="0" title="Pushpagiri Medical College" class="semimg"/></label>
+<img src="/images/pushpagiri.jpg" alt="Pushpagiri Medical College" title="Pushpagiri Medical College" class="semimg"/></label>
 
 <input class="modal-state" id="modal-3" type="checkbox" />
 <div class="modal">
@@ -248,22 +248,22 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
 <a href="/images/seminars/2012/Pushpagiri/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/1.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 
 <a href="/images/seminars/2012/Pushpagiri/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/2.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 
 <a href="/images/seminars/2012/Pushpagiri/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/3.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 
 <a href="/images/seminars/2012/Pushpagiri/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/4.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 
 <a href="/images/seminars/2012/Pushpagiri/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/5.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 
 <a href="/images/seminars/2012/Pushpagiri/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/6.jpg" alt="seminar 2012" border="0" title="seminar 2012" class="galbordimg"/></a>
+<img src="/images/seminars/2012/Pushpagiri/thumb/6.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
 </div>
 
 	</p>
@@ -288,7 +288,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-4">
 <div class="galhedrs">Apollo Speciality Hospital</div>
-<img src="/images/apollo.jpg" alt="Apollo Speciality Hospital" border="0" title="Apollo Speciality Hospital" class="semimg"/></label>
+<img src="/images/apollo.jpg" alt="Apollo Speciality Hospital" title="Apollo Speciality Hospital" class="semimg"/></label>
 
 <input class="modal-state" id="modal-4" type="checkbox" />
 <div class="modal">
@@ -301,34 +301,34 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
      <a href="/images/seminars/2014/Apollo/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/1.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/2.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/3.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/4.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/5.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/6.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/7.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/8.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/9.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Apollo/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/10.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Apollo/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 </div>
 
@@ -341,7 +341,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
  <div class="bordshadow">
 <label for="modal-5">
 <div class="galhedrs">Manipal University</div>
-<img src="/images/manipal.jpg" alt="Manipal University" border="0" title="Manipal University" class="semimg"/></label>
+<img src="/images/manipal.jpg" alt="Manipal University" title="Manipal University" class="semimg"/></label>
 
 <input class="modal-state" id="modal-5" type="checkbox" />
 <div class="modal">
@@ -354,34 +354,34 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
 <a href="/images/seminars/2014/Manipal/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/1.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/2.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/3.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/4.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/5.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/6.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/7.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/8.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/9.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Manipal/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Manipal/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/10.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/Manipal/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 </div>
 
@@ -394,7 +394,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-6">
 <div class="galhedrs">PSG Medical College</div>
-<img src="/images/psg.jpg" alt="PSG Medical College" border="0" title="PSG Medical College" class="semimg"/></label>
+<img src="/images/psg.jpg" alt="PSG Medical College" title="PSG Medical College" class="semimg"/></label>
 
 <input class="modal-state" id="modal-6" type="checkbox" />
 <div class="modal">
@@ -407,34 +407,34 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
 <a href="/images/seminars/2014/PSG/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/1.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/2.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/3.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/4.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/5.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/6.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/7.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/8.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/9.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/PSG/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/PSG/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/10.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/PSG/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 
 </div>
@@ -448,7 +448,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="bordshadow">
 <label for="modal-7">
 <div class="galhedrs">Roshni Nilaya Mangalore</div>
-<img src="/images/rosni_nilay.jpg" alt="Roshni Nilaya Mangalore" border="0" title="Roshni Nilaya Mangalore" class="semimg"/></label>
+<img src="/images/rosni_nilay.jpg" alt="Roshni Nilaya Mangalore" title="Roshni Nilaya Mangalore" class="semimg"/></label>
 
 <input class="modal-state" id="modal-7" type="checkbox" />
 <div class="modal">
@@ -461,43 +461,43 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
      <div class="ratexts">
 
 <a href="/images/seminars/2014/Roshninilya/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/1.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/2.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/3.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/4.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/5.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/6.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/7.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/8.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/9.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg" /></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/10.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/11.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/11.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/11.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/12.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/12.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/12.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 <a href="/images/seminars/2014/Roshninilya/big/13.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/13.jpg" alt="seminar 2014" border="0" title="seminar 2014" class="galbordimg"/></a>
+<img src="/images/seminars/2014/Roshninilya/thumb/13.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
 
 
 </div>

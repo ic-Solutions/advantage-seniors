@@ -271,7 +271,7 @@ Plus three months of clinical that teaches the students how to
 <div class="onebyfour">
 
 <div class="servicpagehd">Download Brouchure</div>
-<div class="iconcover" align="center"><a href="/images/downloads/Brochure.pdf" target="_blank" ><img src="/images/download.jpg" border="0" class="widimg"/></a></div>
+<div class="iconcover" align="center"><a href="/images/downloads/Brochure.pdf" target="_blank" ><img src="/images/download.jpg" class="widimg"/></a></div>
 
 <div class="servicpagehd">Geriatric Care Facilitys</div>
 <div class="iconcover" align="center"><img src="/images/icons1.jpg"/></div>

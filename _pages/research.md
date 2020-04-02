@@ -166,7 +166,7 @@ links:
                             </div>
                             <div align="center" class="iconcover">
                                 <a href="/images/downloads/Geriatric_Research_Book.pdf" target="_blank">
-                                    <img border="0" class="widimg" src="/images/download_but2.jpg" /></a>
+                                    <img class="widimg" src="/images/download_but2.jpg" /></a>
                             </div>
                         </div>
 
@@ -176,7 +176,7 @@ links:
                             </div>
                             <div align="center" class="iconcover">
                                 <a href="/images/downloads/Caregiving_workers.pdf" target="_blank">
-                                    <img border="0" class="widimg" src="/images/download_but.jpg" /></a>
+                                    <img class="widimg" src="/images/download_but.jpg" /></a>
                             </div>
                         </div>
 

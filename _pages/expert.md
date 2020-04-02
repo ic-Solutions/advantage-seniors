@@ -86,7 +86,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="row1" >
 <div class="ratexts">
 <label for="modal-1"><a name="1"></a>
-<img src="/images/expert/1.jpg" alt="Dr. Carolyn M. Gallogly " border="0" class="widimg"/></label>
+<img src="/images/expert/1.jpg" alt="Dr. Carolyn M. Gallogly " class="widimg"/></label>
 
 <input class="modal-state" id="modal-1" type="checkbox" />
 <div class="modal">
@@ -112,7 +112,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 <div class="imggap">
 <label for="modal-2"><a name="2"></a>
-<img src="/images/expert/2.jpg" alt="Dr. Amanda Phelan" border="0" class="widimg"/></label>
+<img src="/images/expert/2.jpg" alt="Dr. Amanda Phelan" class="widimg"/></label>
 
 <input class="modal-state" id="modal-2" type="checkbox" />
 <div class="modal">
@@ -136,7 +136,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-3"><a name="3"></a>
-<img src="/images/expert/3.jpg" alt="Marcie Cooper" border="0" class="widimg"/></label>
+<img src="/images/expert/3.jpg" alt="Marcie Cooper" class="widimg"/></label>
 
 <input class="modal-state" id="modal-3" type="checkbox" />
 <div class="modal">
@@ -159,7 +159,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-4"><a name="4"></a>
-<img src="/images/expert/4.jpg" alt="Dr Paul Nash" border="0" class="widimg"/></label>
+<img src="/images/expert/4.jpg" alt="Dr Paul Nash" class="widimg"/></label>
 
 <input class="modal-state" id="modal-4" type="checkbox" />
 <div class="modal">
@@ -196,7 +196,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-6"><a name="6"></a>
-<img src="/images/expert/6.jpg" alt="Judith S Parnes" border="0" class="widimg"/></label>
+<img src="/images/expert/6.jpg" alt="Judith S Parnes" class="widimg"/></label>
 
 <input class="modal-state" id="modal-6" type="checkbox" />
 <div class="modal">
@@ -218,7 +218,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-7"><a name="7"></a>
-<img src="/images/expert/7.jpg" alt="Vanessa Burholt" border="0" class="widimg"/></label>
+<img src="/images/expert/7.jpg" alt="Vanessa Burholt" class="widimg"/></label>
 
 <input class="modal-state" id="modal-7" type="checkbox" />
 <div class="modal">
@@ -248,7 +248,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-8"><a name="8"></a>
-<img src="/images/expert/8.jpg" alt="Robyn Flipse" border="0" class="widimg"/></label>
+<img src="/images/expert/8.jpg" alt="Robyn Flipse" class="widimg"/></label>
 
 <input class="modal-state" id="modal-8" type="checkbox" />
 <div class="modal">
@@ -278,7 +278,7 @@ Amanda Phelan is originally from County Galway and undertook general nurse train
 
 <div class="imggap">
 <label for="modal-9"><a name="9"></a>
-<img src="/images/expert/9.jpg" alt="Amy Cotton" border="0" class="widimg"/></label>
+<img src="/images/expert/9.jpg" alt="Amy Cotton" class="widimg"/></label>
 
 <input class="modal-state" id="modal-9" type="checkbox" />
 <div class="modal">

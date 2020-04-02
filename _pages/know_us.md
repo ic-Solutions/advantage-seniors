@@ -130,7 +130,7 @@ links:
 
 							<div class="bgtext">
 
-								<p><img src="/images/founder.jpg" border="0" class="bordimg" />Our Chairman, Roshan
+								<p><img src="/images/founder.jpg" class="bordimg" />Our Chairman, Roshan
 									Jacob
 									got inspired to start a home based care for the elderly after working many years in
 									many
@@ -195,7 +195,7 @@ links:
 
 							<div class="bgtext">
 
-								<p><img src="/images/co_founder.jpg" border="0" class="bordimg" />Truly, Soumya Laxmi is
+								<p><img src="/images/co_founder.jpg" class="bordimg" />Truly, Soumya Laxmi is
 									compassion unlimited and from a very young age she discovered social work as her
 									calling. She had her schooling and college in Mysore and even before she completed
 									her
