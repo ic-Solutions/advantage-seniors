@@ -104,6 +104,66 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
  gtag('config', 'UA-140719676-1');
 </script>
+
+
+<!-- sidebar style -->
+  <style>
+  .newformbord {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border: 1px solid #99CC00;
+    font-size: 11px;
+    line-height: 20px;
+    font-weight: normal;
+    color: #333333;
+    text-decoration: none;
+    height: 20px;
+    width: 138px;
+  }
+
+  .blacktext {
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: normal;
+    color: #666666;
+    text-decoration: none;
+  }
+
+  .gren {
+    font-family: Arial;
+    font-size: 0.8rem;
+    line-height: 18px;
+    font-weight: normal;
+    color: #009900;
+    text-decoration: none;
+  }
+
+  .p-2 {
+    padding: 0.5rem 1rem;
+  }
+
+  .contact-card p {
+    margin: 0 !important;
+    font-size: 0.9rem;
+    line-height: 1.2;
+  }
+
+  .contact-card h3 {
+    margin: 0 !important;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+  }
+
+  .e-broch {
+    position: static !important;
+  }
+
+  #facebook_right, #twitter_right {
+    top: 15%; 
+    right: -325px; 
+    border: 1px solid #822206;
+  }
+</style>
 </head>
 
 <body>
