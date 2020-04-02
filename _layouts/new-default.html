@@ -27,7 +27,7 @@
     <script src="/assets/js/main.js"></script>
 
     <!-- Fontawesome through JavaScript -->
-    <script type="text/javascript">
+    <script>
         (function () {
             var css = document.createElement("link");
             css.href = "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
@@ -56,6 +56,18 @@
     </script>
     {% endif %}
     {% include chat.html %}
+
+    <!-- Fontawesome through JavaScript -->
+    <script>
+        (function () {
+            var css = document.createElement("link");
+            css.href = "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+            css.rel = "stylesheet";
+            css.type = "text/css";
+            document.getElementsByTagName("head")[0].appendChild(css);
+        })();
+    </script>
+    
     <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"
         src="https://instant.page/3.0.0"></script>
 </body>
