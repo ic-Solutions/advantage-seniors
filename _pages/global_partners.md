@@ -228,6 +228,6 @@ links:
 
     {% include sidebar-brochure.html %}
     {% include chat.html %}
-    <script defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"
-        src="//instant.page/3.0.0" type="module"></script>
+    <script defer 
+        src="//instant.page/3.0.0" ></script>
 </body>

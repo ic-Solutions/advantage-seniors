@@ -593,6 +593,6 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 {% include sidebar-brochure.html %}
 {% include chat.html %}
-<script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+<script src="//instant.page/3.0.0"  defer ></script>
 </body>
 
