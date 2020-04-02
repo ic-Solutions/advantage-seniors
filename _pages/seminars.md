@@ -27,7 +27,7 @@ links:
 
 <!--image zooming script start here-->
 
-<script type="text/javascript" src="/highslide/highslide-with-gallery.js"></script>
+<script   src="/highslide/highslide-with-gallery.js"></script>
 <link rel="stylesheet" type="text/css" href="/highslide/highslide.css">
 
 <!--
@@ -35,7 +35,7 @@ links:
 	of the highslide.js file. The parameter hs.graphicsDir is important!
 -->
 
-<script type="text/javascript">
+<script  >
 	hs.graphicsDir = '/highslide/graphics/';
 	hs.align = 'center';
 	hs.transitions = ['expand', 'crossfade'];
@@ -72,9 +72,9 @@ links:
 <!--popup content end here-->
 
 <!--sidebar script start from here-->
-<script src="/sidebar/jquery.js" type="text/javascript"></script>
+<script src="/sidebar/jquery.js"  ></script>
 <link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript">
+<script  >
 jQuery(document).ready (
 function(){jQuery("#facebook_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
 function(){ jQuery("#facebook_right").stop(true,false).animate({right: -325}, 500); });
@@ -91,7 +91,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 <!--mobile menu start-->
 <link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css"/>
-<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
+<script   src="/respmenu/responsivemobilemenu.js"></script>
 <!--mobile menu end-->
 
 

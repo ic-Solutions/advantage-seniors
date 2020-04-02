@@ -31,9 +31,9 @@ links:
     <link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
 
     <!--sidebar script start from here-->
-    <script src="/sidebar/jquery.js" type="text/javascript"></script>
+    <script src="/sidebar/jquery.js"  ></script>
     <link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript">
+    <script  >
         jQuery(document).ready(function () {
             jQuery("#facebook_right").hover(function () {
                 jQuery(this).stop(true, false).animate({
@@ -72,7 +72,7 @@ links:
 
     <!--mobile menu start-->
     <link href="/respmenu/responsivemobilemenu.css" rel="stylesheet" type="text/css" />
-    <script src="/respmenu/responsivemobilemenu.js" type="text/javascript"></script>
+    <script src="/respmenu/responsivemobilemenu.js"  ></script>
     <!--mobile menu end-->
 
 

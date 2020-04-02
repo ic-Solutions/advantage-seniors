@@ -40,11 +40,11 @@ links:
 
 	<!--sidebar script start from here-->
 
-	<script src="/sidebar/jquery.js" type="text/javascript"></script>
+	<script src="/sidebar/jquery.js"  ></script>
 
 	<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
 
-	<script type="text/javascript">
+	<script  >
 
 		jQuery(document).ready(
 
@@ -74,7 +74,7 @@ links:
 	<!--mobile menu start-->
 
 	<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css" />
-	<script type="text/javascript" src="/respmenu/responsivemobilemenu.js"></script>
+	<script   src="/respmenu/responsivemobilemenu.js"></script>
 
 	<!--mobile menu end-->
 
