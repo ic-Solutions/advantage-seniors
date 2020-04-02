@@ -183,7 +183,7 @@ redirect_from:
 
                     <div class="ratexts">
                         <div class="thingspagehd">
-                            <a name="1">Referrals</a>
+                            <a >Referrals</a>
                         </div>
                         <div class="bgtext">
 

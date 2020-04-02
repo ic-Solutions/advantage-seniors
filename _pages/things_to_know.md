@@ -127,7 +127,7 @@ links:
 					</div>
 
 					<div class="ratexts">
-						<div class="thingspagehd"><a name="1">Long Distance Caregiving</a></div>
+						<div class="thingspagehd"><a >Long Distance Caregiving</a></div>
 						<div class="bgtext">
 
 							<p>
@@ -172,7 +172,7 @@ links:
 
 						</div>
 
-						<div class="thingspagehd"><a name="2">Your Loved One’s Needs Are Changing</a></div>
+						<div class="thingspagehd"><a >Your Loved One’s Needs Are Changing</a></div>
 						<div class="bgtext">
 
 							<p>It can often be hard to tell when aging is affecting a family member. It is possible that
@@ -198,7 +198,7 @@ links:
 
 						</div>
 
-						<div class="thingspagehd"><a name="3">Questions to Ask When Hiring a Service Provider</a></div>
+						<div class="thingspagehd"><a >Questions to Ask When Hiring a Service Provider</a></div>
 						<div class="bgtext">
 
 							<p>If you decide on home care there are several questions you should ask to ensure that your
@@ -238,7 +238,7 @@ links:
 
 
 
-						<div class="thingspagehd"><a name="4">Take Care of Yourself</a></div>
+						<div class="thingspagehd"><a >Take Care of Yourself</a></div>
 						<div class="bgtext">
 
 							As a person begins to age, family members are often called on to help with everyday things
@@ -271,7 +271,7 @@ links:
 
 						</div>
 
-						<div class="thingspagehd"><a name="5">Why Not You Discuss Things With Your Parents ?</a></div>
+						<div class="thingspagehd"><a >Why Not You Discuss Things With Your Parents ?</a></div>
 						<div class="bgtext">
 
 							Remember, as you were growing up, your parents probably sat you down plenty of times for “a
@@ -352,7 +352,7 @@ links:
 
 						</div>
 
-						<div class="thingspagehd"><a name="6">Why You Need Counseling</a></div>
+						<div class="thingspagehd"><a >Why You Need Counseling</a></div>
 						<div class="bgtext">
 
 							<p><strong>Many Options Many Answers</strong></p>

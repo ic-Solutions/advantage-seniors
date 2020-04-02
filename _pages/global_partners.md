@@ -167,7 +167,7 @@ links:
 
                         <div class="onebythre">
                             <div class="franchaisepagehd">
-                                <a name="1">advantAGE Global Partner Program</a>
+                                <a >advantAGE Global Partner Program</a>
                             </div>
                             <div class="bgtext">
 
@@ -203,10 +203,10 @@ links:
 
                         <div class="onebyfour">
                             <div class="franchaisepagehd"></div>
-                            <div align="center" class="iconcover"><img src="/images/icons1.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons2.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons3.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons4.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons1.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons2.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons3.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons4.jpg" /></div>
                         </div>
 
 

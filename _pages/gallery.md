@@ -215,7 +215,7 @@ links:
 
 
             <div class="gallerypagehd">
-              <a name="1">Photo Gallery</a>
+              <a >Photo Gallery</a>
             </div>
 
             <div class="bgtext">

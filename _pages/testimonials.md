@@ -160,7 +160,7 @@ permalink: /testimonials/
 
             <div class="onebyone">
 
-              <div class="servicpagehd"><a name="1">Testimonials 1</a></div>
+              <div class="servicpagehd"><a >Testimonials 1</a></div>
               <div class="bgtext">
 
                 <p><strong>Dear Mr. Jacob and Ms. Soumya Laxmi</strong></p>
@@ -180,7 +180,7 @@ permalink: /testimonials/
 
               </div>
 
-              <div class="servicpagehd"><a name="2">Testimonials 2</a></div>
+              <div class="servicpagehd"><a >Testimonials 2</a></div>
               <div class="bgtext">
 
                 <p>When my 98 year old grandfather was starting to not be able to manage himself at home
@@ -221,7 +221,7 @@ permalink: /testimonials/
               </div>
 
 
-              <div class="servicpagehd"><a name="3">Testimonials 3</a></div>
+              <div class="servicpagehd"><a >Testimonials 3</a></div>
               <div class="bgtext">
 
 
@@ -236,7 +236,7 @@ permalink: /testimonials/
               </div>
 
 
-              <div class="servicpagehd"><a name="4">Testimonials 4</a></div>
+              <div class="servicpagehd"><a >Testimonials 4</a></div>
               <div class="bgtext">
 
                 <p>Great location, service and a friendly staff! Would love to recommend to friends and
@@ -245,7 +245,7 @@ permalink: /testimonials/
 
               </div>
 
-              <div class="servicpagehd"><a name="5">Testimonials 5</a></div>
+              <div class="servicpagehd"><a >Testimonials 5</a></div>
               <div class="bgtext">
 
                 <p>Compliments to Roshan Jacob and Soumya Laxmi for the excellent service and care they
@@ -256,7 +256,7 @@ permalink: /testimonials/
 
               </div>
 
-              <div class="servicpagehd"><a name="6">Testimonials 6</a></div>
+              <div class="servicpagehd"><a >Testimonials 6</a></div>
               <div class="bgtext">
                 <p>"Advantage Geriatric Care Facility is well maintained, clean, ventilated and above
                   all located in a very good and accessible residential area. My mother is a patient

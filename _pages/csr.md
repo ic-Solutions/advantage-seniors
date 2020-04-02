@@ -166,7 +166,7 @@ links:
                         <div class="onebythre">
 
                             <div class="gallerypagehd">
-                                <a name="1">PHM</a>
+                                <a>PHM</a>
                             </div>
                             <div class="bgtext">
 
@@ -203,7 +203,7 @@ links:
                             </div>
 
                             <div class="gallerypagehd">
-                                <a name="2">Rural Interventions</a>
+                                <a>Rural Interventions</a>
                             </div>
                             <div class="bgtext">
 
@@ -230,7 +230,7 @@ links:
                             </div>
 
                             <div class="gallerypagehd">
-                                <a name="3">Ashraya Seva Samasthe</a>
+                                <a>Ashraya Seva Samasthe</a>
                             </div>
                             <div class="bgtext">
 
@@ -252,10 +252,10 @@ links:
 
                         <div class="onebyfour">
                             <div class="ccnpagehd"></div>
-                            <div align="center" class="iconcover"><img src="/images/icons1.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons2.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons3.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons4.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons1.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons2.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons3.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons4.jpg" /></div>
                         </div>
 
 

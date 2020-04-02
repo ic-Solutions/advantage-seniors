@@ -159,7 +159,7 @@ links:
 
                         <div class="onebythre">
                             <div class="franchaisepagehd">
-                                <a name="1">Franchise Partnership with a Leader</a>
+                                <a >Franchise Partnership with a Leader</a>
                             </div>
                             <div class="bgtext">
 
@@ -207,10 +207,10 @@ links:
 
                         <div class="onebyfour">
                             <div class="franchaisepagehd"></div>
-                            <div align="center" class="iconcover"><img src="/images/icons1.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons2.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons3.jpg" /></div>
-                            <div align="center" class="iconcover"><img src="/images/icons4.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons1.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons2.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons3.jpg" /></div>
+                            <div class="iconcover"><img alt="advantage seniors" src="/images/icons4.jpg" /></div>
                         </div>
 
 

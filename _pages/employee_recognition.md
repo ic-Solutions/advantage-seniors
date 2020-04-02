@@ -161,7 +161,7 @@ links:
                     <div class="ratexts">
 
                         <div class="researchpagehd">
-                            <a name="1">Employee Recognition</a>
+                            <a >Employee Recognition</a>
                         </div>
                         <div class="bgtext">
 

@@ -186,7 +186,7 @@ links:
 
 						<div class="ratexts">
 
-							<div class="pagehd"><a name="1">Founder</a></div>
+							<div class="pagehd"><a >Founder</a></div>
 
 							<div class="bgtext">
 
@@ -251,7 +251,7 @@ links:
 
 
 
-							<div class="pagehd"><a name="2">Co-Founder</a></div>
+							<div class="pagehd"><a >Co-Founder</a></div>
 
 							<div class="bgtext">
 
@@ -325,7 +325,7 @@ links:
 
 
 
-							<div class="pagehd"><a name="4">Our Caregivers</a></div>
+							<div class="pagehd"><a >Our Caregivers</a></div>
 
 							<div class="bgtext">
 
@@ -466,7 +466,7 @@ links:
 
 
 
-							<div class="pagehd"><a name="5">Advantage Success Story</a></div>
+							<div class="pagehd"><a >Advantage Success Story</a></div>
 
 							<div class="bgtext">
 
@@ -597,7 +597,7 @@ links:
 
 
 
-							<div class="pagehd"><a name="6">Past and Future</a></div>
+							<div class="pagehd"><a >Past and Future</a></div>
 
 							<div class="bgtext">
 
@@ -733,7 +733,7 @@ links:
 
 
 
-							<div class="pagehd"><a name="7">Promises</a></div>
+							<div class="pagehd"><a >Promises</a></div>
 
 							<div class="bgtext">
 

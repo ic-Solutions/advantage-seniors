@@ -169,7 +169,7 @@ links:
 
 
               <div class="servicpagehd">
-                <a name="2">Coma Care</a>
+                <a >Coma Care</a>
               </div>
               <div class="bgtext">
 
@@ -229,18 +229,18 @@ links:
             <div class="onebyfour">
 
               <div class="servicpagehd">Download Brouchure</div>
-              <div align="center" class="iconcover">
+              <div class="iconcover">
                 <a href="/images/downloads/Brochure.pdf" target="_blank"><img class="widimg"
                     src="/images/download.jpg" /></a>
               </div>
 
               <div class="servicpagehd">Geriatric Care Facilitys</div>
-              <div align="center" class="iconcover"><img src="/images/icons1.jpg" /></div>
-              <div align="center" class="iconcover"><img src="/images/icons2.jpg" /></div>
-              <div align="center" class="iconcover"><img src="/images/icons3.jpg" /></div>
-              <div align="center" class="iconcover"><img src="/images/icons4.jpg" /></div>
-              <div align="center" class="iconcover"><img src="/images/icons5.jpg" /></div>
-              <div align="center" class="iconcover"><img src="/images/icons6.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons1.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons2.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons3.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons4.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons5.jpg" /></div>
+              <div class="iconcover"><img alt="advantage seniors" src="/images/icons6.jpg" /></div>
 
 
             </div>

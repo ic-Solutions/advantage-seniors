@@ -142,7 +142,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="onebythre">
 
 
-<div class="servicpagehd"><a name="1">Schedule an appointment</a></div>
+<div class="servicpagehd"><a >Schedule an appointment</a></div>
 <div class="bgtext">
 
 <p><strong>It is a FREE initial consultation. Set up a No-Obligation Assessment</strong></p>
@@ -153,7 +153,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 </div>
 
-<div class="servicpagehd"><a name="2">Customized Care Plan</a></div>
+<div class="servicpagehd"><a >Customized Care Plan</a></div>
 <div class="bgtext">
 
 <p><strong>Drawing a Customized care plan for each Patient</strong></p>
@@ -177,7 +177,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 </div>
 
-<div class="servicpagehd"><a name="3">Caregiving Matching Process</a></div>
+<div class="servicpagehd"><a >Caregiving Matching Process</a></div>
 <div class="bgtext">
 
 <p><strong>Depending on the condition and tasks, care giver is selected</strong></p>
@@ -200,7 +200,7 @@ The care process begins when you make the first call. It’s a hard time for man
 
 </div>
 
-<div class="servicpagehd"><a name="4">Signs That Your Loved One Needs At-Home Care</a></div>
+<div class="servicpagehd"><a >Signs That Your Loved One Needs At-Home Care</a></div>
 <div class="bgtext">
 
 <p><strong>It is important that you understand needs of the infirm.</strong></p>
@@ -234,7 +234,7 @@ The care process begins when you make the first call. It’s a hard time for man
 
 </div>
 
-<div class="servicpagehd"><a name="5">Why advantAGE is different from others</a></div>
+<div class="servicpagehd"><a >Why advantAGE is different from others</a></div>
 <div class="bgtext">
 
 <p><strong>It is important to why we are special</strong></p>
@@ -263,7 +263,7 @@ The care process begins when you make the first call. It’s a hard time for man
 </div>
 
 
-<div class="servicpagehd"><a name="6">Know Our Care Providers</a></div>
+<div class="servicpagehd"><a >Know Our Care Providers</a></div>
 <div class="bgtext">
 
 <p><strong>Our employees are our greatest asset</strong></p>
@@ -315,7 +315,7 @@ Plus three months of clinical that teaches the students how to
 </div>
 
 
-<div class="servicpagehd"><a name="7">Typical Duties of a Care Provider </a></div>
+<div class="servicpagehd"><a >Typical Duties of a Care Provider </a></div>
 <div class="bgtext">
 
 <p><strong>A home health aide can provide many different services to a loved one</strong></p>

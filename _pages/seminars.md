@@ -183,7 +183,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="ratexts">
 
 
-<div class="seminarpagehd"><a name="1">Seminars</a></div>
+<div class="seminarpagehd"><a >Seminars</a></div>
 <div class="bgtext">
 
 <p>In 2012, We conducted three international seminars in Bangalore, Kochi and Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai, Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK who are experts in their field presented interesting and innovative studies in the geriatric field.</p>
@@ -195,7 +195,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 </div>
 
-<div class="seminarpagehd"><a name="2">Seminars 2012</a></div>
+<div class="seminarpagehd"><a >Seminars 2012</a></div>
 <div class="bgtext">
 
 <div class="ratexts">
@@ -340,7 +340,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 
 </div>
 
-<div class="seminarpagehd"><a name="3">Seminars 2014</a></div>
+<div class="seminarpagehd"><a >Seminars 2014</a></div>
 <div class="bgtext">
 
 <div class="ratexts">

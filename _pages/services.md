@@ -141,7 +141,7 @@ function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 5
 <div class="onebythre">
 
 
-<div class="servicpagehd"><a name="1">Geriatric Care Facility</a></div>
+<div class="servicpagehd"><a >Geriatric Care Facility</a></div>
 <div class="bgtext">
 
 <p><strong>Are you looking for a place to keep your loved one?</strong></p>
@@ -155,7 +155,7 @@ Home is the first and the best option for the elders and we call it"ageing in pl
 
 </div>
 
-<div class="servicpagehd"><a name="2">Coma Care</a></div>
+<div class="servicpagehd"><a >Coma Care</a></div>
 <div class="bgtext">
 
 <p>Comas are always shocking. Although the best medical procedures attend to the immediate physical needs of the coma patients, family and friends are often at a loss in knowing how to support their loved ones further. Coma patients also deserve the same care and attention as any other human being. At adavantAGE we believe that coma patients have the same human rights as everyone else in India. That is why we are concerned with coma care and the family members of those affected by comas.</p>
@@ -165,7 +165,7 @@ advantAGE is  concerned with the care of coma patients. advantAGE coma care  is 
 
 </div>
 <!--
-<div class="servicpagehd"><a name="3">Domiciliary Care</a></div>
+<div class="servicpagehd"><a >Domiciliary Care</a></div>
 <div class="bgtext">
 
 <p><strong>Are you concerned about your aged parents?</strong></p>
@@ -179,7 +179,7 @@ For most people, living as independently as you can in your home as you age is w
 
 </div> -->
 
-<div class="servicpagehd"><a name="4">Foster Care</a></div>
+<div class="servicpagehd"><a >Foster Care</a></div>
 <div class="bgtext">
 
 <p>
@@ -189,7 +189,7 @@ Foster care is signed when the children or the immediate relative is staying mil
 We assist with physician office visit, hospitalizations and monitoring at regular intervals especially when the patient is left alone. Once we are assigned the care as per the foster care agreement, we will also attend the crisis situations. We update the immediate family as and when needed and get the orders from them and act accordingly. The benefit of the foster care system is that the family who is away and worried about the care of the family member can be at ease when we supplement their role. We act as proxy.</p>
 </div>
 
-<div class="servicpagehd"><a name="5">Respite Care</a></div>
+<div class="servicpagehd"><a >Respite Care</a></div>
 <div class="bgtext">
 
 <p><strong>Are you worried about leaving your elderly loved one behind, while you are away?</strong></p>
@@ -204,7 +204,7 @@ If you are primary caregiver directly involved with the care of a long term care
 </div>
 
 
-<div class="servicpagehd"><a name="6">Geriatric Counselling</a></div>
+<div class="servicpagehd"><a >Geriatric Counselling</a></div>
 <div class="bgtext">
 
 <p><strong>Are you looking for a Geriatric Counselling?</strong></p>
@@ -218,7 +218,7 @@ If you are primary caregiver directly involved with the care of a long term care
 </div>
 
 
-<div class="servicpagehd"><a name="7">Family Care Giver Counselling</a></div>
+<div class="servicpagehd"><a >Family Care Giver Counselling</a></div>
 <div class="bgtext">
 
 <p><strong>Are you taking time off from work to face care giving challenges?</strong></p>

@@ -167,7 +167,7 @@ links:
                     <div class="ratexts">
 
                         <div class="researchpagehd">
-                            <a name="1">Introduction</a>
+                            <a >Introduction</a>
                         </div>
                         <div class="bgtext">
 
@@ -222,9 +222,9 @@ links:
 
                         <div class="leftbox">
                             <div class="researchpagehd">
-                                <a name="2">Geriatric Research Book</a>
+                                <a >Geriatric Research Book</a>
                             </div>
-                            <div align="center" class="iconcover">
+                            <div class="iconcover">
                                 <a href="/images/downloads/Geriatric_Research_Book.pdf" target="_blank">
                                     <img class="widimg" src="/images/download_but2.jpg" /></a>
                             </div>
@@ -232,9 +232,9 @@ links:
 
                         <div class="rightbox">
                             <div class="researchpagehd">
-                                <a name="3">Caregiving workers</a>
+                                <a >Caregiving workers</a>
                             </div>
-                            <div align="center" class="iconcover">
+                            <div class="iconcover">
                                 <a href="/images/downloads/Caregiving_workers.pdf" target="_blank">
                                     <img class="widimg" src="/images/download_but.jpg" /></a>
                             </div>

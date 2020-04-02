@@ -188,7 +188,7 @@ links:
 
 
 
-              <div class="servicpagehd"><a name="1">Geriatric Care Facility</a></div>
+              <div class="servicpagehd"><a>Geriatric Care Facility</a></div>
 
               <div class="bgtext">
 
