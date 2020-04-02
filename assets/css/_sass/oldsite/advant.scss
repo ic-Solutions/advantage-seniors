@@ -2049,6 +2049,9 @@ line-height: 2;
 
 .feature-column{
     width: 33.33%;
+    img {
+      max-width: 100%;
+    }
 }
 .fcol1{
     float: left
