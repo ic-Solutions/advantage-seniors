@@ -3,9 +3,9 @@
     <h2 class="slider-header">Featured Blogs</h2>
     <div class="row">
       {% for item in site.posts limit: 3 %}
-      <div class="featured-blog mb-4">
+      <div class="featured-blog shadow mb-5">
         <a class="nostyle" href="{{item.url}}">
-          <div class="shadow p-3 ">
+          <div class="p-3">
             <img  class="blog-image" alt="{{item.title}}" src="{{item.image}}">
             <h3 class="display-2">{{item.title}}</h3>
             <p class="lead-text">{{item.content | strip_html | truncatewords: 163}}</p>
