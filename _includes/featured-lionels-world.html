@@ -1,0 +1,22 @@
+<section class="py-lg">
+  <div class="container">
+    <h2 class="slider-header">Lionel's World</h2>
+    <div class="row">
+      {% for item in site.data.lionel limit:3 %}
+      <div class="feature-column fcol1  mb-4">
+        <a class="nostyle" href="/lionels-world/">
+          <div class="fm shadow p-3 ">
+            <img class="image" alt="{{item.title}}" src="{{item.image}}"
+              >
+            <h3 class="display-4">{{item.title}}</h3>
+            <p>{{item.description}}</p>
+            <p class="text-right py-2">
+              <span class="btn btn-success btn-sm">Read More</span>
+            </p>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
