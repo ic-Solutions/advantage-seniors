@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Services
-description: Home is the first and the best option for the elders and we call it"ageing in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity.
+description: Home is the first and the best option for the elders and we call it"ageing in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity. Advantage Seniors is well established in elder care services in bangalore.
 image: /images/servicebg.jpg
 permalink: /services/
 redirect_from: /services.html

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testimonials
-description: Reviews from our partners and patrons about advantAge seniors elder Geriatric Care Facility in Bangalore.
+description: Reviews from our partners and patrons about advantAge seniors elder care services Facilit in Bangalore.
 image: /images/servicebg.jpg
 links:
   - Geriatric Care Facility

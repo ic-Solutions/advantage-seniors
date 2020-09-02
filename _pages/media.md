@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Media
-description: Some of the media houses where advanAge seniors elder Geriatric Care Facility has been featured.
+description: Some of the media houses where advanAge seniors elder Geriatric Care Facility - which is knows for elder care services in bangalore - has been featured.
 image: /images/servicebg.jpg
 permalink: /media/
 redirect_from: /media.html

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Case Studies
-description: Here are some case studies which is taken out of real situations. It shows that a large number the elders in our country are marginalized and mistreated. The system is getting to much inadequate to support the ever increasing ageing population.
+description: Here are some case studies which is taken out of real situations. It shows that a large number the elders in our country are marginalized and mistreated. The system is getting to much inadequate to support the ever increasing ageing population. Advantage Seniors is well established in elder care services in bangalore.
 image: /images/servicebg.jpg
 permalink: /case-studies/
 redirect_from: /case_studies.html

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homecare for seniors
-description: When you feel the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors bangalore is the best elder Geriatric Care Facility.
+description: When you feel the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors elder care services in bangalore is the best elder Geriatric Care Facility.
 image: /images/servicebg.jpg
 redirect_from: /homecare.html
 permalink: /homecare/
@@ -274,7 +274,7 @@ The care process begins when you make the first call. It’s a hard time for man
 
 <p>Other than syllabus, we inculcate lot of values in these caregivers. We make sure they understand the need for a ‘humane approach’ with the infirm elders and that is why we train them to be more caring and loving, sensitive to the needs, show patience and above all treat them with dignity and respect.</p>
 
-<p>One of the things advantAGE is most proud of and thankful for is our amazing community of home care and support professionals. We believes outstanding outcomes begin with good communication. Dedicated to this ideal, advantAGE employees represent a diverse group with a multitude of languages skills.  Currently represented languages include English, Tamil, Hindi, Telugu, Kannada, Malayalam and Oriya.</p>
+<p>One of the things advantAGE is most proud of and thankful for is our amazing community of home care and support professionals. We believes outstanding outcomes begin with good communication. Dedicated to this ideal, advantAGE employees represent a diverse group with a multitude of languages skills.Currently represented languages include English, Tamil, Hindi, Telugu, Kannada, Malayalam and Oriya.</p>
 
 <p>Our course curriculum consists of 60 hours of classroom instruction and three month clinical that teaches the students</p>
 

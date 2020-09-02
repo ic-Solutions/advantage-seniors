@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research on senior care
-description: Population aging changes societies in many ways - Scientific research contributes to reaching the full potential of longer lives. advantAGE seniors is committed to generating knowledge that can help make our longer lives healthier and active at any age. advantAGE seniors contributes to academic training and increases expertise in the field of aging and long term care.
+description: Population aging changes societies in many ways - Scientific research contributes to reaching the full potential of longer lives. advantAGE seniors Advantage  elder care services in bangalore is committed to generating knowledge that can help make our longer lives healthier and active at any age. advantAGE seniors contributes to academic training and increases expertise in the field of aging and long term care.
 image: /images/servicebg.jpg
 permalink: /research/
 redirect_from: /research.html

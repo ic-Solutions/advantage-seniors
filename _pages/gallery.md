@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gallery of senior Geriatric Care Facility
-description: Gallery of advantAge India elder Geriatric Care Facility.
+description: Gallery of advantAge India elder Geriatric Care Facility. Advantage is known for elder care services in bangalore.
 image: /images/servicebg.jpg
 permalink: /gallery/
 redirect_from: /gallery.html
