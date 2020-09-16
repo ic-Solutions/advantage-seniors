@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Media partners of Advantage India senior care
+title: Know Us
 description: Our Chairman, Roshan Jacob got inspired to start a home based care for the elderly after working many years in many corporate hospitals. For many years, Jacob worked in healthcare as a hospital administrator. While in the hospital environment, he watched many of his patients – especially seniors – leave the facility and return home, but not necessarily return to health. He then started Advantage Seniors which is now a well established organization in elder care services in bangalore.
 image: /images/servicebg.jpg
 permalink: /know-us/
@@ -27,24 +27,18 @@ links:
 
 	{% seo %}
 
-	<meta name="keywords"
-		content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, care home, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology" />
-
 
 
 	<link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
 
 
+	<!-- sidebar script start from here -->
 
-
-
-	<!--sidebar script start from here-->
-
-	<script src="/sidebar/jquery.js"  ></script>
+	<script src="/sidebar/jquery.js"></script>
 
 	<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
 
-	<script  >
+	<script>
 
 		jQuery(document).ready(
 
@@ -71,15 +65,15 @@ links:
 
 
 
-	<!--mobile menu start-->
+	<!-- mobile menu start -->
 
 	<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css" />
 	<script   src="/respmenu/responsivemobilemenu.js"></script>
 
-	<!--mobile menu end-->
+	<!-- mobile menu end -->
 
 
-	<!--sidebar script end from here-->
+	<!-- sidebar script end from here -->
 
 	<!-- Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
