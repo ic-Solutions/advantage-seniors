@@ -4,10 +4,10 @@ title: "Why Certain Care Homes Are The Worst Places For Our Elderly?"
 description: Care-Homes, rightly as the name suggests, it should be a Home with Compassionate Care, no matter what it takes. Elderly care home business is the upcoming next big business to corporate hospitals.
 image: /assets/images/blog/certain-care-homes-are-the-worst.png
 author:
-  - Soumya Nair
+  - Soumya Laxmi
 ---
 
-> An investigation by Soumya Nair, has shown that the knowledge, skills and availability of care workers in care homes (nursing homes) are ill-matched to the care needs of residents. She was appalled at the “shocking evidence” of understaffing, bad practice and poor care. This article is an eye-opener to the policy makers as well as to the public about the  woefully inadequate care standards and practices in many so-called “Care Homes”.
+> An investigation by Soumya Laxmi, has shown that the knowledge, skills and availability of care workers in care homes (nursing homes) are ill-matched to the care needs of residents. She was appalled at the “shocking evidence” of understaffing, bad practice and poor care. This article is an eye-opener to the policy makers as well as to the public about the  woefully inadequate care standards and practices in many so-called “Care Homes”.
 
 Soumya as part of her study has underlined the inadequate quality of care in examples of Indian care homes that failed their standards. She found a “systematic failure in all areas of assessment and monitoring of people’s care, resulting in risks to people’s health and wellbeing”. 
  
