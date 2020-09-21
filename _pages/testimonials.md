@@ -163,7 +163,7 @@ permalink: /testimonials/
               <div class="servicpagehd"><a >Testimonials 1</a></div>
               <div class="bgtext">
 
-                <p><strong>Dear Mr. Jacob and Ms. Soumya Laxmi</strong></p>
+                <p><strong>Dear Mr. Jacob and Ms. Soumya Lakshmi</strong></p>
 
                 <p>I want to take the opportunity to thank you for meeting with me and Aparna recently.
                   I want to place on record you valuable service in assisting Kevin Nixon during his
@@ -248,7 +248,7 @@ permalink: /testimonials/
               <div class="servicpagehd"><a >Testimonials 5</a></div>
               <div class="bgtext">
 
-                <p>Compliments to Roshan Jacob and Soumya Laxmi for the excellent service and care they
+                <p>Compliments to Roshan Jacob and Soumya Lakshmi for the excellent service and care they
                   are giving to the elderly community. Well trained care givers and excellent service!
                 </p>
 

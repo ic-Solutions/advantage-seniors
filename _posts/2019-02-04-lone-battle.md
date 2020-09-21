@@ -5,7 +5,7 @@ description: Caring for an elderly, ailing spouse is an unimaginably difficult t
 image: /assets/images/blog/spousal-caregiver.jpg
 author:
   - Roshan Jacob
-  - Soumya Laxmi
+  - Soumya Lakshmi
 redirect_from: 
   - /2019/02/04/lone-battle.html
 ---

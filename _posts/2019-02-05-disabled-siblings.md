@@ -5,7 +5,7 @@ description: Deciding who will care for a sister or brother once the parents die
 image: /assets/images/blog/Disabled_Siblings.jpg
 author:
   - Roshan Jacob
-  - Soumya Laxmi
+  - Soumya Lakshmi
 redirect_from:
   - /2019/02/05/disabled-siblings.html
 ---

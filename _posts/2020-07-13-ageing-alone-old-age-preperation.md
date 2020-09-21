@@ -4,7 +4,7 @@ title: "Are you worried about ageing alone and forlorn, and then early preparati
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
 image: /assets/images/blog/ageing-alone-forlorn.png
 author:
-  - Roshan Jacob, Soumya Laxmi
+  - Roshan Jacob, Soumya Lakshmi
 ---
 
 > Are you worried about ageing and living alone? Here’s how to build a life of peace and happiness – and how to cope with being alone in old age – whether you’re 65 or 85.

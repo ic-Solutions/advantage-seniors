@@ -249,7 +249,7 @@ links:
 
 							<div class="bgtext">
 
-								<p><img src="/images/co_founder.jpg" class="bordimg" />Truly, Soumya Laxmi is
+								<p><img src="/images/co_founder.jpg" class="bordimg" />Truly, Soumya Lakshmi is
 									compassion unlimited and from a very young age she discovered social work as her
 									calling. She had her schooling and college in Mysore and even before she completed
 									her
@@ -260,7 +260,7 @@ links:
 
 
 
-								<p>Soumya Laxmi joined advantAGE seniors in the year 2002, and soon she took over the
+								<p>Soumya Lakshmi joined advantAGE seniors in the year 2002, and soon she took over the
 									mantle
 									as the executive director. Soumya has successfully steered the organization as a
 									thriving business model which is more of a social enterprise. Following the
@@ -618,7 +618,7 @@ links:
 
 
 
-								<p>Co-Founder Ms. Soumya Laxmi was instrumental in setting up the Coma Care facility, a
+								<p>Co-Founder Ms. Soumya Lakshmi was instrumental in setting up the Coma Care facility, a
 									firstof it’s in the country in the year 2010. It is a 12-bedded facility exclusively
 									for
 									comma care. It is her wish to provide solace to the family who is in the midst of

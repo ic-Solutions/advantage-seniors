@@ -4,7 +4,7 @@ title: "How Often You Visit Your Aged Parent?"
 description: According to many social gerontology studies across the world, social isolation of the seniors has been associated with cognitive decline, decline in health, depression, increased rates of infection and ultimately even mortality.
 image: /assets/images/blog/how-often-you-visit-your-aged-parents.jpg
 author:
-  - Soumya Laxmi
+  - Soumya Lakshmi
 redirect_from:
   - /2018/06/26/how-often-you-visit-aged-parents.html
 ---

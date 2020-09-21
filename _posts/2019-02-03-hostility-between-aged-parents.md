@@ -5,7 +5,7 @@ description: Renjitha Reddy’s aged parents used to live harmoniously but now, 
 image: /assets/images/blog/Hostility-Between-Aged-Parents-new.jpg
 author:
   - Roshan Jacob
-  - Soumya Laxmi
+  - Soumya Lakshmi
 redirect_from:
   - /2019/02/03/hostility-between-aged-parents.html
 ---

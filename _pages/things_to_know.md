@@ -363,7 +363,7 @@ links:
 								happen. Perhaps the children all live out of country and there are only so many options
 								for dad, who is no longer able to live alone but is resistant to the idea of getting
 								help. We listen with an open agenda and, drawing on our broad resources, help each
-								family make the very best decisions for the patient.” – Soumya Laxmi.</p>
+								family make the very best decisions for the patient.” – Soumya Lakshmi.</p>
 
 							<p>Indian families have undergone a big sea change in its functioning, coherence and
 								structure. Demographic shift towards more and more octogenarians and the consequence of
