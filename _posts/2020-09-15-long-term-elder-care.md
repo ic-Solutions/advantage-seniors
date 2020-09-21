@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Choosing Long-Term Care: Advice From a Social Gerontology"
+title: "Choosing Long-Term Care: Advice From a Advice from a Social Gerontology Practitioner"
 description: A paradigm shift in the outlook of elders and their families is the new order as more elderly Indians are willing to live in care facilities. Advantage seniors is known for elder care services in bangalore.
 image: /assets/images/blog/long-term-elder-care.jpg
 author:
