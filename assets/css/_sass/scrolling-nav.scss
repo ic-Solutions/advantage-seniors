@@ -5,6 +5,9 @@
  */
 header {
   padding: 156px 0 100px;
+  @include media-query($on-palm) {
+  	padding: 50px 0 50px;
+  }
 }
 
 section {
