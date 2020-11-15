@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Things to Know about senior care
 description: In todays world, it is common for extended families and friends to be separated by great distance. New job opportunities force the adult children of families to move away from home. Often parents are left alone in Bangalore. Advantage Seniors elder care services in bangalore, is the solution.
 image: /images/servicebg.jpg

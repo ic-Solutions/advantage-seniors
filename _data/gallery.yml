@@ -1,0 +1,252 @@
+gallery:
+  - image: /images/gallery/Meetings/big/1.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/2.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/3.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/4.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/5.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/6.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/7.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/8.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/9.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/10.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/11.jpg
+    title: Meetings
+
+  - image: /images/gallery/Meetings/big/12.jpg
+    title: Meetings
+
+  - image: /images/gallery/care_home/big/1.jpg
+    title: Reception
+
+  - image: /images/gallery/care_home/big/2.jpg
+    title: Lobby
+
+  - image: /images/gallery/care_home/big/3.jpg
+    title: Single Occupancy
+
+  - image: /images/gallery/care_home/big/4.jpg
+    title: Double Occupancy
+
+  - image: /images/gallery/care_home/big/5.jpg
+    title: Dining Room
+
+  - image: /images/gallery/care_home/big/6.jpg
+    title: Balcony
+
+  - image: /images/gallery/NGNA_President_visit/big/1.jpg
+    title: NGNA President Visit
+
+  - image: /images/gallery/NGNA_President_visit/big/2.jpg
+    title: NGNA President Visit
+
+  - image: /images/gallery/NGNA_President_visit/big/3.jpg
+    title: NGNA President Visit
+
+  - image: /images/gallery/Orientation/big/1.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/2.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/3.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/4.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/5.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/6.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/7.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/8.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/9.jpg
+    title: Orientation
+
+  - image: /images/gallery/Orientation/big/10.jpg
+    title: Orientation
+
+  - image: /images/gallery/Swawalambhini/big/1.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/2.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/3.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/4.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/5.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/6.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/7.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/8.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/9.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/10.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/11.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/12.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/13.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/14.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/15.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/16.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/17.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/18.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/19.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/20.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/21.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/22.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/23.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/24.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/25.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/26.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/27.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/28.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/29.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/30.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/31.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/32.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/33.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/34.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/35.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/36.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/37.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/38.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/39.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/40.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/41.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/42.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/43.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/44.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/45.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/46.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/47.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/48.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/49.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/50.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/51.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/52.jpg
+    title: Swawalambhini
+
+  - image: /images/gallery/Swawalambhini/big/53.jpg
+    title: Swawalambhini

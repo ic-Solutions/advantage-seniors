@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Seminars on senior care
 description: In 2012, We conducted three international seminars in Bangalore, Kochi and Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai, Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK who are experts in their field presented interesting and innovative studies in the geriatric field.
 image: /images/servicebg.jpg

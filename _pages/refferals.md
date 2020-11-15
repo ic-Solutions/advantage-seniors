@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Referrals
 description: The world of health care is changing. The medical community is collaborating with many stakeholders in ways never seen before. advantAGE elder care services in bangalore is a part of that collaboration. We provide communication, education and health care for your patients with post-acute care and chronic disease management needs. We are a partner in the continuum of care for hospitals and for physicians. 
 image: /images/servicebg.jpg

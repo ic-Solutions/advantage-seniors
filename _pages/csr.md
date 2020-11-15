@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Corporate Social Responsibility
 description: Having a nurse in active congregational ministry provides a unique forum for health promotion and disease prevention. Members of a faith community, knowing that a Nurse/Volunteer is available on an informal basis, can discuss a health concern with the nurse before it becomes a chronic or serious condition.
 image: /images/servicebg.jpg

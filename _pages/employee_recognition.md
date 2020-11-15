@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Employee Recognition
 description: The commitment and effort our employees make on a daily basis help keep our clients at home where they want to be for as long as they want to be there. We are thankful to our employees for the hard work and special service they provide. They hae made Advantage Seniors one of the best elder care services in bangalore.
 image: /images/servicebg.jpg

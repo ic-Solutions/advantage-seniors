@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Homecare for seniors
 description: When you feel the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors elder care services in bangalore is the best elder Geriatric Care Facility.
 image: /images/servicebg.jpg

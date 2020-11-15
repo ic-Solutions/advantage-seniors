@@ -1,0 +1,30 @@
+<section class="stories">
+  <div class="container">
+    <h2 class="slider-header">Case Studies</h2>
+    <p class="lead text-center">
+      We have accumilated some of the case studies we have come across in our
+      service.
+    </p>
+    <div class="row">
+      {% for item in site.data.stories limit: 3 %}
+      <div class="col-md-12">
+        <div class="card shadow bg-white mb-3 mb-md-5">
+          <div class="card-header">
+            <h3>{{item.author}}</h3>
+          </div>
+          <div class="card-body">
+            {% for para in item.story limit: 2 %}
+            <p>{{para}}</p>
+            {% endfor %}
+          </div>
+          <div class="card-footer text-right">
+            <a class="btn btn-primary btn-sm" href="/case-studies"
+              >Read Full Story</a
+            >
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

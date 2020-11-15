@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Testimonials
 description: Reviews from our partners and patrons about advantAge seniors elder care services Facilit in Bangalore.
 image: /images/servicebg.jpg

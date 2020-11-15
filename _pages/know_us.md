@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Know Us
 description: Our Chairman, Roshan Jacob got inspired to start a home based care for the elderly after working many years in many corporate hospitals. For many years, Jacob worked in healthcare as a hospital administrator. While in the hospital environment, he watched many of his patients – especially seniors – leave the facility and return home, but not necessarily return to health. He then started Advantage Seniors which is now a well established organization in elder care services in bangalore.
 image: /images/servicebg.jpg

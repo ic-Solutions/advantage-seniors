@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Senior Coma Care
 description: "Years in the long term care industry, advantAGE seniors is well established in elder care services in bangalore and is concerned with the care of coma patients in our community. We believe and advocate that the comatose person also deserve the same care and attention as any other patient. "
 image: /images/servicebg.jpg

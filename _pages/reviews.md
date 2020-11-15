@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Homecare for seniors
 description: Advantage Seniors is knows for its hospitality. Read some of the reviews by people who opted 'Advantage Seniors elder care services in bangalore care' facility.
 image: /images/servicebg.jpg

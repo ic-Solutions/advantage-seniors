@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Experts in senior care
 description: Here are some of the experts in seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology.
 image: /images/servicebg.jpg

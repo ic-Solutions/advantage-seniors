@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Global Partners
 description: As Indians live longer, many develop chronic health conditions that require complex care. Caring for older adults with chronic conditions and complex health needs is becoming increasingly challenging. Advantage Seniors is well known for elder care services in bangalore.
 image: /images/servicebg.jpg

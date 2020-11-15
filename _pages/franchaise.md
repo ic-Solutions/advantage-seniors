@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Franchise
 description: Like us, you want to make a difference in the world around you. You want to pursue your passion, you want to start something that matters more than the routine business, more lasting and rewarding. That’s exactly what advantAGE seniors elder care services in bangalore does and promise we handhold you to achieve your social enteurprenership dream.
 image: /images/servicebg.jpg
