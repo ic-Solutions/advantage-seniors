@@ -236,3 +236,9 @@ p.nav-link.font-changer {
     color: inherit;
   }
 }
+
+.gallery-image,
+.seminar-image {
+  object-fit: cover;
+  object-position: center;
+}
