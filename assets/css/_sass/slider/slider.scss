@@ -88,7 +88,7 @@
     padding: 30px 15px;
     width: auto;
     height: auto;
-    background: #52a550;
+    background: $brand-color;
     color: #fff !important;
     text-decoration: none;
     font-weight: 600;
@@ -122,17 +122,5 @@
   .more-reviews {
     text-align: center;
     margin: 2em 0;
-  }
-
-  .btn {
-    text-decoration: none;
-    background: #52a550;
-    color: #fff;
-    padding: 10px 25px;
-    border-radius: 2px;
-    &:hover {
-      text-decoration: none;
-      background: darken(#52a550, 10%);
-    }
   }
 }

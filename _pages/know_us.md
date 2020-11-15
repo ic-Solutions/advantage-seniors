@@ -14,7 +14,7 @@ links:
   - Family Care Giver Counselling
 ---
 
-## founder
+## Founder
 
 ![Roshan Jacob](/images/founder.jpg)
 
