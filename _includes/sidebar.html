@@ -1,38 +1,28 @@
-<div class="onebyfour">
-  <div class="servicpagehd">Download Brouchure</div>
-
-  <div class="iconcover" align="center">
-    <a href="/images/downloads/Brochure.pdf" target="_blank"
-      ><img
-        src="/images/download.jpg"
-        class="widimg"
-        alt="download brochure button"
-    /></a>
+<div class="bg-white shadow p-2">
+  <div class="row pb-3 border-bottom">
+    <div class="col-12 text-center">
+      <div class="pt-3">
+        <h6>Brochure</h6>
+      </div>
+      <a href="/assets/images/downloads/Brochure.pdf" target="_blank"
+        ><img
+          src="/assets/images/download.jpg"
+          class="widimg"
+          alt="download brochure button"
+      /></a>
+    </div>
   </div>
 
-  <div class="servicpagehd">Geriatric Care Facilitys</div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons1.jpg" alt="{{site.alt}}" />
-  </div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons2.jpg" alt="{{site.alt}}" />
-  </div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons3.jpg" alt="{{site.alt}}" />
-  </div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons4.jpg" alt="{{site.alt}}" />
-  </div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons5.jpg" alt="{{site.alt}}" />
-  </div>
-
-  <div class="iconcover" align="center">
-    <img src="/images/icons6.jpg" alt="{{site.alt}}" />
+  <div class="row">
+    <div class="col-12 text-center">
+      <div class="pt-3">
+        <h6>Geriatric Care Facility</h6>
+      </div>
+      {% for item in site.data.sidebar-images %}
+      <div class="mb-3 mb-md-4">
+        <img src="{{item.image}}" alt="{{item.title}}" />
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
