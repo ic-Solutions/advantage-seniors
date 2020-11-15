@@ -1,81 +1,34 @@
 <!-- Testimonial slider styles -->
-<link rel="stylesheet" href="/assets/css/slider.css">
-
-<h2 class="slider-header">What Do They Say?</h2>
-
-<div id="slider">
-  <a class="control_next">&#62;</a>
-  <a class="control_prev">&#60;
-    </a> <ul>
-      {% for item in site.data.google-reviews limit: 10 %}
-      <li>
-        <div class="card">
-          <blockquote>
-            {{item.review | truncate: 480}}
-          </blockquote>
-          <p style="text-align: right">
-            <img src="{{item.image}}" alt="{{item.name}}" /> {{item.name}}
-          </p>
-        </div>
-      </li>
-      {% endfor %}
+<section class="reviews bg-light">
+  <div class="container">
+    <h2 class="slider-header">What Do They Say?</h2>
+    <p class="lead text-center">
+      The people that have experienced our services have written a thing or two
+      about our services which indicates that we are indeed the best elder care
+      service provider in Bengaluru.
+    </p>
+    <div id="slider">
+      <a class="control_next">&#62;</a>
+      <a class="control_prev">&#60; </a>
+      <ul>
+        {% for item in site.data.google-reviews limit: 10 %}
+        <li>
+          <div class="card">
+            <blockquote>{{item.review | truncate: 480}}</blockquote>
+            <p style="text-align: right">
+              <img
+                class="shadow rounded-circle"
+                src="{{item.image}}"
+                alt="{{item.name}}"
+              />
+              {{item.name}}
+            </p>
+          </div>
+        </li>
+        {% endfor %}
       </ul>
-</div>
+    </div>
+  </div>
 
-<p class="more-reviews"><a class="btn" href="/reviews/">More Reviews</a></p>
-
-<!-- Testimonial slider script -->
-<script>
-  jQuery(document).ready(function ($) {
-    $("#checkbox").change(function () {
-      setInterval(function () {
-        moveRight();
-      }, 3000);
-    });
-
-    var slideCount = $("#slider ul li").length;
-    var slideWidth = $("#slider ul li").width();
-    var slideHeight = $("#slider ul li").height();
-    var sliderUlWidth = slideCount * slideWidth;
-
-    $("#slider").css({ width: slideWidth, height: slideHeight });
-
-    $("#slider ul").css({ width: sliderUlWidth, marginLeft: -slideWidth });
-
-    $("#slider ul li:last-child").prependTo("#slider ul");
-
-    function moveLeft() {
-      $("#slider ul").animate(
-        {
-          left: +slideWidth
-        },
-        300,
-        function () {
-          $("#slider ul li:last-child").prependTo("#slider ul");
-          $("#slider ul").css("left", "");
-        }
-      );
-    }
-
-    function moveRight() {
-      $("#slider ul").animate(
-        {
-          left: -slideWidth
-        },
-        300,
-        function () {
-          $("#slider ul li:first-child").appendTo("#slider ul");
-          $("#slider ul").css("left", "");
-        }
-      );
-    }
-
-    $("a.control_prev").click(function () {
-      moveLeft();
-    });
-
-    $("a.control_next").click(function () {
-      moveRight();
-    });
-  });
-</script>
+  <p class="more-reviews"><a class="btn btn-primary" href="/reviews/">More Reviews</a></p>
+</section>

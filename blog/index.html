@@ -1,29 +1,26 @@
 ---
 layout: blog
 title: advantAGE Seniors Blog
-description: Are you looking for a place to keep your loved one?
+description: Are you looking for a place to keep your loved one? Consult advantAGE Seniors - the best elder care service provider in bangalore.
 permalink: /blog/
 ---
 
 <!-- Blog Entries Column -->
 
 <div class="col-md-8 resize">
-    {% for post in site.posts %}
-        <!-- Blog Post -->
-        <div class="card mb-5">
-            <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}">
-            <div class="card-body">
-                <h2 class="card-title">{{post.title}}</h2>
-                <p class="card-text">{{post.description}}</p>
-                <a href="{{post.url}}" class="btn btn-primary">Read More →</a>
-            </div>
-            <div class="card-footer text-muted">
-                Posted on
-                {{ post.date | date: '%d %B, %Y' }}
-                by
-                <a href="/know-us/">{{post.author | join: ', '}}</a>
-            </div>
-        </div>
-    {% endfor %}
-
+  {% for post in site.posts %}
+  <!-- Blog Post -->
+  <div class="card mb-5">
+    <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}" />
+    <div class="card-body">
+      <h2 class="card-title">{{post.title}}</h2>
+      <p class="card-text">{{post.description}}</p>
+      <a href="{{post.url}}" class="btn btn-primary">Read More →</a>
+    </div>
+    <div class="card-footer text-muted">
+      Posted on {{ post.date | date: '%d %B, %Y' }} by
+      <a href="/know-us/">{{post.author | join: ', '}}</a>
+    </div>
+  </div>
+  {% endfor %}
 </div>

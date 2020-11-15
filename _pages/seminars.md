@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Seminars on senior care
 description: In 2012, We conducted three international seminars in Bangalore, Kochi and Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai, Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK who are experts in their field presented interesting and innovative studies in the geriatric field.
-image: /images/servicebg.jpg
+image: /assets/images/servicebg.jpg
 permalink: /seminars/
 redirect_from: /seminars.html
 links:
@@ -12,587 +12,123 @@ links:
   - Respite Care
   - Geriatric Counselling
   - Family Care Giver Counselling
+
+seminars:
+  - title: Lisie hospital kochi kerala
+    image:
+      - /assets/images/seminars/2012/Lissy/big/1.jpg
+      - /assets/images/seminars/2012/Lissy/big/2.jpg
+      - /assets/images/seminars/2012/Lissy/big/3.jpg
+      - /assets/images/seminars/2012/Lissy/big/4.jpg
+      - /assets/images/seminars/2012/Lissy/big/5.jpg
+
+  - title: Nimhans Bangalore
+    image:
+      - /assets/images/seminars/2012/Nimhans/big/1.jpg
+      - /assets/images/seminars/2012/Nimhans/big/2.jpg
+      - /assets/images/seminars/2012/Nimhans/big/3.jpg
+      - /assets/images/seminars/2012/Nimhans/big/4.jpg
+      - /assets/images/seminars/2012/Nimhans/big/5.jpg
+      - /assets/images/seminars/2012/Nimhans/big/6.jpg
+      - /assets/images/seminars/2012/Nimhans/big/7.jpg
+      - /assets/images/seminars/2012/Nimhans/big/8.jpg
+      - /assets/images/seminars/2012/Nimhans/big/9.jpg
+
+  - title: Pushpagiri Medical College
+    image:
+      - /assets/images/seminars/2012/Pushpagiri/big/1.jpg
+      - /assets/images/seminars/2012/Pushpagiri/big/2.jpg
+      - /assets/images/seminars/2012/Pushpagiri/big/3.jpg
+      - /assets/images/seminars/2012/Pushpagiri/big/4.jpg
+      - /assets/images/seminars/2012/Pushpagiri/big/5.jpg
+      - /assets/images/seminars/2012/Pushpagiri/big/6.jpg
+
+  - title: Apollo Speciality Hospital
+    image:
+      - /assets/images/seminars/2014/Apollo/big/1.jpg
+      - /assets/images/seminars/2014/Apollo/big/2.jpg
+      - /assets/images/seminars/2014/Apollo/big/3.jpg
+      - /assets/images/seminars/2014/Apollo/big/4.jpg
+      - /assets/images/seminars/2014/Apollo/big/5.jpg
+      - /assets/images/seminars/2014/Apollo/big/6.jpg
+      - /assets/images/seminars/2014/Apollo/big/7.jpg
+      - /assets/images/seminars/2014/Apollo/big/8.jpg
+      - /assets/images/seminars/2014/Apollo/big/9.jpg
+      - /assets/images/seminars/2014/Apollo/big/10.jpg
+
+  - title: Manipal University
+    image:
+      - /assets/images/seminars/2014/Manipal/big/1.jpg
+      - /assets/images/seminars/2014/Manipal/big/2.jpg
+      - /assets/images/seminars/2014/Manipal/big/3.jpg
+      - /assets/images/seminars/2014/Manipal/big/4.jpg
+      - /assets/images/seminars/2014/Manipal/big/5.jpg
+      - /assets/images/seminars/2014/Manipal/big/6.jpg
+      - /assets/images/seminars/2014/Manipal/big/7.jpg
+      - /assets/images/seminars/2014/Manipal/big/8.jpg
+      - /assets/images/seminars/2014/Manipal/big/9.jpg
+      - /assets/images/seminars/2014/Manipal/big/10.jpg
+
+  - title: PSG Medical College
+    image:
+      - /assets/images/seminars/2014/PSG/big/1.jpg
+      - /assets/images/seminars/2014/PSG/big/2.jpg
+      - /assets/images/seminars/2014/PSG/big/3.jpg
+      - /assets/images/seminars/2014/PSG/big/4.jpg
+      - /assets/images/seminars/2014/PSG/big/5.jpg
+      - /assets/images/seminars/2014/PSG/big/6.jpg
+      - /assets/images/seminars/2014/PSG/big/7.jpg
+      - /assets/images/seminars/2014/PSG/big/8.jpg
+      - /assets/images/seminars/2014/PSG/big/9.jpg
+      - /assets/images/seminars/2014/PSG/big/10.jpg
+
+  - title: Roshni Nilaya Mangalore
+    image:
+      - /assets/images/seminars/2014/Roshninilya/big/1.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/2.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/3.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/4.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/5.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/6.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/7.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/8.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/9.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/10.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/11.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/12.jpg
+      - /assets/images/seminars/2014/Roshninilya/big/13.jpg
 ---
 
-
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-<meta name="keywords" content="seniors care, elder care, assisted living homes, coma care, dementia care, Alzheimer's care, respite care, foster care, hospice care, domicilary care, Geriatric Care Facility, old age home, bed ridden patients, Intervention patients, tracheotomy patients, colostomy, catheter, nasal feeding, PEG feeding, geriatric counseling, senior counseling, old age care, home nursing, elderly care taker,senior care giver,trained home nurses, trained senior carer, gerentology experts, research, seminar, international faculty in gerentology" />
-
-<!--image zooming script start here-->
-
-<script   src="/highslide/highslide-with-gallery.js"></script>
-<link rel="stylesheet" type="text/css" href="/highslide/highslide.css">
-
-<!--
-	1) Optionally override the settings defined at the top
-	of the highslide.js file. The parameter hs.graphicsDir is important!
--->
-
-<script  >
-	hs.graphicsDir = '/highslide/graphics/';
-	hs.align = 'center';
-	hs.transitions = ['expand', 'crossfade'];
-	hs.outlineType = 'rounded-white';
-	hs.wrapperClassName = 'controls-in-heading';
-	hs.fadeInOut = true;
-	//hs.dimmingOpacity = 0.75;
-
-	// Add the controlbar
-	if (hs.addSlideshow) hs.addSlideshow({
-		//slideshowGroup: 'group1',
-		interval: 5000,
-		repeat: false,
-		useControls: true,
-		fixedControls: false,
-		overlayOptions: {
-			opacity: 1,
-			position: 'top left',
-			hideOnMouseOut: false
-		}
-	});
-</script>
-
-<!--image zooming script end here-->
+## Seminars
 
 
-<!--scroll top script start here-->
-<link href="/assets/css/advant.css" rel="stylesheet" type="text/css" />
-<!--scroll top script end here-->
+In 2012, We conducted three international seminars in Bangalore, Kochi and  Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai,  Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK  who are experts in their field presented interesting and innovative studies in  the geriatric field.
 
 
-<!--popup content start here-->
-<link href="/pop/modelpop.css" rel="stylesheet" type="text/css">
-<!--popup content end here-->
-
-<!--sidebar script start from here-->
-<script src="/sidebar/jquery.js"  ></script>
-<link href="/sidebar/sidebar.css" rel="stylesheet" type="text/css" />
-<script  >
-jQuery(document).ready (
-function(){jQuery("#facebook_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
-function(){ jQuery("#facebook_right").stop(true,false).animate({right: -325}, 500); });
-
-jQuery("#twitter_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
-function(){ jQuery("#twitter_right").stop(true,false).animate({right: -325}, 500); });
-
-jQuery("#testimoni_right").hover(function(){ jQuery(this).stop(true,false).animate({right:  0}, 500); },
-function(){ jQuery("#testimoni_right").stop(true,false).animate({right: -300}, 500); });
-});
-</script>
-
-<!--sidebar script end from here-->
-
-<!--mobile menu start-->
-<link rel="stylesheet" href="/respmenu/responsivemobilemenu.css" type="text/css"/>
-<script   src="/respmenu/responsivemobilemenu.js"></script>
-<!--mobile menu end-->
+The overwhelming response to the 1st series of seminars and the resounding  success of the 2nd series of seminars, has prompted the organizers, to  continue the tradition of bringing the experts from US and Europe in future.  These seminars will continue with objectives of the first seminars as well as  the second seminars and put it on a national platform, helping medical  professionals especially nurses and social workers as well as the general  public to understand, empathize, and take prompt actions to help old people  across India. 
 
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
-
- gtag('config', 'UA-140719676-1');
-</script>
-
-
-<!-- sidebar style -->
-  <style>
-  .newformbord {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    border: 1px solid #99CC00;
-    font-size: 11px;
-    line-height: 20px;
-    font-weight: normal;
-    color: #333333;
-    text-decoration: none;
-    height: 20px;
-    width: 138px;
-  }
-
-  .blacktext {
-    font-family: Arial;
-    font-size: 12px;
-    line-height: 18px;
-    font-weight: normal;
-    color: #666666;
-    text-decoration: none;
-  }
-
-  .gren {
-    font-family: Arial;
-    font-size: 0.8rem;
-    line-height: 18px;
-    font-weight: normal;
-    color: #009900;
-    text-decoration: none;
-  }
-
-  .p-2 {
-    padding: 0.5rem 1rem;
-  }
-
-  .contact-card p {
-    margin: 0 !important;
-    font-size: 0.9rem;
-    line-height: 1.2;
-  }
-
-  .contact-card h3 {
-    margin: 0 !important;
-    font-weight: bold;
-    padding-bottom: 0.5rem;
-  }
-
-  .e-broch {
-    position: static !important;
-  }
-
-  #facebook_right, #twitter_right {
-    top: 15%; 
-    right: -325px; 
-    border: 1px solid #822206;
-  }
-</style>
-</head>
-
-<body>
-<div id="seminarbg">
-<div id="foot">
-<div id="fix">
-<div id="actual">
-
-<div class="ratexts">
-
-
-{% include menu.html %}
-
-
-</div>
-
-<div class="ratexts">
-
-
-<div class="seminarpagehd"><a >Seminars</a></div>
-<div class="bgtext">
-
-<p>In 2012, We conducted three international seminars in Bangalore, Kochi and Thiruvalla. Then in 2014 another series of seminars were conducted in Chennai, Coimbatore, Manipal and Mangalore. Speakers from Universities across US and UK who are experts in their field presented interesting and innovative studies in the geriatric field.</p>
-
-<p>The overwhelming response to the 1st series of seminars and the resounding success of the 2nd series of seminars, has prompted the organizers, to continue the tradition of bringing the experts from US and Europe in future. These seminars will continue with objectives of the first seminars as well as the second seminars and put it on a national platform, helping medical professionals especially nurses and social workers as well as the general public to understand, empathize, and take prompt actions to help old people across India.</p>
-
-
-
-
-</div>
-
-<div class="seminarpagehd"><a >Seminars 2012</a></div>
-<div class="bgtext">
-
-<div class="ratexts">
-
-
-
-<div class="bordshadow">
-<label for="modal-1">
-<div class="galhedrs">Lisie hospital kochi kerala</div>
-<img src="/images/lissy.jpg" alt="Lisie hospital kochi" title="Lisie hospital kochi" class="semimg"/></label>
-
-<input class="modal-state" id="modal-1" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-1"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-1"></label>
-    <div class="modhd">lisie hospital kochi kerala</div>
-    <p>
-
-     <div class="ratexts">
-<a href="/images/seminars/2012/Lissy/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Lissy/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Lissy/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Lissy/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Lissy/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Lissy/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-</div>
-
-
-	</p>
-
+<div class="seminar-gallery">
+  {% for item in page.seminars %}
+  <div class="mb-3">
+    <h3>{{item.title}}</h3>
+    <div class="row">
+      {% for image in item.image %}
+      <div class="col-md-4 mb-4">
+        <a href="{{image}}" data-fslightbox="gallery">
+          <img
+            class="seminar-image"
+            width="200"
+            height="200"
+            src="{{image}}"
+            alt="{{item.title}} elder care services bangalore"
+          />
+        </a>
+      </div>
+      {% endfor %}
+    </div>
   </div>
-</div>
-</div>
-
-<div class="bordshadow">
-<label for="modal-2">
-<div class="galhedrs">Nimhans Bangalore</div>
-<img src="/images/nimhans.jpg" alt="Nimhans" title="Nimhans" class="semimg"/></label>
-
-<input class="modal-state" id="modal-2" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-2"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-2"></label>
-    <div class="modhd">Nimhans Bangalore</div>
-    <p>
-
-     <div class="ratexts">
-
-<a href="/images/seminars/2012/Nimhans/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/6.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/7.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/8.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-<a href="/images/seminars/2012/Nimhans/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Nimhans/thumb/9.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg" /></a>
-
-
+  {% endfor %}
 </div>
 
-
-	</p>
-
-  </div>
-</div>
-</div>
-
-<div class="bordshadow">
-<label for="modal-3">
-<div class="galhedrs">Pushpagiri Medical College</div>
-<img src="/images/pushpagiri.jpg" alt="Pushpagiri Medical College" title="Pushpagiri Medical College" class="semimg"/></label>
-
-<input class="modal-state" id="modal-3" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-3"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-3"></label>
-    <div class="modhd">Pushpagiri Medical College Kerala</div>
-    <p>
-
-     <div class="ratexts">
-
-<a href="/images/seminars/2012/Pushpagiri/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/1.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-
-<a href="/images/seminars/2012/Pushpagiri/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/2.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-
-<a href="/images/seminars/2012/Pushpagiri/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/3.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-
-<a href="/images/seminars/2012/Pushpagiri/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/4.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-
-<a href="/images/seminars/2012/Pushpagiri/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/5.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-
-<a href="/images/seminars/2012/Pushpagiri/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2012/Pushpagiri/thumb/6.jpg" alt="seminar 2012" title="seminar 2012" class="galbordimg"/></a>
-</div>
-
-	</p>
-
-  </div>
-</div>
-</div>
-
-
-
-
-
-</div>
-
-</div>
-
-<div class="seminarpagehd"><a >Seminars 2014</a></div>
-<div class="bgtext">
-
-<div class="ratexts">
-
-<div class="bordshadow">
-<label for="modal-4">
-<div class="galhedrs">Apollo Speciality Hospital</div>
-<img src="/images/apollo.jpg" alt="Apollo Speciality Hospital" title="Apollo Speciality Hospital" class="semimg"/></label>
-
-<input class="modal-state" id="modal-4" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-4"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-4"></label>
-    <div class="modhd">Apollo Speciality Hospital Vanagaram Chennai</div>
-    <p>
-
-     <div class="ratexts">
-
-     <a href="/images/seminars/2014/Apollo/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Apollo/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Apollo/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-</div>
-
-	</p>
-
-  </div>
-</div>
-</div>
-
- <div class="bordshadow">
-<label for="modal-5">
-<div class="galhedrs">Manipal University</div>
-<img src="/images/manipal.jpg" alt="Manipal University" title="Manipal University" class="semimg"/></label>
-
-<input class="modal-state" id="modal-5" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-5"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-5"></label>
-    <div class="modhd">Manipal University</div>
-    <p>
-
-     <div class="ratexts">
-
-<a href="/images/seminars/2014/Manipal/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Manipal/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Manipal/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-</div>
-
-	</p>
-
-  </div>
-</div>
-</div>
-
-<div class="bordshadow">
-<label for="modal-6">
-<div class="galhedrs">PSG Medical College</div>
-<img src="/images/psg.jpg" alt="PSG Medical College" title="PSG Medical College" class="semimg"/></label>
-
-<input class="modal-state" id="modal-6" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-6"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-6"></label>
-    <div class="modhd">PSG Medical College Coimbatore</div>
-    <p>
-
-     <div class="ratexts">
-
-<a href="/images/seminars/2014/PSG/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/PSG/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/PSG/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-
-</div>
-
-	</p>
-
-  </div>
-</div>
-</div>
-
-<div class="bordshadow">
-<label for="modal-7">
-<div class="galhedrs">Roshni Nilaya Mangalore</div>
-<img src="/images/rosni_nilay.jpg" alt="Roshni Nilaya Mangalore" title="Roshni Nilaya Mangalore" class="semimg"/></label>
-
-<input class="modal-state" id="modal-7" type="checkbox" />
-<div class="modal">
-  <label class="modal__bg" for="modal-7"></label>
-  <div class="modal__inner">
-    <label class="modal__close" for="modal-7"></label>
-    <div class="modhd">Roshni Nilaya Mangalore</div>
-    <p>
-
-     <div class="ratexts">
-
-<a href="/images/seminars/2014/Roshninilya/big/1.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/1.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/2.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/2.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/3.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/3.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/4.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/4.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/5.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/5.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/6.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/6.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/7.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/7.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/8.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/8.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/9.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/9.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg" /></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/10.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/10.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/11.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/11.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/12.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/12.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-<a href="/images/seminars/2014/Roshninilya/big/13.jpg" class="highslide" onclick="return hs.expand(this)">
-<img src="/images/seminars/2014/Roshninilya/thumb/13.jpg" alt="seminar 2014" title="seminar 2014" class="galbordimg"/></a>
-
-
-</div>
-
-	</p>
-
-  </div>
-</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<div class="scroll-top-wrapper ">
-<span class="scroll-top-inner">
-<i class="fa fa-2x fa-arrow-up"></i>
-</span>
-</div>
-
-
-{% include footer.html %}
-
-
-</div>
-</div>
-</div>
-</div>
-
-{% include sidebar-brochure.html %}
-{% include chat.html %}
-<script src="//instant.page/3.0.0"  defer ></script>
-</body>
-
+<script src="/assets/js/fslightbox.js"></script>

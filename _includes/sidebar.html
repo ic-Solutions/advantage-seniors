@@ -1,0 +1,30 @@
+<div class="bg-white border shadow p-2">
+  <div class="row">
+    <div class="col-12 text-center">
+      <div class="border-bottom pb-3">
+        <div class="pt-3">
+          <h6>Brochure</h6>
+        </div>
+        <a href="/assets/images/downloads/Brochure.pdf" target="_blank"
+          ><img
+            src="/assets/images/sidebar/download.jpg"
+            class="widimg"
+            alt="download brochure button"
+        /></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12 text-center">
+      <div class="pt-3">
+        <h6>Geriatric Care Facility</h6>
+      </div>
+      {% for item in site.data.sidebar-images %}
+      <div class="mb-3 mb-md-4">
+        <img src="{{item.image}}" alt="{{item.title}}" />
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

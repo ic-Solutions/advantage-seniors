@@ -1,17 +1,13 @@
 ---
-#front matter here
+layout: compress
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-{% include new-head.html %}
+  {% include new-head.html %}
 
-<body id="page-top">
-    {% include new-navigation.html %}
-    {% include new-header.html %}
-
-    {{content}}
-
+  <body id="page-top">
+    {% include new-navigation.html %} {% include new-header.html %} {{content}}
     {% include new-footer.html %}
 
     <!-- Bootstrap core JavaScript -->
@@ -26,15 +22,72 @@
 
     <script src="/assets/js/main.js"></script>
 
+    <!-- Testimonial slider script -->
+    <script>
+      jQuery(document).ready(function ($) {
+        $("#checkbox").change(function () {
+          setInterval(function () {
+            moveRight();
+          }, 3000);
+        });
+
+        var slideCount = $("#slider ul li").length;
+        var slideWidth = $("#slider ul li").width();
+        var slideHeight = $("#slider ul li").height();
+        var sliderUlWidth = slideCount * slideWidth;
+
+        $("#slider").css({ width: slideWidth, height: slideHeight });
+
+        $("#slider ul").css({ width: sliderUlWidth, marginLeft: -slideWidth });
+
+        $("#slider ul li:last-child").prependTo("#slider ul");
+
+        function moveLeft() {
+          $("#slider ul").animate(
+            {
+              left: +slideWidth,
+            },
+            300,
+            function () {
+              $("#slider ul li:last-child").prependTo("#slider ul");
+              $("#slider ul").css("left", "");
+            }
+          );
+        }
+
+        function moveRight() {
+          $("#slider ul").animate(
+            {
+              left: -slideWidth,
+            },
+            300,
+            function () {
+              $("#slider ul li:first-child").appendTo("#slider ul");
+              $("#slider ul").css("left", "");
+            }
+          );
+        }
+
+        $("a.control_prev").click(function () {
+          moveLeft();
+        });
+
+        $("a.control_next").click(function () {
+          moveRight();
+        });
+      });
+    </script>
+
     <!-- Fontawesome through JavaScript -->
     <script>
-        (function () {
-            var css = document.createElement("link");
-            css.href = "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
-            css.rel = "stylesheet";
-            css.type = "text/css";
-            document.getElementsByTagName("head")[0].appendChild(css);
-        })();
+      (function () {
+        var css = document.createElement("link");
+        css.href =
+          "//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+        css.rel = "stylesheet";
+        css.type = "text/css";
+        document.getElementsByTagName("head")[0].appendChild(css);
+      })();
     </script>
 
     <!-- Chat JavaScript -->
@@ -42,32 +95,32 @@
 
     <script src="/assets/js/font-resize.js"></script>
     {% if page.url == '/videos/' %}
-    <link href="/assets/css/video.popup.css" rel="stylesheet">
+    <link href="/assets/css/video.popup.css" rel="stylesheet" />
     <script src="/assets/js/video.popup.js"></script>
     <script>
-        {% for item in site.data.videos %}
-        $("#video{{forloop.index}}").videoPopup({
-            autoplay: 1,
-            controlsColor: 'white',
-            showVideoInformations: 0,
-            width: 800,
-        });
-        {% endfor %}
+      {% for item in site.data.videos %}
+      $("#video{{forloop.index}}").videoPopup({
+          autoplay: 1,
+          controlsColor: 'white',
+          showVideoInformations: 0,
+          width: 800,
+      });
+      {% endfor %}
     </script>
     {% endif %}
 
     <!-- Fontawesome through JavaScript -->
     <script>
-        (function () {
-            var css = document.createElement("link");
-            css.href = "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
-            css.rel = "stylesheet";
-            css.type = "text/css";
-            document.getElementsByTagName("head")[0].appendChild(css);
-        })();
+      (function () {
+        var css = document.createElement("link");
+        css.href =
+          "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+        css.rel = "stylesheet";
+        css.type = "text/css";
+        document.getElementsByTagName("head")[0].appendChild(css);
+      })();
     </script>
-    
-    <script defer src="https://instant.page/3.0.0"></script>
-</body>
 
+    <script defer src="https://instant.page/3.0.0"></script>
+  </body>
 </html>
