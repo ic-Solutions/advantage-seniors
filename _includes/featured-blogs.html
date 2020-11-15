@@ -1,21 +1,37 @@
-<section class="py-lg">
+<section class="featured-blogs bg-light">
   <div class="container">
-    <h2 class="slider-header">Featured Blogs</h2>
-    <div class="row">
-      {% for item in site.posts limit: 3 %}
-      <div class="featured-blog shadow mb-5">
-        <a class="nostyle" href="{{item.url}}">
-          <div class="p-3">
-            <img  class="blog-image" alt="{{item.title}}" src="{{item.image}}">
-            <h3 class="display-2">{{item.title}}</h3>
-            <p class="lead-text">{{item.content | strip_html | truncatewords: 163}}</p>
-            <p class="text-right pt-2">
-              <span class="btn btn-success btn-sm">Read More</span>
-            </p>
+    {% for item in site.posts limit: 3 %}
+    <div>
+      <div
+        class="col-12 bg-white shadow border px-md-5 py-3 py-md-5 my-4 my-md-5"
+      >
+        <div class="row justify-content-center">
+          <div
+            class="col-md-6 align-self-center text-center {% cycle '', 'order-md-2' %} py-4"
+          >
+            <img
+              class="rounded"
+              src="{{item.image}}"
+              alt="{{item.title}} elder care services in bangalore"
+              title="elder care services in banglaore"
+            />
           </div>
-        </a>
+          <div class="col-md-6 align-self-center order-md-1">
+            <h3 class="title">{{item.title}}</h3>
+            <p>{{item.description}}</p>
+
+            <div class="{% cycle 'text-right', '' %}">
+              <a
+                class="btn btn-primary btn-sm"
+                href="{{item.url}}"
+                title="{{item.title}} elder care services bangalore"
+                >Read More</a
+              >
+            </div>
+          </div>
+        </div>
       </div>
-      {% endfor %}
     </div>
+    {% endfor %}
   </div>
 </section>

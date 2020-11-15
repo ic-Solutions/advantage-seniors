@@ -1,0 +1,25 @@
+- title: Free Consultation
+  image: /assets/images/featured/free-consultation.svg
+  link: "mailto:advantagejacob@gmail.com"
+  button-text: Consult
+  description:
+    - It is a FREE initial consultation. Set up a No-obligation Assessment.
+
+- title: Home Care
+  image: /assets/images/featured/home-care.svg
+  link: /homecare/
+  description:
+    - When you felt the need for a professional care giver for your loved one, you start the journey by finding the best home care service provider. Elder care services are a growing part of the healthcare market. It seems everywhere you turn these days new elder care services providers are sprouting.
+
+- title: Coma Care
+  image: /assets/images/featured/coma-care.svg
+  link: /coma-care/
+  description:
+    - Years in the long term elder care industry, advantAGE seniors is concerned with the care of coma patients in our community. We believe and advocate that the comatose person also deserve the same care and attention as any other patient.
+
+- title: Assisted Care Facility
+  image: /assets/images/featured/assisted-living.svg
+  link: /carehome/
+  description:
+    - Are you looking for a place to keep your loved one?
+    - Home is the first and the best option for the elders and we call it "ageing in place"! However, many a time, home fails to extend the support systems needed for adequate elder care giving during infirmity.
