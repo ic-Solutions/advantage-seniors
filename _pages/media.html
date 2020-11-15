@@ -83,7 +83,7 @@ links:
           <img src="{{article.image}}" alt="{{article.title}}" />
           {% else %}
           <img
-            src="http://placehold.jp/e5e5e5/383838/1000x450.png?text={{media.title | url_encode | truncate: 30}}"
+            src="http://placehold.jp/e5e5e5/383838/1000x450.png?text={{article.title | url_encode | truncate: 30}}"
             alt="{{article.title}}"
           />
           {% endif %}
