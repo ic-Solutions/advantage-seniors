@@ -22,10 +22,11 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=DM+Sans%7CSource+Sans+Pro:900&display=swap" rel="stylesheet">
 
+    {% if page.layout == "post" %}
     <!-- share buttons -->
     <script async="async"
         src="https://platform-api.sharethis.com/js/sharethis.js#property=5e17005954c2170012dd2b0e&product=inline-share-buttons&cms=sop"></script>
-
+    {% endif %}
           <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140719676-1"></script>
   <script>
