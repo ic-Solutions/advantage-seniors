@@ -134,6 +134,10 @@ footer {
   }
   .social {
     margin-right: 10px;
+    @include media-query($on-laptop) {
+      margin-right: 30px;
+      font-size: 2em;
+    }
   }
   hr {
     margin-top: 2em !important;
