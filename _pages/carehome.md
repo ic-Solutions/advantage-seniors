@@ -2,7 +2,7 @@
 layout: page
 title: Senior Geriatric Care Facility
 description: "Home is the first and the best option for the elders and we call it 'ageing in place'! However, many as time, home fails to extend the support systems needed for adequate care giving during infirmity. Advantage Seniors is known for elder care services in bangalore. Contact us for home care or care homes."
-image: /images/servicebg.jpg
+image: /assets/images/featured/assisted-living.svg
 permalink: /carehome/
 redirect_from: /carehome.html
 links:
@@ -13,6 +13,10 @@ links:
   - Geriatric Counselling
   - Family Care Giver Counselling
 ---
+
+<h2>Assisted Care Facility</h2>
+
+![{{page.title}}]({{page.image}})
 
 <p>
   Home is the first and the best option for the elders and we call it"ageing in
