@@ -9,15 +9,15 @@ author:
 
 Because of the demanding nature of working in long-term care, primary care givers, and many professionals including nurses, run the risk of suffering from burnout and compassion fatigue. By adopting healthy lifestyle choices and focusing on burnout and compassion fatigue prevention, you can minimize work stresses and their toll. The author is a leading social gerontology expert in the caregiving industry and he provides insight for both the caregiver and the recipient in this wonderful article.
 
-> “To work out this plan, you need the support of your husband”,
-
-I told Krishnaprabha explaining the care plan of her mother in law.
+“To work out this plan, you need the support of your husband”, I told Krishnaprabha explaining the care plan of her mother in law.
 
 > “If not better to place her in a care facility”
 
 I gave the second option. “No sir, he will not understand and he always says that it is my duty, as if he has no stake in this”, Krishnaprabha complains about her plight of singlehandedly (mis)managing a rheumatoid patient with slight dementia.
 
-> “Three years of caring for my mother in law with dementia, I’m exhausted! What hurts worse is when a clueless husband tells you that the reason my mother in law is so bad is because I had neglected her. That was very ignorant. I worked, like a donkey, hard at home doing my family’s chores, and also worked years at jobs myself. I’m worn out, no more it is possible. But now-a-days, the sleepless nights really gang up on me. I can’t do this kind of work any more …. I can’t care anymore”
+> “Three years of caring for my mother in law with dementia, I’m exhausted!
+
+"What hurts worse is when a clueless husband tells you that the reason my mother in law is so bad is because I had neglected her. That was very ignorant. I worked, like a donkey, hard at home doing my family’s chores, and also worked years at jobs myself. I’m worn out, no more it is possible. But now-a-days, the sleepless nights really gang up on me. I can’t do this kind of work any more …. I can’t care anymore”
 
 Prabha decided to call off her ‘caregiving assignment’.
 
