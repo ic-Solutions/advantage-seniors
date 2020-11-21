@@ -38,8 +38,4 @@ links:
   {% endfor %}
 </div>
 
-<a
-  href="http://search.google.com/local/writereview?placeid=ChIJYzr6B6MWrjsR-B7_17fBkO0"
-  target="_blank"
-  >Read all reviews</a
->
+[Read all reviews](http://search.google.com/local/writereview?placeid=ChIJYzr6B6MWrjsR-B7_17fBkO0){: target="\_blank"}
