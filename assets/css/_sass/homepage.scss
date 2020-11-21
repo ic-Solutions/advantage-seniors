@@ -19,3 +19,13 @@
     font-size: 1.5em !important;
   }
 }
+
+.map {
+  iframe {
+    height: 600px;
+    width: 100%;
+    @media screen and (max-width: $on-palm) {
+      height: 260px;
+    }
+  }
+}

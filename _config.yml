@@ -6,6 +6,7 @@ destination: public
 permalink: /:title/
 
 contact-email-link: "mailto:advantagejacob@gmail.com"
+contact-phone-number: "09844495527"
 
 sass:
   sass_dir: /assets/css/_sass
