@@ -1,7 +1,9 @@
 - title: Free Consultation
   image: /assets/images/featured/free-consultation.svg
-  link: "mailto:advantagejacob@gmail.com"
   button-text: Consult
+  link: "mailto:advantagejacob@gmail.com"
+  button-2-text: Call Us
+  link2: "tel:09844495527"
   description:
     - It is a FREE initial consultation. Set up a No-obligation Assessment.
 
