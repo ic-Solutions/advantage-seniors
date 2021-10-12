@@ -18,6 +18,8 @@ Let’s start with a letter which we received recently from Sharjah, UAE from Mr
 
 “Parents are old but ain't dying or anything, but I'm just thinking ahead. For some reason, this has been bothering me and it is making me so depressed and sad, so I will seek your advice. Also, there is no other immediate family living India other than few distant cousins. All my family in another country are as old as I am or old people.
 
+Read [Hostility Between Aged Parents]({% post_url 2019-02-03-hostility-between-aged-parents %})
+
 I'm an able bodied adult, so there isn't really any real reason why I can't take care of sibling in the eyes of the law. I can't get out of it by ignoring sibling and not give him proper care because that amounts to neglect. Can't abandon my brother somewhere, either. I'll be forced to be the legal guardian, otherwise I go to jail. I'll be trapped with no way out of this. At least, that's how I'm imagining all this works, because I don't know anything about this, really.
 
 Presently, I have the freedom to do whatever I want. At present, I am not providing care, so my life is relatively normal. But I live in constant fear that at some point of time I will be full time caregiver to my younger brother and I hate it. Is there a way to seperate myself from my family legally so that I am not obligated to be the guardian? My life won't be mine anymore. Or am I being dramatic, and there's something I can do to get out of this responsibility? I even thought about suicide”.

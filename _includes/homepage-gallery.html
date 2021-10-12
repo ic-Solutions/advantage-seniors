@@ -1,0 +1,28 @@
+<section class="featured-articles">
+  <div class="container">
+    <h2 class="slider-header text-center">Gallery</h2>
+    <p class="lead text-center">
+      Gallery of advantAge India elder Geriatric Care Facility. Advantage is
+      known for elder care services in bangalore.
+    </p>
+    <div class="row">
+      {% for item in site.data.gallery.gallery limit: 9 offset:15 %}
+      <div class="col-md-4">
+        <a href="{{item.image}}" data-fslightbox="gallery">
+          <img
+            height="300"
+            class="gallery-image rounded shadow"
+            src="{{item.image}}"
+            alt="{{item.title}} elder care service in bangalore"
+            title="{{item.title}}"
+          />
+        </a>
+        <p>{{item.title}}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <a class="btn btn-primary btn-lg" href="/gallery/">View More</a>
+    </div>
+  </div>
+</section>

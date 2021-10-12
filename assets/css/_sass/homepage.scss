@@ -1,5 +1,12 @@
 .features {
   padding: 50px 0;
+
+  h2 {
+    margin: 0.5em 0 0 0;
+    @media screen and (max-width: $on-palm) {
+      font-size: 1.5em;
+    }
+  }
 }
 
 .featured-articles {
@@ -15,8 +22,24 @@
   img {
     overflow: hidden;
   }
-  .title {
-    font-size: 1.5em !important;
+  h3.title {
+    font-size: 1.5em;
+  }
+  h3.title {
+    @media screen and (max-width: $on-palm) {
+      font-size: 1.2em;
+    }
+  }
+}
+
+.stories {
+  h3 {
+    font-size: 1.5em;
+  }
+  h3 {
+    @media screen and (max-width: $on-palm) {
+      font-size: 1.2em;
+    }
   }
 }
 
@@ -28,4 +51,46 @@
       height: 260px;
     }
   }
+}
+
+.lead {
+  @include media-query($on-palm) {
+    font-size: 1em;
+  }
+}
+
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+  from {
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.rotating {
+  -webkit-animation: rotating 60s linear infinite;
+  -moz-animation: rotating 60s linear infinite;
+  -ms-animation: rotating 60s linear infinite;
+  -o-animation: rotating 60s linear infinite;
+  animation: rotating 60s linear infinite;
 }

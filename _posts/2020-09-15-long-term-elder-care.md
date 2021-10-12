@@ -17,6 +17,8 @@ Ranganath Ray, a former professor at the Department of English Literature of Jad
 
 An increasing number of India's senior citizens now choose to live in retirement or care homes rather than spend their remaining years with their children at home. Fortunately for them, modern telecommunications technologies, particularly social networking, has made them feel closer to their children.
 
+Read [Coma care until end]({% post_url 2020-08-05-coma-care-untill-end %})
+
 Jayalakshmi, 75, an arthritic patient, though bed bound for several years lives her life in full without the feeling of loneliness and fear, although her daughters live abroad. One year ago, she moved to a Senior Citizens Care Center, a private nursing home in Bangalore. Her single room was filled with books, mostly religious and daily necessities.
 
 Jayalakshmi has many things to do. As she said, "being an arthritic patient, it pains a lot but I have no time thinking about the pain because all the careworkers in the facility treat me like a queen and pamper me with love and care." She received a knee surgery last year.

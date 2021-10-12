@@ -7,7 +7,9 @@ author:
   - Soumya Lakshmi
 ---
 
-Because of the demanding nature of working in long-term care, primary care givers, and many professionals including nurses, run the risk of suffering from burnout and compassion fatigue. By adopting healthy lifestyle choices and focusing on burnout and compassion fatigue prevention, you can minimize work stresses and their toll. The author is a leading social gerontology expert in the caregiving industry and he provides insight for both the caregiver and the recipient in this wonderful article.
+Because of the demanding nature of working in long-term care, primary care givers, and many professionals including nurses, run the risk of suffering from burnout and compassion fatigue. By adopting healthy lifestyle choices and focusing on burnout and compassion fatigue prevention, you can minimize work stresses and their toll. 
+
+The author is a leading social gerontology expert in the caregiving industry and he provides insight for both the caregiver and the recipient in this wonderful article.
 
 “To work out this plan, you need the support of your husband”, I told Krishnaprabha explaining the care plan of her mother in law.
 
@@ -23,18 +25,22 @@ Prabha decided to call off her ‘caregiving assignment’.
 
 You’ve heard of burnout, but may not have heard of compassion fatigue. As more and more family members like Krishnaprabha become caregivers, it is important to be learning about this term. A heavy workload and never-ending tasks may make you wonder if you’ve developed compassion fatigue. What is it and what can you do about it? Krishna Prabha is a typical case of Compassion Fatigue.
 
+Read [How often you visit aged parents]({% post_url 2018-06-26-how-often-you-visit-aged-parents %})
+
 Caring too much can hurt. When primary caregivers focus on their infirm loved ones without practicing self-care, destructive behaviors can surface. Apathy, isolation, bottled up emotions and substance abuse head a long list of symptoms associated with the secondary traumatic stress disorder now labelled: Compassion Fatigue.
 
 In general, Compassion Fatigue is a state experienced by those helping people or animals in distress; it is an extreme state of tension and preoccupation with the suffering of those being helped to the degree that it can create a secondary traumatic stress for the helper.
 
 My experience with ‘long term caregiving’ suggests that caregivers play host to a high level of compassion fatigue. Day in, day out, primary caregivers struggle to function in care giving environments that constantly present heart wrenching, emotional challenges. Eventually, negative attitudes prevail.
 
+## Causes
 Compassion fatigue is caused by empathy. But when there is involvement, it is the natural consequence of stress resulting from caring for and helping traumatized or suffering people. The more commonly used term, ‘burnout’ and compassion fatigue may overlap. The American Institute of Stress, defines this acute stress as “vicarious traumatization” because it’s caused by working with those who are suffering from the consequences of a traumatic event.
 
 When you detach from the scenario, there will not be any empathy. Very few people can do this and most care providers have overwhelming feelings and thoughts when they witness the suffering of another and the desire to alleviate the suffering knowing very well that they are in a helpless situation. Often we confuse compassion with attachment, which is our own personal investment in the outcome of the situation.
 
 In other words, when we think we feel compassion we are actually wrapped up in our own emotional needs rather than the needs of the other person. Mostly it’s attachment that leads to compassion fatigue, not compassion itself. It is not only the family members who have compassion fatigue.
 
+## A true story
 A perfect illustration involves Milan, Nurse Manager working in our care facility. She describes walking into the room of 87 year old, Muniratnamma, a new admission, and feeling stunned by what she saw— an extremely thin, emaciated woman with severe bruising and discoloration on her arms and
 
 legs sitting in her wheelchair. The bruises were the result of severe abuse by her son and daughter in law. Milan described her first reaction as fear which turned to sadness for this woman’s condition and knowing that she really couldn’t do anything to change it.
@@ -47,6 +53,8 @@ Residents and families need support, staff have their coping struggles, bosses c
 
 > “Nurses and care providers have demanding jobs, and at times it may feel like you are carrying the weight of the world on your shoulders.
 
+
+## Remedies
 Given the pressures of care home life, we are susceptible to emotional, mental, and physical exhaustion brought on by continuous demands that include the needs of residents and families, staffing issues, reporting compliances, and surprise visits by management representatives”, Swetha adds.
 
 As a social gerontologist, I suggest the family care providers, to consider the following before the compassion fatigue sets in:

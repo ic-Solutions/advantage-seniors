@@ -5,12 +5,14 @@ description: Also called as ‘Inheritance Impatience’, early inheritance synd
 image: /assets/images/blog/early-inheritance-syndrome.jpg
 author: Soumya Lakshmi
 redirect_from:
-    - /2019/02/17/early-inheritance-syndrome.html
+  - /2019/02/17/early-inheritance-syndrome.html
 ---
 
 **Also called as ‘Inheritance Impatience’, early inheritance syndrome** is just one of the ugly faces of financial elder abuse. It is becoming a more common issue in a society where elders are living longer and living richer than at any time. Adult Children with ''early inheritance syndrome'' feel a sense of entitlement to their old parents' assets.
 
 These impatient children are not prepared to wait until their parents die. They seek ways for their parents to ''gift'' them money, or interfere in the management of their parents' assets to protect what they see as their entitlement. Here we start narrating the long story of 74 year old Ramamurthy, a typical case of early inheritance syndrome.
+
+Read [Compassion fatigue]({% post_url 2020-11-20-compassion-fatigue %})
 
 “I should have taken your advice, parental love blurred my 74 years of wisdom” said Mr. Ramamurthy, holding his friend’s hand, tears rolled down his eyes when despair shrouded his face. A healthy widower past 16 years, Mr. Ramamurthy, is a classic example for “Happily Retired”. Healthy and socially well connected with a vast friend’s circle, he was able to peruse hobbies even after retirement. With sufficient savings coupled with a simple lifestyle he enjoyed the much needed financial independence in his old age and everything that described a happy retirement was part of Mr. Ramamurthy’s life. Over a foolish decision his life became topsy-turvy.
 

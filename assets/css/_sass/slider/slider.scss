@@ -53,7 +53,7 @@
     background: white;
     border-radius: 10px;
     @include media-query($on-palm) {
-      padding: 30px;
+      padding: 15px;
     }
   }
 
@@ -95,12 +95,16 @@
     font-size: 18px;
     opacity: 0.8;
     cursor: pointer;
+    @include media-query($on-palm) {
+      top: 70%;
+    }
   }
 
   a.control_prev:hover,
   a.control_next:hover {
     opacity: 1;
     -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
   }
 
   a.control_prev {

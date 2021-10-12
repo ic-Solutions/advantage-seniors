@@ -3,7 +3,7 @@ layout: new-default
 title: Elder Care Services Bangalore
 description: When you feel the need for a professional elder care service for your loved one, you start the journey by finding the best home care service provider. AdvantAGE Seniors provides the senior care you need for your loved ones.
 type: home
-permalink: /
+permalink: /index2
 ---
 
 {% include features.html %} 
@@ -11,6 +11,7 @@ permalink: /
 {% include featured-articles.html %} 
 {% include featured-blogs.html %} 
 {% include case-studies.html %}
+{% include videos.html %}
 {% include homepage-gallery.html %}
 {% include privacy.html %}
 {% include map.html %}

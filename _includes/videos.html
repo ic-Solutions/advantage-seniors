@@ -1,0 +1,28 @@
+<script src="http://www.youtube.com/player_api"></script>
+<section class="videos bg-primary">
+  <div class="container">
+    <div class="row">
+      {% for item in site.data.videos %}
+      <div class="col-12 col-md-6 col-lg-4 mt-20 overflow-hidden">
+        <div
+          id="video{{forloop.index}}"
+          video-url="https://www.youtube.com/watch?v={{item.id}}"
+        >
+          <div class="card mb-4">
+            <div class="card-img-top video">
+              <img
+                src="https://img.youtube.com/vi/{{item.id}}/hqdefault.jpg"
+                alt="{{item.title}}"
+              />
+            </div>
+            <div class="card-body">
+              <p class="title">{{item.title}}</p>
+              <div class="text-right"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

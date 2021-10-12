@@ -22,12 +22,10 @@
 
   <!-- Google Fonts -->
   <!-- <link href="https://fonts.googleapis.com/css?family=DM+Sans%7CSource+Sans+Pro:900&display=swap" rel="stylesheet"> -->
-  {% include google-fonts.html %}
-
-  {% if page.layout == "post" %}
+  {% include google-fonts.html %} {% if page.layout == "post" %}
   <!-- share buttons -->
   <script
-    async="async"
+    defer
     src="https://platform-api.sharethis.com/js/sharethis.js#property=5e17005954c2170012dd2b0e&product=inline-share-buttons&cms=sop"
   ></script>
   {% endif %}

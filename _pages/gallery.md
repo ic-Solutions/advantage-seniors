@@ -21,7 +21,6 @@ links:
       <img
         class="gallery-image rounded shadow"
         height="200"
-        width="200"
         src="{{item.image}}"
         alt="{{item.title}} elder care service in bangalore"
         title="{{item.title}}"

@@ -15,6 +15,8 @@ The first look may entice you with the fancy structure and facilities, however, 
 
 The manager of the facility referred her as Lakshmamma (name changed) and surprisingly she is 90 years old. Without talking anything much Lakshmamma held Swetha by hand and seated close to her on the bed, the first thing she did was stretching her hands out to pick up a framed photo which must be ages old, in black and white, almost faded and hardly faces were recognizable, that was her husband and herself when they got married 73 years back. Handing out that photo she was curiously looking at Swetha for her reactions, somewhere she saw Lakshmamma was trying to hide her tears, she swallowed her heaviness and started talking about herself and her husband. Swetha told me, how desperate Lakshmamma was for interactions and to speak out her stories which may means nothing to us but for her certainly it is.
 
+Read [Ageing alone]({% post_url 2020-07-13-ageing-alone-old-age-preperation %})
+
 May be her great grand-children and grand-children has a lot to hear from their great grand mom who made it to a century. Unfortunately there was nothing of a thing called visitor to Lakshmamma and it was very evident in her desperation to speak and communicate.
 
 According to many social gerontology studies across the world, social isolation of the seniors has been associated with cognitive decline, decline in health, depression, increased rates of infection and ultimately even mortality. Communicating and visiting with the elders in our lives, be it a close relative or a neighbour can help ward off these detrimental effects.
