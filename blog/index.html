@@ -2,20 +2,25 @@
 layout: blog
 title: advantAGE Seniors Blog
 description: Are you looking for a place to keep your loved one? Consult advantAGE Seniors - the best elder care service provider in bangalore.
-permalink: /blog/
+#permalink: /blog/
 ---
 
 <!-- Blog Entries Column -->
 
 <div class="col-md-8 resize">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <!-- Blog Post -->
   <div class="card mb-5">
-    <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}" loading="lazy" />
+    <img
+      class="card-img-top"
+      src="{{post.image}}"
+      alt="{{post.title}}"
+      loading="lazy"
+    />
     <div class="card-body">
       <h2 class="card-title">{{post.title}}</h2>
       <p class="card-text">{{post.description}}</p>
-      <a href="{{post.url}}" class="btn btn-primary">Read More →</a>
+      <a href="{{post.url}}" class="btn btn-outline-primary float-right">Read More →</a>
     </div>
     <div class="card-footer text-muted">
       Posted on {{ post.date | date: '%d %B, %Y' }} by
@@ -23,4 +28,34 @@ permalink: /blog/
     </div>
   </div>
   {% endfor %}
+
+  <!-- Pagination links -->
+  <ul class="pagination d-flex">
+    <li class="page-item">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="page-link previous">
+        Previous
+      </a>
+      {% else %}
+      <span class="previous">Previous</span>
+      {% endif %}
+    </li>
+    <span class="page_number">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    <li class="page-item">
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="page-link next">Next</a>
+      {% else %}
+      <span class="next">Next</span>
+      {% endif %}
+    </li>
+  </ul>
 </div>
+
+<style>
+  .pagination {
+    place-items: center;
+    justify-content: space-between;
+  }
+</style>
