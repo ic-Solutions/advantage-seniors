@@ -2,7 +2,7 @@
 layout: post
 title: "Helping the Doctors Help you"
 description: It is vital to remember that a good elicitation of the patient’s history, in his own words coupled with few leading questions from the doctor can help the latter to arrive into ‘provisional diagnosis’.
-image: /assets/images/blog/do-we-owe-to-our-aged-parents.avif
+image: /assets/images/blog/do-we-owe-to-our-aged-parents.png
 author:
   - Soumya Lakshmi
 ---
