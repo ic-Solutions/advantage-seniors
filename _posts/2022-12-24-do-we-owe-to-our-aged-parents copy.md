@@ -6,9 +6,6 @@ image: /assets/images/blog/do-we-owe-to-our-aged-parents.png
 author:
   - Roshan Jacob and Soumya Lakshmi
 ---
-
-Sunday, 20 November 2016
-
 Swarna Mamee cannot withhold her tears when she saw the two nighties she got from her son. Torn and faded nighties were once used by her daughter-in-law, when she was pregnant.
 
 Aged 84, Swarna Mamee lost her husband way back in 2004 and till few months back she used to shuttle between her sons.
