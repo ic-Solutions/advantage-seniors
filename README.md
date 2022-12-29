@@ -1,8 +1,6 @@
 # advantage-seniors
 
-delete Gemfile
-
-delete Gemfile.lock
+Delete Gemfile & Gemfile.lock files
 
 Download & install : rubyintaller ( Ruby+Devkit )
 
