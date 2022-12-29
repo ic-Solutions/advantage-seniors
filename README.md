@@ -4,7 +4,7 @@ delete Gemfile
 
 delete Gemfile.lock
 
-download rubyintaller - Ruby+Devkit
+Download & install : rubyintaller ( Ruby+Devkit )
 
 run : `gem install jekyll bundler` & `bundle install`
 
