@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Helping the Doctors Help you"
-description: It is vital to remember that a good elicitation of the patient’s history, in his own words coupled with few leading questions from the doctor can help the latter to arrive into ‘provisional diagnosis’.
+title: "Do we owe to our aged parents?"
+description: What responsibility do adults have for their aging parents? Majority says the answer’s simple- that adult children owe the same obligation to their elders as their parents demonstrated to them when they were children.
 image: /assets/images/blog/do-we-owe-to-our-aged-parents.png
 author:
-  - Soumya Lakshmi
+  - Roshan Jacob and Soumya Lakshmi
 ---
-
 Swarna Mamee cannot withhold her tears when she saw the two nighties she got from her son. Torn and faded nighties were once used by her daughter-in-law, when she was pregnant.
 
 Aged 84, Swarna Mamee lost her husband way back in 2004 and till few months back she used to shuttle between her sons.
