@@ -246,3 +246,13 @@ p.nav-link.font-changer {
   object-fit: cover;
   object-position: center;
 }
+
+.navbar-collapse{
+  .nav-link{
+    a{
+      &:hover {
+        color: black !important;
+      }
+    }
+  }
+}
