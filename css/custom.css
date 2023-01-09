@@ -36,21 +36,21 @@
   opacity: 1;
 }
 
-#navbarResponsive  .whatsapp{
+ #whatsapp-link{
   z-index: 999;
   position: fixed;
   bottom: 15px;
   right: 15px;
 }
 
-#navbarResponsive  .whatsapp img{
+ #whatsapp-link img{
   height: 60px;
   width: 60px;
   filter: drop-shadow(2px 2px 2px #666666);
   transition: all ease-in-out 0.5ms;
 }
 
-#navbarResponsive  .whatsapp:hover img{
+ #whatsapp-link:hover img{
   transform: scale(1.05);
   filter: drop-shadow(3px 3px 4px #666666);
 }
