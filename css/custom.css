@@ -36,6 +36,25 @@
   opacity: 1;
 }
 
+.whatsapp{
+  z-index: 999;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.whatsapp img{
+  height: 60px;
+  width: 60px;
+  filter: drop-shadow(2px 2px 2px #666666);
+  transition: all ease-in-out 0.5ms;
+}
+
+.whatsapp:hover img{
+  transform: scale(1.05);
+  filter: drop-shadow(3px 3px 4px #666666);
+}
+
 #navbarResponsive .dropdown li, #navbarResponsive .dropdown a {
   list-style-type: none;
   text-decoration: none;
@@ -51,6 +70,11 @@
 
   #navbarResponsive .dropdown {
     transform: translate(-50px, 0px);
+  }
+
+  .whatsapp img{
+    height: 50px;
+    width: 50px;
   }
 
   #navbarResponsive .nav-item:hover .dropdown {
