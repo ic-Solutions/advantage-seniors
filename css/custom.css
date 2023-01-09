@@ -36,25 +36,6 @@
   opacity: 1;
 }
 
- /* #whatsapp-link{
-  z-index: 999;
-  position: fixed;
-  bottom: 15px;
-  right: 15px;
-}
-
- #whatsapp-link img{
-  height: 60px;
-  width: 60px;
-  filter: drop-shadow(2px 2px 2px #666666);
-  transition: all ease-in-out 0.5ms;
-}
-
- #whatsapp-link:hover img{
-  transform: scale(1.05);
-  filter: drop-shadow(3px 3px 4px #666666);
-} */
-
 #navbarResponsive .dropdown li, #navbarResponsive .dropdown a {
   list-style-type: none;
   text-decoration: none;
@@ -79,6 +60,7 @@
 
   #navbarResponsive .nav-item:hover .dropdown {
     transform: translate(0px, 0px);
+    position: inherit;
   }
   #navbarResponsive .nav-link {
     padding-left: 10px;
