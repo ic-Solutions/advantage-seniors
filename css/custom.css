@@ -43,6 +43,11 @@
   padding: 2px 10px;
   transition: all ease-in-out 0.3ms;
 }
+
+#whatsapp-link{
+  filter: drop-shadow(2px 3px 3px #3fc250) !important;
+}
+
 #navbarResponsive .dropdown li:hover {
   background-color: #4d62ad18;
 }
