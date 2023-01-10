@@ -1,13 +1,13 @@
-#navbarResponsive .nav-item:hover .nav-link {
+/* #navbarResponsive .nav-item:hover .nav-link {
   background-color: white;
   color: #4d62ad;
-}
+} */
 #navbarResponsive .nav-item .nav-link {
   position: relative;
   border-radius: 5px;
 }
 
-#navbarResponsive .nav-item{
+#navbarResponsive .nav-item {
   transition: all ease-in-out 0.5ms;
 }
 
@@ -23,7 +23,7 @@
   font-size: 17px;
   transform: translate(5px, 20px);
   opacity: 0;
-  visibility:hidden;
+  visibility: hidden;
   box-shadow: 2px 5px 4px #4d62ad;
   transition: all ease-in-out 0.3s;
   z-index: 999;
@@ -36,7 +36,8 @@
   opacity: 1;
 }
 
-#navbarResponsive .dropdown li, #navbarResponsive .dropdown a {
+#navbarResponsive .dropdown li,
+#navbarResponsive .dropdown a {
   list-style-type: none;
   text-decoration: none;
   white-space: nowrap;
@@ -44,25 +45,25 @@
   transition: all ease-in-out 0.3ms;
 }
 
-#whatsapp-link{
-  filter: drop-shadow(2px 3px 3px #3fc250) !important;
+/* #whatsapp-link {
+  z-index: 999;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
 }
+
+#whatsapp-link {
+  filter: drop-shadow(2px 3px 3px #3fc250) !important;
+} */
 
 #navbarResponsive .dropdown li:hover {
   background-color: #4d62ad18;
 }
 
 @media screen and (max-width: 991px) {
-
   #navbarResponsive .dropdown {
     transform: translate(-50px, 0px);
   }
-
-  .whatsapp img{
-    height: 50px;
-    width: 50px;
-  }
-
   #navbarResponsive .nav-item:hover .dropdown {
     transform: translate(0px, 0px);
     position: inherit;
@@ -72,7 +73,7 @@
   }
 }
 
-/* #navbarResponsive ul li.active a:after {
+#navbarResponsive ul li.active a:after {
   -webkit-transform: scale(1);
       -ms-transform: scale(1);
           transform: scale(1);
@@ -102,4 +103,4 @@
   -webkit-transition: all, 0.3s;
   -o-transition: all, 0.3s;
   transition: all, 0.3s;
-} */
+}
