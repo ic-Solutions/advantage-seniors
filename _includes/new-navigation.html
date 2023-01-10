@@ -45,9 +45,9 @@
           <ul class="dropdown">
             <li><a aria-label="case Studies" href="https://advantageseniors.org/case-studies/">Case Studies</a></li>
             <li><a aria-label="blog" href="https://advantageseniors.org/blog/">Blog</a></li>
-            <li><a aria-label="faq" href="/#faq/">Faq</a></li>
-            <!-- {% if page.url != '/' %} -->
-            <!-- {% endif %} -->
+            {% if page.url == '/' %}
+            <li><a aria-label="faq" href="#faq">Faq</a></li>
+            {% endif %}
           </ul>
         </li>
         <!-- {% if page.url != '/blog/' %}
