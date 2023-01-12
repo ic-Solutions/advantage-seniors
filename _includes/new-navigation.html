@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="https://advantageseniors.org">
+    <a class="navbar-brand js-scroll-trigger" href="/">
       <h1>{{site.title}}</h1>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
@@ -11,40 +11,40 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item has-nav">
-          <a class="nav-link js-scroll-trigger" href="#">About</a>
-          <ul class="dropdown">
-            <li><a aria-label="Know us" href="https://advantageseniors.org/know-us">Know us</a></li>
-            <li><a aria-label="services" href="https://advantageseniors.org/services/">Services</a></li>
-            <li><a aria-label="gallery" href="https://advantageseniors.org/gallery/">Gallery</a></li>
+          <div class="nav-link js-scroll-trigger" href="#">About &times;</div>
+          <ul class="dropdown-list">
+            <li><a aria-label="Know us" href="/know-us">Know us</a></li>
+            <li><a aria-label="services" href="/services/">Services</a></li>
+            <li><a aria-label="gallery" href="/gallery/">Gallery</a></li>
           </ul>
         </li>
         <li class="nav-item has-nav">
-          <a class="nav-link js-scroll-trigger" href="#">Resources</a>
-          <ul class="dropdown">
-            <li><a aria-label="experts" href="https://advantageseniors.org/experts/">Experts</a></li>
-            <li><a aria-label="research" href="https://advantageseniors.org/research/">Research</a></li>
-            <li><a aria-label="seminars" href="https://advantageseniors.org/seminars/">Seminars</a></li>
-            <li><a aria-label="Guidance" href="https://advantageseniors.org/guidance-resources/">Guidance</a></li>
+          <div class="nav-link js-scroll-trigger" href="#">Resources</div>
+          <ul class="dropdown-list">
+            <li><a aria-label="experts" href="/experts/">Experts</a></li>
+            <li><a aria-label="research" href="/research/">Research</a></li>
+            <li><a aria-label="seminars" href="/seminars/">Seminars</a></li>
+            <li><a aria-label="Guidance" href="/guidance-resources/">Guidance</a></li>
           </ul>
         </li>
         <li class="nav-item has-nav">
-          <a class="nav-link js-scroll-trigger" href="#">Know More</a>
-          <ul class="dropdown">
-            <li><a aria-label="things to Know" href="https://advantageseniors.org/things-to-know/">Things To Know</a>
+          <div class="nav-link js-scroll-trigger" href="#">Know More</div>
+          <ul class="dropdown-list">
+            <li><a aria-label="things to Know" href="/things-to-know/">Things To Know</a>
             </li>
-            <li><a aria-label="franchise" href="https://advantageseniors.org/franchise/">Franchise</a></li>
-            <li><a aria-label="media" href="https://advantageseniors.org/media/">Media</a></li>
+            <li><a aria-label="franchise" href="/franchise/">Franchise</a></li>
+            <li><a aria-label="media" href="/media/">Media</a></li>
             <li><a aria-label="corporate social responsibility"
-                href="https://advantageseniors.org/corporate-social-responsibility/">Corporate Social Responsibility</a>
+                href="/corporate-social-responsibility/">Corporate Social Responsibility</a>
             </li>
           </ul>
         </li>
 
         <li class="nav-item has-nav">
-          <a class="nav-link js-scroll-trigger" href="#">Read Me</a>
-          <ul class="dropdown">
-            <li><a aria-label="case Studies" href="https://advantageseniors.org/case-studies/">Case Studies</a></li>
-            <li><a aria-label="blog" href="https://advantageseniors.org/blog/">Blog</a></li>
+          <div class="nav-link js-scroll-trigger" href="#">Read Me</div>
+          <ul class="dropdown-list">
+            <li><a aria-label="case Studies" href="/case-studies/">Case Studies</a></li>
+            <li><a aria-label="blog" href="/blog/">Blog</a></li>
             {% if page.url == '/' %}
             <li><a aria-label="faq" href="#faq">Faq</a></li>
             {% endif %}
@@ -52,11 +52,11 @@
         </li>
         <!-- {% if page.url != '/blog/' %}
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://advantageseniors.org/blog/">Blog</a>
+              <div class="nav-link js-scroll-trigger" href="/blog/">Blog</div>
             </li>
             {% endif %} -->
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="mailto:advantagejacob@gmail.com">Contact</a>
+          <div class="nav-link js-scroll-trigger" href="mailto:advantagejacob@gmail.com">Contact</div>
         </li>
 
         {% if page.layout == 'blog' or page.layout == 'post' %}

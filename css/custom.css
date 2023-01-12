@@ -15,13 +15,13 @@
   position: relative;
 }
 
-#navbarResponsive .dropdown {
+#navbarResponsive .dropdown-list {
   position: absolute;
   border-radius: 5px;
   background-color: white;
   padding: 0px;
   font-size: 17px;
-  transform: translate(5px, 20px);
+  transform: translate(0px, 20px);
   opacity: 0;
   visibility: hidden;
   box-shadow: 2px 5px 4px #4d62ad;
@@ -29,15 +29,19 @@
   z-index: 999;
 }
 
-#navbarResponsive .nav-item:hover .dropdown {
+#navbarResponsive .nav-item:hover  {
+  cursor: pointer;
+}
+
+#navbarResponsive .nav-item:hover .dropdown-list {
   color: #343a40 !important;
-  transform: translate(5px, 0px);
+  transform: translate(0px, 15px);
   visibility: visible;
   opacity: 1;
 }
 
-#navbarResponsive .dropdown li,
-#navbarResponsive .dropdown a {
+#navbarResponsive .dropdown-list li,
+#navbarResponsive .dropdown-list .nav-link {
   list-style-type: none;
   text-decoration: none;
   white-space: nowrap;
@@ -56,16 +60,35 @@
   filter: drop-shadow(2px 3px 3px #3fc250) !important;
 } */
 
-#navbarResponsive .dropdown li:hover {
+.collapse .card{
+  border: none;
+}
+
+.btn-block.text-left{
+  border-radius: 10px;
+  border: solid rgb(215, 215, 215) 1px;
+  background: #DDDDDD;
+  color: rgb(59, 59, 59);
+}
+
+.btn-block.text-left:focus, .btn-block.text-left:focus{
+  box-shadow: none;
+}
+
+.btn-block.text-left.collapsed{
+  background: #f3f3f3;
+}
+
+#navbarResponsive .dropdown-list li:hover {
   background-color: #4d62ad18;
 }
 
 @media screen and (max-width: 991px) {
-  #navbarResponsive .dropdown {
+  #navbarResponsive .dropdown-list {
     transform: translate(-50px, 0px);
   }
-  #navbarResponsive .nav-item:hover .dropdown {
-    transform: translate(0px, 0px);
+  #navbarResponsive .nav-item:hover .dropdown-list {
+    transform: translate(0px, -30px);
     position: inherit;
   }
   #navbarResponsive .nav-link {
@@ -73,26 +96,26 @@
   }
 }
 
-#navbarResponsive ul li.active a:after {
+#navbarResponsive ul li.active .nav-link:after {
   -webkit-transform: scale(1);
       -ms-transform: scale(1);
           transform: scale(1);
 }
-#navbarResponsive ul li:hover a:after {
+#navbarResponsive ul li:hover .nav-link:after {
   -webkit-transform: scale(1);
       -ms-transform: scale(1);
           transform: scale(1);
 }
-#navbarResponsive ul li:hover .dropdown {
+#navbarResponsive ul li:hover .dropdown-list {
   top: 34px;
   opacity: 1;
   visibility: visible;
 }
 
-#navbarResponsive ul li a:after {
+#navbarResponsive ul li .nav-link:after {
   position: absolute;
   left: 0;
-  bottom: 0;
+  top: 0;
   width: 100%;
   height: 2px;
   background: white;
