@@ -94,17 +94,20 @@
   #navbarResponsive .nav-link {
     padding-left: 10px;
   }
+  #navbarResponsive .has-nav {
+    position: inherit;
+  }
 }
 
 #navbarResponsive ul li.active .nav-link:after {
   -webkit-transform: scale(1);
-      -ms-transform: scale(1);
-          transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
 }
 #navbarResponsive ul li:hover .nav-link:after {
   -webkit-transform: scale(1);
-      -ms-transform: scale(1);
-          transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
 }
 #navbarResponsive ul li:hover .dropdown-list {
   top: 34px;
@@ -121,8 +124,8 @@
   background: white;
   content: "";
   -webkit-transform: scale(0);
-      -ms-transform: scale(0);
-          transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
   -webkit-transition: all, 0.3s;
   -o-transition: all, 0.3s;
   transition: all, 0.3s;
