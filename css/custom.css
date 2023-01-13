@@ -29,7 +29,7 @@
   z-index: 999;
 }
 
-#navbarResponsive .nav-item:hover  {
+#navbarResponsive .nav-item:hover {
   cursor: pointer;
 }
 
@@ -49,71 +49,50 @@
   transition: all ease-in-out 0.3ms;
 }
 
-/* #whatsapp-link {
-  z-index: 999;
-  position: fixed;
-  bottom: 15px;
-  right: 15px;
+#navbarResponsive .dropdown-list li a {
+  display: block;
 }
 
 #whatsapp-link {
-  filter: drop-shadow(2px 3px 3px #3fc250) !important;
-} */
+  transition: all ease-in-out 0.3s;
+}
 
-.collapse .card{
+#whatsapp-link:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(2px 3px 3px #999999) !important;
+}
+
+.collapse .card {
   border: none;
 }
 
-.collapse-heading{
+.collapse-heading {
   border-radius: 10px;
   border: solid rgb(215, 215, 215) 1px;
-  background: #DDDDDD;
+  background: #dddddd;
   position: relative;
   color: rgb(59, 59, 59);
 }
 
-.collapse-heading:focus, .collapse-heading:focus{
+.collapse-heading:focus,
+.collapse-heading:focus {
   box-shadow: none;
 }
 
-.collapse-heading.collapsed{
+.collapse-heading.collapsed {
   background: #f3f3f3;
 }
 
-.collapse-heading.collapsed .close{
+.collapse-heading.collapsed .close {
   transform: rotate(45deg);
   transition: all ease-in-out 0.3s;
 }
-.collapse-heading .close{
+.collapse-heading .close {
   transition: all ease-in-out 0.3s;
 }
 
 #navbarResponsive .dropdown-list li:hover {
   background-color: #4d62ad18;
-}
-
-@media screen and (max-width: 991px) {
-  #navbarResponsive .dropdown-list {
-    transform: translate(-50px, 0px);
-  }
-  .collapse-heading .close{
-    position: absolute;
-    top: 8px;
-    right: 10px;
-  }
-  .collapse-heading button:focus{
-    outline: 0px !important;
-  }
-  #navbarResponsive .nav-item:hover .dropdown-list {
-    transform: translate(0px, 0px);
-    position: inherit;
-  }
-  #navbarResponsive .nav-link {
-    padding-left: 10px;
-  }
-  #navbarResponsive .has-nav {
-    position: inherit;
-  }
 }
 
 #navbarResponsive ul li.active .nav-link:after {
@@ -132,10 +111,11 @@
   visibility: visible;
 }
 
-#navbarResponsive .nav-link span{
+#navbarResponsive .nav-link span {
   float: right;
   font-size: 1.8rem;
 }
+
 
 #navbarResponsive ul li .nav-link:after {
   position: absolute;
@@ -153,3 +133,40 @@
   transition: all, 0.3s;
 }
 
+@media screen and (max-width: 991px) {
+  #navbarResponsive .dropdown-list {
+    transform: translate(-50px, 0px);
+  }
+  .collapse-heading .close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+  }
+  #navbarResponsive .nav-link span {
+    margin: 0px 10px;
+  }
+ 
+  .collapse-heading button:focus {
+    outline: 0px !important;
+  }
+  #navbarResponsive .nav-item:hover .dropdown-list {
+    transform: translate(0px, 0px);
+    position: inherit;
+  }
+  #navbarResponsive .nav-link {
+    padding-left: 10px;
+  }
+  #navbarResponsive .dropdown-list li,
+  #navbarResponsive .dropdown-list .nav-link {
+    white-space: initial;
+  }
+  #navbarResponsive .has-nav {
+    position: inherit;
+  }
+  #navbarResponsive .nav-item:hover .dropdown-list {
+    max-width: 50%;
+  }
+  #navbarResponsive ul li .nav-link:after {
+    max-width: 50%;
+  }
+}
