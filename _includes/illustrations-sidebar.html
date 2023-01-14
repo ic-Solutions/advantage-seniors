@@ -1,0 +1,35 @@
+<!-- Sidebar Widgets Column -->
+<div class="col-md-4 resize">
+  <!-- Search Widget -->
+  <div class="card my-4">
+    <h5 class="card-header">Search</h5>
+    <div class="card-body">
+      <div class="input-group">
+        <input class="form-control" id="search-input" placeholder="Search for..." type="text" />
+        <div class="container">
+          <div class="py-4" id="results-container"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card my-4">
+    <h5 class="card-header">Tweet here</h5>
+    <div class="card-body">
+      <!-- <a class="twitter-timeline" href="#">Tweets by AdvantageSenio4</a> -->
+      <script async src="https://platform.twitter.com/widgets.js"></script>
+      <a class="twitter-follow-button" data-show-count="false"
+        href="https://twitter.com/AdvantageSenio4?ref_src=twsrc%5Etfw">Follow @AdvantageSenio4</a>
+      <script async src="https://platform.twitter.com/widgets.js"></script>
+    </div>
+  </div>
+</div>
+
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/search.js"></script>
+
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({ searchInput: document.getElementById("search-input"), resultsContainer: document.getElementById("results-container"), json: "/search.json", searchResultTemplate: "<div><a href=\"{url}\"><p>{title}</p></a></div>" })
+</script>

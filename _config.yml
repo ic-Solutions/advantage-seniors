@@ -21,6 +21,10 @@ include:
 #     output: true
 #     permalink: /lionels-world/:path/
 #
+collections:
+  illustrations:
+    output: true
+
 paginate: 4
 paginate_path: "/blog/page:num/"
 

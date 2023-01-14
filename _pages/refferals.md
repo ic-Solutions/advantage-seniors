@@ -31,6 +31,7 @@ redirect_from:
   - carehome/refferals.html
   - homecare/refferals.html
   - reviews/refferals.html
+  - transitional-care/refferals.html
 ---
 
 <h2>Referrals</h2>

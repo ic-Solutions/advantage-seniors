@@ -170,3 +170,8 @@
     max-width: 50%;
   }
 }
+
+
+.card-image:hover{
+  background-color: black;
+}
