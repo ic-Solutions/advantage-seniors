@@ -3,8 +3,8 @@ layout: illustration-page
 title: Compassion Fatigue
 description: Soumya Lakshmi
 image: /assets/images/eldercareillustrations/Poster-18.jpg
-permalink: /compassion-fatigue/
-redirect_from: /compassion-fatigue.html
+permalink: /compassion_fatigue/
+redirect_from: /compassion_fatigue.html
 ---
 
 Anyone senior care or hospice professional can experience Compassion Fatigue. Nurses, doctors, counselors, therapists, social workers, chaplains, emergency response workers, and people caring for aging parents are vulnerable.

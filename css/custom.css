@@ -21,7 +21,7 @@
   background-color: white;
   padding: 0px;
   font-size: 17px;
-  transform: translate(0px, 20px);
+  transform: translate(8px, 20px);
   opacity: 0;
   visibility: hidden;
   box-shadow: 2px 5px 4px #4d62ad;
@@ -35,7 +35,7 @@
 
 #navbarResponsive .nav-item:hover .dropdown-list {
   color: #343a40 !important;
-  transform: translate(0px, 15px);
+  transform: translate(8px, 15px);
   visibility: visible;
   opacity: 1;
 }
@@ -114,14 +114,15 @@
 #navbarResponsive .nav-link span {
   float: right;
   font-size: 1.8rem;
+  margin-top: 5px;
 }
 
 
 #navbarResponsive ul li .nav-link:after {
   position: absolute;
-  left: 0;
+  left: 8px;
   top: 0;
-  width: 100%;
+  width: 73%;
   height: 2px;
   background: white;
   content: "";
@@ -150,7 +151,7 @@
     outline: 0px !important;
   }
   #navbarResponsive .nav-item:hover .dropdown-list {
-    transform: translate(0px, 0px);
+    transform: translate(10px, 0px);
     position: inherit;
   }
   #navbarResponsive .nav-link {
@@ -164,10 +165,10 @@
     position: inherit;
   }
   #navbarResponsive .nav-item:hover .dropdown-list {
-    max-width: 50%;
+    max-width: 40%;
   }
   #navbarResponsive ul li .nav-link:after {
-    max-width: 50%;
+    max-width: 40%;
   }
 }
 
