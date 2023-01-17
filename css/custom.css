@@ -134,6 +134,9 @@
   transition: all, 0.3s;
 }
 
+.illustration-card{
+  box-shadow: 2px 4px 7px #808080a8 !important;
+}
 .illustration-card .card-title{
   white-space: nowrap;
   overflow: hidden;
