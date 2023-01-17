@@ -13,7 +13,7 @@ description: Lionel’s World is a comic version of meaningful information relea
     <div class="row">
       {% for item in site.illustrations %}
       
-      <div class="col-md-4">
+      <div class="col-md-4 p-2">
         <div class="card">
           <a href="{{item.url}}" class="card-image">
           <img
@@ -26,7 +26,7 @@ description: Lionel’s World is a comic version of meaningful information relea
             →
           </div> -->
         </a>
-          <div class="card-body">
+          <div class="card-body illustration-card">
             <a href="{{item.url}}"><h2 class="card-title">{{item.title}}</h2></a>
             <p class="card-text">{{item.heading}}</p>
             <a href="{{item.url}}" class="btn btn-outline-primary float-right">Read More →</a>

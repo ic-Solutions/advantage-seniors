@@ -134,6 +134,12 @@
   transition: all, 0.3s;
 }
 
+.illustration-card .card-title{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 @media screen and (max-width: 991px) {
   #navbarResponsive .dropdown-list {
     transform: translate(-50px, 0px);
