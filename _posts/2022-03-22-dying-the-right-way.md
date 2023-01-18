@@ -2,7 +2,7 @@
 layout: post
 title: "Dying the right way"
 description: Is it possible to have a “humane and honorable” death? YES, Very Much. Provided, we accept it’s reality and initiate an honorable exit plan.
-image: /assets/images/blog/dying-the-right-way.png
+image: /assets/images/blog/dying-the-right-way.webp
 author:
   - Soumya Lakshmi
 ---
