@@ -2,6 +2,9 @@
   background-color: white;
   color: #4d62ad;
 } */
+*, p, a{
+  font-display: swap;
+}
 #navbarResponsive .nav-item .nav-link {
   position: relative;
   border-radius: 5px;

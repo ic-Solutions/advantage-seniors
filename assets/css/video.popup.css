@@ -36,6 +36,7 @@
     text-align:center;
     content:'X';
     font-family:'Helvetica';
+    font-display: swap;
     border-radius:50%;
     background: rgb(77, 98, 173);
     line-height:2.2;
@@ -77,6 +78,7 @@
     vertical-align: middle;
     line-height: 500px;
     font-family:'Arial';
+    font-display: swap;
     font-size:20px;
 }
 @media(max-width: 768px){
