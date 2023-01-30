@@ -1,5 +1,5 @@
 <!-- Testimonial slider styles -->
-<section class="reviews bg-light">
+<section class="reviews bg-light" id="reviews">
   <div class="container">
     <h2 class="slider-header">What Do They Say?</h2>
     <p class="lead text-center">
@@ -8,19 +8,15 @@
       service provider in Bengaluru.
     </p>
     <div id="slider">
-      <a href="#" class="control_next">&#62;</a>
-      <a href="#" class="control_prev">&#60; </a>
+      <a href="#reviews" class="control_next">&#62;</a>
+      <a href="#reviews" class="control_prev">&#60; </a>
       <ul>
         {% for item in site.data.google-reviews limit: 10 %}
         <li>
           <div class="card">
             <blockquote>{{item.review | truncate: 480}}</blockquote>
             <p class="text-right">
-              <img
-                class="shadow rounded-circle"
-                src="{{item.image}}"
-                alt="{{item.name}}"
-              />
+              <img width="50" height="50" class="shadow rounded-circle" src="{{item.image}}" alt="{{item.name}}" />
               {{item.name}}
             </p>
           </div>
