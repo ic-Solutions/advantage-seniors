@@ -4,6 +4,7 @@
 	src: local('SEGOEUIL'), 
 	url('../images/fonts//SEGOEUIL.woff') format('woff'), 
 	url('../images/fonts//SEGOEUIL.ttf') format('truetype');
+	font-display: swap;
 }
 
 

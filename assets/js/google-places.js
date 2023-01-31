@@ -187,26 +187,26 @@
       }
     };
 
-    var renderStaticMap = function(element, data) {
-      if (element instanceof jQuery) {
-        var map = plugin.settings.staticMap;
-        element.append(
-          "<img src='https://maps.googleapis.com/maps/api/staticmap" +
-            "?size=" +
-            map.width +
-            "x" +
-            map.height +
-            "&zoom=" +
-            map.zoom +
-            "&maptype=" +
-            map.type +
-            "&markers=size:large%7Ccolor:red%7C" +
-            data +
-            "'>" +
-            "</img>"
-        );
-      }
-    };
+    // var renderStaticMap = function(element, data) {
+    //   if (element instanceof jQuery) {
+    //     var map = plugin.settings.staticMap;
+    //     element.append(
+    //       "<img src='https://maps.googleapis.com/maps/api/staticmap" +
+    //         "?size=" +
+    //         map.width +
+    //         "x" +
+    //         map.height +
+    //         "&zoom=" +
+    //         map.zoom +
+    //         "&maptype=" +
+    //         map.type +
+    //         "&markers=size:large%7Ccolor:red%7C" +
+    //         data +
+    //         "'>" +
+    //         "</img>"
+    //     );
+    //   }
+    // };
 
     var renderAddress = function(element, data) {
       if (element instanceof jQuery) {
