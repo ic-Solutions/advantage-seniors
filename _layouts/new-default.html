@@ -82,10 +82,10 @@ layout: compress
 
     <!-- Fontawesome through JavaScript -->
 
-    <script src="/assets/js/font-resize.js"></script>
+    <script defer src="/assets/js/font-resize.js"></script>
     {% if page.url == '/' %}
-    <link href="/assets/css/video.popup.css" rel="stylesheet" />
-    <script src="/assets/js/video.popup.js"></script>
+    <link defer href="/assets/css/video.popup.css" rel="stylesheet" />
+    <script defer src="/assets/js/video.popup.js"></script>
     <script>
       {% for item in site.data.videos %}
       $("#video{{forloop.index}}").videoPopup({
@@ -96,7 +96,7 @@ layout: compress
       });
       {% endfor %}
     </script>
-    <script src="/assets/js/fslightbox.js"></script>
+    <script defer src="/assets/js/fslightbox.js"></script>
     {% endif %}
 
     <!-- Fontawesome through JavaScript -->
@@ -106,6 +106,7 @@ layout: compress
         css.href =
           "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
         css.rel = "stylesheet";
+        css.defer = true;
         css.type = "text/css";
         document.getElementsByTagName("head")[0].appendChild(css);
       })();
