@@ -116,8 +116,7 @@
 
 #navbarResponsive .nav-link span {
   float: right;
-  font-size: 1.8rem;
-  margin-top: 5px;
+  filter: invert(1);
 }
 
 
