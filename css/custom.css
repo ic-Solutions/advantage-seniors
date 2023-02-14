@@ -117,6 +117,7 @@
 #navbarResponsive .nav-link span {
   float: right;
  }
+ 
 #navbarResponsive .nav-link span img {
   filter: invert(1);
 }
