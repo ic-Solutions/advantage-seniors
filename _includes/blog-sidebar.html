@@ -23,6 +23,17 @@
       <script async src="https://platform.twitter.com/widgets.js"></script>
     </div>
   </div>
+
+  <div class="card my-4">
+    <h5 class="card-header">Index of Blogs</h5>
+    <div class="list-group list-group-flush">
+      {% for item in site.posts %}
+        <a class="list-group-item list-group-item-action" style="line-height: 1;" aria-label="{{item.title}} elder care services bangalore" href="{{item.url}}"
+          title="{{item.title}} elder care services bangalore"><small><strong>{{ forloop.index }}</strong>. {{item.title}}</small></a>
+      {% endfor %}
+    </div>
+    
+  </div>
 </div>
 
 
