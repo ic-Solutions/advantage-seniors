@@ -139,6 +139,8 @@
   transition: all, 0.3s;
 }
 
+
+
 .illustration-card{
   box-shadow: 2px 4px 7px #808080a8 !important;
 }
@@ -148,6 +150,11 @@
   text-overflow: ellipsis;
 }
 
+@media screen and (max-width: 768px) {
+  .accordion.d-none{
+    display: block !important;
+  }
+}
 @media screen and (max-width: 991px) {
   #navbarResponsive .dropdown-list {
     transform: translate(-50px, 0px);
