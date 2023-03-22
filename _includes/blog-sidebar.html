@@ -25,14 +25,22 @@
   </div>
 
   <div class="card my-4">
-    <h5 class="card-header">Index of Blogs</h5>
-    <div class="list-group list-group-flush">
-      {% for item in site.posts %}
-        <a class="list-group-item list-group-item-action" style="line-height: 1;" aria-label="{{item.title}} elder care services bangalore" href="{{item.url}}"
-          title="{{item.title}} elder care services bangalore"><small><strong>{{ forloop.index }}</strong>. {{item.title}}</small></a>
-      {% endfor %}
+    <div class="accordion" id="accordionMain">
+      <h5 class="card-header" id="headingOne">
+        <a href="#" class="text-secondary text-left d-block collapsed" data-toggle="collapse" data-target="#collapseId"
+          aria-expanded="true" aria-controls="collapseId">
+          Index of Blogs <span class="float-right"><img width="10" height="5" src="/assets/images/60995.png" alt="arrow"></span>
+        </a>
+      </h5>
+      <div id="collapseId" class="collapse" aria-labelledby="headingOne" data-parent="#accordionMain">
+        {% for item in site.posts %}
+        <a class="list-group-item list-group-item-action" style="line-height: 1;"
+          aria-label="{{item.title}} elder care services bangalore" href="{{item.url}}"
+          title="{{item.title}} elder care services bangalore"><small><strong>{{ forloop.index }}</strong>.
+            {{item.title}}</small></a>
+        {% endfor %}
+      </div>
     </div>
-    
   </div>
 </div>
 

@@ -4,7 +4,7 @@ title: "How to choose a care home for your parent ?"
 description: Moving an elderly parent from home into a residential facility can be one of the most difficult things a family goes through. We can share our advice for taking the pain out of the process.
 image: /assets/images/blog/how_to_choose_a_care_home_for_your_parent.webp
 author:
-  - Soumya Nair
+  - Soumya Lakshmi
 ---
 
 Moving an elderly parent from home into a residential facility can be one of the most difficult things a family goes through. We can share our advice for taking the pain out of the process. Deciding to make the move to a care home can be a difficult decision and families usually play a vital role in helping their elderly relative pick the right one. The move from one’s own home into a care home can be upsetting, even traumatic, for both the elderly relative and their family. Relatives can feel guilty about assigning the day-to-day care of their loved one into the hands of others, and anxious about the level of care and support they will be receiving. Though it is painful, our options are limited as the parent may need more professional care or you simply cannot extend care for various reasons.
@@ -20,7 +20,8 @@ As mentioned in my earlier article, introducing the care facilities, there are f
 ### 3. Talk to your parent if possible
 A discussion with the parent is necessary to convince them about the need for a more professional care or the need to get admitted in a care facility. Most elders fear depending on someone and they dread loosing their comforts. That’s why we say a little bit forceful convincing is norm, saying we have few options left. If your parent is not well enough for this conversation, or is unable to communicate, discuss it with all your close relatives who know your parent well. Find out what the most important things to them are about the care home and what they would like the staff to know about them to help them care for them in the best way.
 
-### 4. Decide on where the home should be
+### 4. Decide on where the home should be**
+
 Think about the distances you, other family members and friends may need to travel and how easy it is to get there, including for those who don’t have their own transport. But this is again secondary because you are not going to be a regular visitor.  More than that, let’s know what kind of access do you need?
 Many homes are in adapted buildings and even if they say they can offer a ground floor room, there can be steps into the lounge or dining room. Again it all depends on the availability.
 
