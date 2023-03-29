@@ -2,7 +2,7 @@
 layout: post
 title: "Do we owe to our aged parents?"
 description: What responsibility do adults have for their aging parents? Majority says the answer’s simple- that adult children owe the same obligation to their elders as their parents demonstrated to them when they were children.
-image: /assets/images/blog/do-we-owe-to-our-aged-parents.png.webp
+image: /assets/images/blog/do-we-owe-to-our-aged-parents.webp
 author:
   - Roshan Jacob and Soumya Lakshmi
 ---

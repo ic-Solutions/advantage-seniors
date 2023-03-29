@@ -2,7 +2,7 @@
 layout: post
 title: "Why Certain Care Homes Are The Worst Places For Our Elderly?"
 description: Care-Homes, rightly as the name suggests, it should be a Home with Compassionate Care, no matter what it takes. Elderly care home business is the upcoming next big business to corporate hospitals.
-image: /assets/images/blog/certain-care-homes-are-the-worst.png
+image: /assets/images/blog/certain-care-homes-are-the-worst.webp
 author:
   - Soumya Lakshmi
 ---

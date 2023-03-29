@@ -2,7 +2,7 @@
 layout: post
 title: "As long as there's a heartbeat, don’t loose hope."
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
-image: /assets/images/blog/Coma-Care-Old-Age.jpg
+image: /assets/images/blog/Coma-Care-Old-Age.webp
 author:
   - Roshan Jacob
 ---

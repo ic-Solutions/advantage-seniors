@@ -2,7 +2,7 @@
 layout: post
 title: A Lone battle - Spousal caregivers struggle with ailing spouse
 description: Caring for an elderly, ailing spouse is an unimaginably difficult task, especially when the caregivers are elderly themselves.
-image: /assets/images/blog/spousal-caregiver.jpg
+image: /assets/images/blog/spousal-caregiver.webp
 author:
   - Roshan Jacob
   - Soumya Lakshmi

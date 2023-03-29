@@ -2,7 +2,7 @@
 layout: post
 title: "Compassion Fatigue - Don’t Wait Until it Hurts You"
 description: Because of the demanding nature of working in long-term care, primary elder care givers, and many professionals including nurses, run the risk of suffering from burnout and compassion fatigue.
-image: /assets/images/blog/Compassion-Fatigue.png
+image: /assets/images/blog/Compassion-Fatigue.webp
 author:
   - Soumya Lakshmi
 ---
