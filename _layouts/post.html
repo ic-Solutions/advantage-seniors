@@ -8,12 +8,12 @@ layout: new-default
             <div class="col-md-8 py-2">
                 <div class="accordion d-none mb-2" id="accordionMain">
                     <h5 class="card-header" id="headingTwo">
-                      <a href="#" class="text-secondary text-left d-block collapsed" data-toggle="collapse" data-target="#collapseId"
-                        aria-expanded="true" aria-controls="collapseId">
+                      <a href="#" class="text-secondary text-left d-block collapsed" data-toggle="collapse" data-target="#collapsePost"
+                        aria-expanded="true" aria-controls="collapsePost">
                         Index of Blogs <span class="float-right"><img width="14" height="6" src="/assets/images/60995.png" alt="arrow"></span>
                       </a>
                     </h5>
-                    <div id="collapseId" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionMain">
+                    <div id="collapsePost" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionMain">
                       {% for item in site.posts %}
                       <a class="list-group-item list-group-item-action" style="line-height: 1;"
                         aria-label="{{item.title}} elder care services bangalore" href="{{item.url}}"
@@ -22,7 +22,7 @@ layout: new-default
                       {% endfor %}
                     </div>
                   </div>
-                <img class="img-fluid pb-3" width="736" height="414" src="{{page.image}}" alt="{{page.title}}">
+                <img class="img-fluid pb-3" width="720" height="405" src="{{page.image}}" alt="{{page.title}}">
                 {{content}}
                 <hr class="pb-4">
                 <div class="share pt-4">
