@@ -29,9 +29,13 @@ $on-laptop: 800px;
   }
 }
 
+*{
+  $font-display: swap;
+}
 html {
   box-sizing: border-box;
-  -ms-overflow-style: scrollbar;
+  $font-display: swap;
+  // -ms-overflow-style: scrollbar;
 }
 
 @font-face {
