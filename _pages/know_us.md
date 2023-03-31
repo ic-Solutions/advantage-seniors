@@ -16,7 +16,7 @@ links:
 
 ## Founder
 
-![Roshan Jacob](/images/founder.jpg)
+![Roshan Jacob](/images/founder.webp){:height="217px" width="144px"}
 
 <em>Roshan Jacob</em>
 
@@ -31,7 +31,7 @@ His educational background and several years in the hospital industry, helped hi
 
 ## Co-Founder
 
-![Soumya Lakshmi](/images/co_founder.jpg)
+![Soumya Lakshmi](/images/co_founder.webp){:height="209px" width="209px"}
 
 <em>Soumya Lakshmi</em>
 
