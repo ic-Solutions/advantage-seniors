@@ -3,6 +3,7 @@ layout: post
 title: "Ageing Without Children"
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
 image: /assets/images/blog/Ageing-without-children-2.webp
+thumbnail: /assets/images/blog/Ageing-without-children-2.webp
 author:
   - Roshan Jacob, Soumya Lakshmi
 

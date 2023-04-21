@@ -3,6 +3,7 @@ layout: post
 title: "DO WE OWE TO OUR AGED PARENTS? Roshan Jacob and Soumya Nair"
 description: It is vital to remember that a good elicitation of the patient’s history, in his own words coupled with few leading questions from the doctor can help the latter to arrive into ‘provisional diagnosis’.
 image: /assets/images/blog/DO-WE-OWE-TO-OUR-AGED-PARENTS-2.webp
+thumbnail: /assets/images/blog/DO-WE-OWE-TO-OUR-AGED-PARENTS-2.webp
 author:
   - Roshan Kattassery and Soumya Nair
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: How Long we Tolerate the  Parental Stubbornness ?
 description: As people age and their health diminish, their attitudes about life and their care often change drastically. This can cause your elderly loved ones to start exhibiting pretty bad behavior that may or may not be directed at you.
-image: /assets/images/blog/AS BLOG 2.webp
+image: /assets/images/blog/ASBLOG2.webp
+thumbnail: /assets/images/blog/ASBLOGmob.webp
 author:
   - Soumya Lakshmi
 ---

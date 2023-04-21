@@ -3,6 +3,7 @@ layout: post
 title: "How to choose a care home for your parent ?"
 description: Moving an elderly parent from home into a residential facility can be one of the most difficult things a family goes through. We can share our advice for taking the pain out of the process.
 image: /assets/images/blog/how_to_choose_a_care_home_for_your_parent.webp
+thumbnail: /assets/images/blog/how_to_choose_a_care_home_for_your_parent.webp
 author:
   - Soumya Lakshmi
 ---

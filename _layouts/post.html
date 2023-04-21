@@ -22,7 +22,8 @@ layout: new-default
                       {% endfor %}
                     </div>
                   </div>
-                <img class="img-fluid pb-3" width="720" height="405" src="{{page.image}}" alt="{{page.title}}">
+                <!-- <img class="img-fluid pb-3" width="720" height="405" src="{{page.image}}" alt="{{page.title}}"> -->
+                <picture > <source media="(max-width: 799px)" srcset="{{page.thumbnail}}" /> <source media="(min-width: 800px)" srcset="{{page.image}}" /> <img class="img-fluid pb-3" width="720" height="405" src="{{page.image}}" alt="{{page.title}}" loading="lazy" /> </picture>
                 {{content}}
                 <hr class="pb-4">
                 <div class="share pt-4">

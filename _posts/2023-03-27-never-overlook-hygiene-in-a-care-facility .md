@@ -3,6 +3,7 @@ layout: post
 title: "Never Overlook Hygiene in a Care Facility"
 description: The phrase “respect your elders” is ingrained in most minds. This phrase, however, has been lost its sheen over the years and a recent visit to ‘Aseervatham’ endorses it.
 image: /assets/images/blog/never-overlook-hygiene-in-a-care-facility.webp
+thumbnail: /assets/images/blog/never-overlook-hygiene-in-a-care-facility.webp
 author:
   - Soumya Lakshmi
 ---
