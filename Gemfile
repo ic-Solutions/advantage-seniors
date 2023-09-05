@@ -8,4 +8,5 @@ gem "jekyll-seo-tag"
 gem "kramdown-parser-gfm"
 gem "jekyll-redirect-from"
 gem "jekyll-sitemap"
-gem "webrick", "~> 1.7"
+gem "webrick"
+# gem 'wdm', '>= 0.1.0'
