@@ -3,7 +3,7 @@ layout: post
 title: You can get quality elder care but be prepared to pay for it.
 description: Aged care in a care facility is no more cheap. But when you think about it you are paying for somewhere to live, your meals, laundry, electricity and a number of people to look after you around the clock.
 image: /assets/images/blog/pay-for-quality-elder_care.webp
-thumbnail: /assets/images/blog/pay-for-quality-elder_care.webp
+thumbnail: /assets/images/blog/pay-for-quality-elder_care_thumbnail.webp
 author:
   - Soumya Lakshmi
 ---

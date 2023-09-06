@@ -3,7 +3,7 @@ layout: post
 title: Are you seriously worried about your disabled sibling’s future? Here are few tips
 description: Deciding who will care for a sister or brother once the parents die or become too frail, is rarely discussed.
 image: /assets/images/blog/Disabled_Siblings.webp
-thumbnail: /assets/images/blog/Disabled_Siblings.webp
+thumbnail: /assets/images/blog/Disabled_Siblings_thumbnail.webp
 author:
   - Roshan Jacob
   - Soumya Lakshmi

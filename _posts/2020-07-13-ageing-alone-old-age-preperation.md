@@ -3,7 +3,7 @@ layout: post
 title: "Are you worried about ageing alone and forlorn, and then early preparation helps!"
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
 image: /assets/images/blog/ageing-alone-forlorn.webp
-thumbnail: /assets/images/blog/ageing-alone-forlorn.webp
+thumbnail: /assets/images/blog/ageing-alone-forlorn_thumbnail.webp
 author:
   - Roshan Jacob, Soumya Lakshmi
 ---
