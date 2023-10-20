@@ -1,12 +1,12 @@
 # advantage-seniors
 
-Delete Gemfile & Gemfile.lock files
-
 Download & install : rubyintaller ( Ruby+Devkit )
 
-run : `gem install jekyll bundler` & `bundle install`
+Delete Gemfile & Gemfile.lock files
 
 run : `bundle init` - for create Gemfile
+
+run : `gem install jekyll bundler` & `bundle install` & `bundle update`
 
 go to application folder and run : `bundle exec jekyll serve` or  `bundle exec jekyll serve --open-url`
 
