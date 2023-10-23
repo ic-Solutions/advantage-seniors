@@ -10,8 +10,9 @@ author:
 
 
 > – Answers By Practicing Social Gerontologists 
+> Does life begin at EIGHTY? 
 
-***Does life begin at EIGHTY? Why not, say two practicing social gerontologists,*** **Soumya Nair** and **Roshan Jacob** from the vast experience, claims your 80s can be the happiest years of your life. Increased numbers of older people and a continued lengthening of the life span signal the need to expand the knowledge about ageing not only to the older adults but also to the younger generation who are supposed to support this special group. 
+**Why not, say two practicing social gerontologists, Soumya Nair and Roshan Jacob** from the vast experience, claims your 80s can be the happiest years of your life. Increased numbers of older people and a continued lengthening of the life span signal the need to expand the knowledge about ageing not only to the older adults but also to the younger generation who are supposed to support this special group. 
 
 No doubt, today’s older adults are healthier and better educated than ever before, but concerned about the quality of life as well as the length of it. A number of role transitions and losses heighten the vulnerability of the older adult in their twilight years--children living far away, health concerns, loss of steady income, death of a spouse, isolation, and institutionalization. A deficit in personal resources and/or coping skills may mean a need for more understanding of old age and thereby planning. Nobody should be caught unaware of the pitfalls in old age.
 
