@@ -9,7 +9,8 @@ author:
 ---
 
 
-> – Answers By Practicing Social Gerontologists 
+> – Answers By Practicing Social Gerontologists.
+
 > Does life begin at EIGHTY? 
 
 **Why not, say two practicing social gerontologists, Soumya Nair and Roshan Jacob** from the vast experience, claims your 80s can be the happiest years of your life. Increased numbers of older people and a continued lengthening of the life span signal the need to expand the knowledge about ageing not only to the older adults but also to the younger generation who are supposed to support this special group. 
