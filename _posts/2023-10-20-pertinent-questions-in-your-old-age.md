@@ -8,8 +8,7 @@ author:
   - Soumya Lakshmi
 ---
 
-
-> – Answers By Practicing Social Gerontologists.
+**– Answers By Practicing Social Gerontologists.**
 
 > Does life begin at EIGHTY? 
 
