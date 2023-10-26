@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-description: Home is the first and the best option for the elders and we call it"ageing in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity. Advantage Seniors is well established in elder care services in bangalore.
+description: Home is the first and the best option for the elders and we call it"aging in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity. Advantage Seniors is well established in elder care services in bangalore.
 image: /images/servicebg.jpg
 permalink: /services/
 redirect_from: /services.html
@@ -20,9 +20,9 @@ links:
 <p><strong>Are you looking for a place to keep your loved one?</strong></p>
 
 <P>
-Home is the first and the best option for the elders and we call it"ageing in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity. As the age advances and when the health diminishes the care interventions get intensifies, and mostly many chronic health conditions may demand more professional care. This is when the institutionalized care comes as a probable option.</p>
+Home is the first and the best option for the elders and we call it"aging in place"! However, many a time, home fails to extend the support systems needed for adequate care giving during infirmity. As the age advances and when the health diminishes the care interventions get intensifies, and mostly many chronic health conditions may demand more professional care. This is when the institutionalized care comes as a probable option.</p>
 
-<p>Our Geriatric Care Facility is for those who no longer fit to live in their own house due to ageing, illness or disability and needs more intense professional care. In our geriatric care facility we care for the bedridden elderly who needs long term care. Adequate health care, right nutrition and timely Nursing intervention are the central activity to achieve the goal to promote quality to the life of infirm elders.</p>
+<p>Our Geriatric Care Facility is for those who no longer fit to live in their own house due to aging, illness or disability and needs more intense professional care. In our geriatric care facility we care for the bedridden elderly who needs long term care. Adequate health care, right nutrition and timely Nursing intervention are the central activity to achieve the goal to promote quality to the life of infirm elders.</p>
 
 <p>At our Geriatric Care Facility, you or your loved ones can feel safe and well looked after with the highest standards of care that you'd expect from the leaders in long term care like advantAGE seniors. Our staffs are experienced and adequately trained in long term care, helping with daily activities as wellas specialist clinical care.</p>
 
@@ -63,7 +63,7 @@ If you are primary caregiver directly involved with the care of a long term care
 
 <p><strong>Are you looking for a Geriatric Counselling?</strong></p>
 
-<p>Geriatric counselling help individuals and families with issues related to the ageing process as well as the types of care one should receive at-the-fag end of life. Once of the central issues that the elderly patient cope with is loss-impairments in hearing, vision mobility and worsening of overall health. As the age advances many individuals also deal with the loss of independence and to some degree dignity.</p>
+<p>Geriatric counselling help individuals and families with issues related to the aging process as well as the types of care one should receive at-the-fag end of life. Once of the central issues that the elderly patient cope with is loss-impairments in hearing, vision mobility and worsening of overall health. As the age advances many individuals also deal with the loss of independence and to some degree dignity.</p>
 
 <p>Most older people insist that they don't want any help and faculties feel torn about how much to push. Our counselling team can listen to your unique story and help you decide what to do, how much to do or when to intervene.</p>
 

@@ -51,7 +51,7 @@ length and breadth of the country.
 No doubt we have a habitual liking towards village work. We believe that
 real life exists in villages, though many disadvantages galore. We go to
 villages for two things. First, to identify the prospective caregivers and
-secondly, to create awareness about rural ageing. Undoubtedly, caregivers
+secondly, to create awareness about rural aging. Undoubtedly, caregivers
 are the backbone of elder care. Given the hardship and intricacies of full
 time care giving, very few are willing to take up this job. Lives of many
 less educated, distressed rural women continue to exist in despair. We tell
@@ -74,7 +74,7 @@ their life.
 ## Ashraya Seva Samasthe
 
 We established “ashraya seva samasthe” in Haveri district to create
-awareness about ageing as well as to look after the poor older adults. We
+awareness about aging as well as to look after the poor older adults. We
 are in the process of initiating talks with the government for further
 expansion to other areas.
 

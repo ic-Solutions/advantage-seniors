@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Are you worried about ageing alone and forlorn, and then early preparation helps!"
+title: "Are you worried about aging alone and forlorn, and then early preparation helps!"
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
-image: /assets/images/blog/ageing-alone-forlorn.webp
-thumbnail: /assets/images/blog/ageing-alone-forlorn_thumbnail.webp
+image: /assets/images/blog/aging-alone-forlorn.webp
+thumbnail: /assets/images/blog/aging-alone-forlorn_thumbnail.webp
 author:
   - Roshan Jacob, Soumya Lakshmi
 ---
 
-> Are you worried about ageing and living alone? Here’s how to build a life of peace and happiness – and how to cope with being alone in old age – whether you’re 65 or 85.
+> Are you worried about aging and living alone? Here’s how to build a life of peace and happiness – and how to cope with being alone in old age – whether you’re 65 or 85.
 
 Irony, what else? He looked so forlorn that Anand’s heart lurched because this is not the same Rao who Anand knew few years back. People who knew Mr. Rao earlier, cannot comprehend his present plight. Few years back, Rao used to serve 10000 meals as a corporate caterer. He was a big timer in the catering industry commanding respect and a much sought after person by corporates.
 
 Those days he had the habit of drinking occasionally, but the chaos in personal life drive him to become an addict. His wife eloped with his own nephew, which is sort of unthinkable and unheard. But life sometimes turns illogical, may be stranger than fiction. He comforts himself on the fact that while his hey days he was able to educate his son and daughter from the premier institutions and help them settle abroad. Children, influenced by their mother, never paid him back.
 
-Read [Ageing without children]({% post_url 2020-03-11-ageing-without-children %})
+Read [aging without children]({% post_url 2020-03-11-aging-without-children %})
 
-Anand brought him to us to look after him. Rao’s twilight is on a heart-rending, pitiable situation: shattered hopes, no money in the kitty, failing health, no family or companion. Amongst us, we have several Rao’s and Ganesan’s whom the community discount as ‘mismanaged lives’. How many of us are growing older alone? How many of us are concerned over ageing solo, with family members — if we have them at all — living at too great a distance to be of use, emotionally or logistically? Whether by choice or chance, the number of older folks living alone is increasing.
+Anand brought him to us to look after him. Rao’s twilight is on a heart-rending, pitiable situation: shattered hopes, no money in the kitty, failing health, no family or companion. Amongst us, we have several Rao’s and Ganesan’s whom the community discount as ‘mismanaged lives’. How many of us are growing older alone? How many of us are concerned over aging solo, with family members — if we have them at all — living at too great a distance to be of use, emotionally or logistically? Whether by choice or chance, the number of older folks living alone is increasing.
 
 These days a high proportion of older people live alone and the numbers are growing – though we gloss over, it means we have looming social problems of epic proportions. Living alone has been defined as “pathological” by many researchers, associating it with social isolation, psychiatric disorder and antisocial behavior. In majority of older adults, all these aspects are true and worrisome.
 
@@ -55,4 +55,4 @@ My experiences as a social gerontologists tells me that having biological kids i
 
 If you don’t want get disappointed in your twilight years, don’t wait till the advanced years where the society feels you are unfit to be in the company of others, and that is why middle age is the best time to start making friendships and building ties that will last long till your end. Instead of counting on kin to keep you company or take care of you during your twilight years, start making connections with people you wish were your family. You can choose your ‘new family’ from a vast and varied background like hobbies, clubs, churches, interests, communities, etc. Non-family relationships can be all embracing and easier than family relationships, because they come without the baggage of the past.
 
-The challenges of living longer and living alone can be formidable, but there are lots of creative solutions already helping people across the world. The most important mantra for coping with the fear of ageing alone is to prepare well in advance. In old age, many of us are orphans or estranged from our family members but you can create surrogate families and better support systems in place.
+The challenges of living longer and living alone can be formidable, but there are lots of creative solutions already helping people across the world. The most important mantra for coping with the fear of aging alone is to prepare well in advance. In old age, many of us are orphans or estranged from our family members but you can create surrogate families and better support systems in place.

@@ -19,7 +19,7 @@ People who were willing to integrate socially in later lives lived longer than t
 
 No matter how old you are or how your health may be declining, social engagements are important. Social integration in later life has multi fold benefits in terms of health and emotional wellbeing.
 
-Ageing comes with varied role changes, ending working with retirement, taking up the role of grand parenting, looking for help from children and immediate families those who, perhaps were once your dependents.
+aging comes with varied role changes, ending working with retirement, taking up the role of grand parenting, looking for help from children and immediate families those who, perhaps were once your dependents.
 
 There may be varied key reasons that might stop older adults from being socially active such as diminished faculties, mobility difficulties, lack of resources to access places, financial constraints to entertain guests, or simply bound by the post retirement filial responsibilities.
 

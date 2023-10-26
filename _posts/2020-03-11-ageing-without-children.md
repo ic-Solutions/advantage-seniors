@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Ageing Without Children"
+title: "aging Without Children"
 description: Most of us hope that our family will step up and help out. But the reality is different. For an increasing number of seniors, that option isn’t there.
-image: /assets/images/blog/Ageing-without-children-2.webp
-thumbnail: /assets/images/blog/Ageing-without-children-2_thumbnail.webp
+image: /assets/images/blog/aging-without-children-2.webp
+thumbnail: /assets/images/blog/aging-without-children-2_thumbnail.webp
 author:
   - Roshan Jacob, Soumya Lakshmi
 
 redirect_from:
-  - /2020/03/11/ageing-without-children.html
+  - /2020/03/11/aging-without-children.html
 ---
 
 It was a chance meeting with Diwakar Kamat and he told me when I met him at a free medical camp recently:
@@ -33,17 +33,17 @@ Most of us hope that our family will step up and help out. But the reality is di
 
 By 2030, 2 million people are predicted to be over 65 without adult children, according to a 2014 study in UK. This represents a huge demographic trend across the world: approximately a quarter of people will get older without ever having had children.
 
-Read [Ageing alone old age preperation]({% post_url 2020-07-13-ageing-alone-old-age-preperation %})
+Read [aging alone old age preperation]({% post_url 2020-07-13-aging-alone-old-age-preperation %})
 
-In our country, a large chunk of the population goes through the same anxiety and worry. It’s staggering that such a shift in society has been almost completely ignored in ageing debates. So why has this issue lacked debate?
+In our country, a large chunk of the population goes through the same anxiety and worry. It’s staggering that such a shift in society has been almost completely ignored in aging debates. So why has this issue lacked debate?
 
 As social gerontologists, we believe it is for several reasons. First, our society remains ageist and it holds good across nations. While sexism, racism and homophobia are deemed unacceptable, derogatory comments and assumptions about older adults pass by without remark. Infirm older adults are seen as a burden on society, lacking value or importance.
 
-There has been a stream of reports highlighting the appalling treatment of particularly, frail and vulnerable older people. Another crucial fact is that why to blame others for your plight, when you have no clue about your preparedness. So is it a surprise that people fear ageing and worry about being ignored and badly treated? Lack of preparedness makes them more vulnerable.
+There has been a stream of reports highlighting the appalling treatment of particularly, frail and vulnerable older people. Another crucial fact is that why to blame others for your plight, when you have no clue about your preparedness. So is it a surprise that people fear aging and worry about being ignored and badly treated? Lack of preparedness makes them more vulnerable.
 
 > “Oh, I’ll just kill myself when I get to that stage”
 
-A common answer we hear from people on the issue of ageing without children is: “Oh, I’ll just kill myself when I get to that stage” (that stage being old and frail). Is this practical? How will you figure out the ‘that stage’? Though they disdain the prospect of being old and alone, at the back of their mind this question flashes. "How in the world will we take care of ourselves?".
+A common answer we hear from people on the issue of aging without children is: “Oh, I’ll just kill myself when I get to that stage” (that stage being old and frail). Is this practical? How will you figure out the ‘that stage’? Though they disdain the prospect of being old and alone, at the back of their mind this question flashes. "How in the world will we take care of ourselves?".
 
 Obviously, people are brushing aside the bigger aspect of planning, but it says a lot about how little faith people have of a good old age in this country that killing themselves seems like a better option.
 
@@ -75,7 +75,7 @@ Make sure that person knows the whole list of things somebody needs to know if t
 
 ### 5. Consider institutionalization
 
-It is a very hard decision. But, again it is necessary and be open about it. Running a fully functional home is near to impossible at advancing years. Many a time, ageing in place is hard when it comes to a person who is alone and old.
+It is a very hard decision. But, again it is necessary and be open about it. Running a fully functional home is near to impossible at advancing years. Many a time, aging in place is hard when it comes to a person who is alone and old.
 
 The need for skilled care that cannot be afforded by most people within the home environment may also be a consideration for institutionalization again, the old person has reached a point either physically, mentally or even financially where institutionalization needs to be considered.
 

@@ -41,7 +41,7 @@ For majority of women, leaving the husband’s care to someone however professio
 
 Many researchers have found that spousal caregivers may be likely to experience depression and anxiety at an even higher rate than those for whom they care. Such depression can be spurred by a wide variety of emotional struggles. Care recipients may no longer have the cognitive ability to relate to their spouse, or be physically incapable of engaging in traditional intimacy, leaving spousal caregivers feeling as though they have lost the husband or wife they once knew so well.
 
-Read [Ageing without children]({% post_url 2020-03-11-ageing-without-children %})
+Read [aging without children]({% post_url 2020-03-11-aging-without-children %})
 
 Many times, caregivers may feel as though they’re adjusting to taking care of an entirely different person, especially with diagnoses like dementia, which can leave caregivers mourning the loss of their previous life with their husbands or wives. While caregivers may feel guilty for these emotions, they are completely normal. Although you may fear talking with others about the changes in your marriage, support groups of caregivers in similar situations may offer a chance to talk about your challenges with people in similar situations.
 

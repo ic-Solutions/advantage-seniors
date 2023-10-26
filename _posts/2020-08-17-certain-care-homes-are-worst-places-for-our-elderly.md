@@ -16,7 +16,7 @@ Care-Homes, rightly as the name suggests, it should be a Home with Compassionate
 
 Increasing demand is certainly an influencing aspect. Many factors attribute to this new phenomenon like increase in number of older adults who needs care, shrinking urban filial support system, space constraints, complex medical conditions that demands institutionalized care, challenges to provide professional care at home or simply because the older adult seek independent community living after retirement. Whatever be the compulsion, once chose to live in an institutional set up, your health and well-being is directly proportional to the professional care standards followed by the respective institution.
 
-Read [Ageing alone and age preperation]({% post_url 2020-07-13-ageing-alone-old-age-preperation %})
+Read [aging alone and age preperation]({% post_url 2020-07-13-aging-alone-old-age-preperation %})
 
 I was visiting old age homes in the city as part of my study on care settings and standards for elderly. I happened to visit an old age home, which operates out of an enormous three-storied building with a signboard, said Ashirvad old age home. On my arrival I was shocked to my wits to see the entire building is locked up, including the gates, doors and the windows, building had balconies in every room but found them tightly shut making it impossible for fresh air or light enter the building!
 

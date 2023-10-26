@@ -29,7 +29,7 @@ links:
   there is one need that is constant in all parts of the world – the need for
   quality elder care. That’s why advantAGE seniors is trying to cobble up
   collaborations worldwide with the leaders in the aged care across the globe in
-  order to promote ageing studies and development in the long term care. The
+  order to promote aging studies and development in the long term care. The
   program is called Global Partners in Care (GPC).
 </p>
 

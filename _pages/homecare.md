@@ -218,7 +218,7 @@ links:
   independently in the comfort of their own home. No upheaval, no disruption. It
   gives them the ability to be independent, stay close to family and friends,
   keep their pets and most importantly maintain their hobbies and interests. In
-  the end, we are the proponents of “Ageing In Place”.
+  the end, we are the proponents of “aging In Place”.
 </p>
 
 <h2>Why advantAGE is different from others</h2>

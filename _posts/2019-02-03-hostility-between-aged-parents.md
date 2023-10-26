@@ -15,7 +15,7 @@ Renjitha Reddy’s aged parents used to live harmoniously but now, in their 80s,
 
 Usually adult children come to me for care related counselling and this time Renjitha’s visit is very peculiar and she wants to find a solution for parental conflict. An increasing number of adult children are finding themselves in similar positions because more people are living longer and becoming emotionally dependent on their adult children. Let’s listen to Renjitha’s woes, a spectre haunting her past few months. As a counsellor, I listened carefully to her without interrupting.
 
-Read [Ageing without children]({% post_url 2020-03-11-ageing-without-children %})
+Read [aging without children]({% post_url 2020-03-11-aging-without-children %})
 
 “In my growing years, one of the worst things I could imagine was my parents – now in their eighties – separating. Now I think it's one of the best things they could have done. There are many authors to tell you how to handle a divorce as warring parents of a young child. But no help for such parents when those children have grown up. I'm in my late forties, but seeing my parents like this is only marginally easier than if I were still a child. To me, they're still my mum and dad.” Renjitha started her story.
 

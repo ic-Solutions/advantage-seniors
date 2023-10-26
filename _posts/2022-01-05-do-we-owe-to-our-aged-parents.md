@@ -70,12 +70,12 @@ A child cannot shy away from such a moral obligation invoking umpteen reasons. M
 
 Regardless of attitudes about the children’s role, a majority of adults from all age groups believe that adult children have an obligation to support their aging parents. Nevertheless, Indications are that families have - or will, become less able or ready to provide such care to their aged kin, and it is better the seniors accept this reality.
 
-Living longer brings many difficulties to senior citizens in a society that is not well-prepared for ageing. It is better not to blame the children for the so-called distress in old age knowing the limitations of the children. In the coming years, seniors have only one option and it is to move forward with definitive plans for old age with lesser expectations and dependency on children. To avoid poverty, social exclusion, marginalization and to overcome the lack of family support, one must plan much early in life.
+Living longer brings many difficulties to senior citizens in a society that is not well-prepared for aging. It is better not to blame the children for the so-called distress in old age knowing the limitations of the children. In the coming years, seniors have only one option and it is to move forward with definitive plans for old age with lesser expectations and dependency on children. To avoid poverty, social exclusion, marginalization and to overcome the lack of family support, one must plan much early in life.
 
 In some quarters of our society, elders are fast losing their place in the family as respected members. As the rapidly urbanizing India sees its social landscape shift away from traditional family bonds, the country's once-revered elders are becoming increasingly vulnerable.
 
 The newer trending allows the adult children to move out of their parents' homes to live independently or sometimes go overseas for better employment opportunities, leaving the aged at home.
 
-Changing family values, changing social dynamics, population ageing, insensitive children, family dysfunction, financial dependability and many more can vitiate a normal peaceful old age.
+Changing family values, changing social dynamics, population aging, insensitive children, family dysfunction, financial dependability and many more can vitiate a normal peaceful old age.
 
-How many of our children understand the ‘payback’ concept when it comes to filial obligations? Can we dodge the moral responsibility toward our ageing parents?
+How many of our children understand the ‘payback’ concept when it comes to filial obligations? Can we dodge the moral responsibility toward our aging parents?

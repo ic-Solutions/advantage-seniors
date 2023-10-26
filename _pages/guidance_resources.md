@@ -38,7 +38,7 @@ From our past experience our inference is that guided care nursing have many ben
 ## Retirement Readiness Programme - RRP
 
 
-In view of the ageing population, retirement planning becomes increasingly important nowadays, especially in our country where social "welfarism" is uncommon. In view of the graying population and declining birth rates, seniors are forced to increasingly dependent on themselves for survival after retirement. Many people will have to look after their very old parents despite their own retirement needs. Thus, early planning is essential for a secure retirement. 
+In view of the aging population, retirement planning becomes increasingly important nowadays, especially in our country where social "welfarism" is uncommon. In view of the graying population and declining birth rates, seniors are forced to increasingly dependent on themselves for survival after retirement. Many people will have to look after their very old parents despite their own retirement needs. Thus, early planning is essential for a secure retirement. 
 
 
 It is common that many people feel frightened and insecure when approaching retirement. Instead accept and understand retirement for what it really represents. We see retirement as an ongoing process of exploration and change into a phase of "new beginnings" for the next 30 days years or so. Retirement is an opportunity to plan and set goals for the rest and best years of your life. Who would want to withdraw and retreat when starting a new period of life that may last for another 30 or more years? 
