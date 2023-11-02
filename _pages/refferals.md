@@ -21,6 +21,7 @@ redirect_from:
   - case-studies/refferals.html
   - guidance-resources/refferals.html
   - services/refferals.html
+  - landing-page/refferals.html
   - franchise/refferals.html
   - experts/refferals.html
   - research/refferals.html

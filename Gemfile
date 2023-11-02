@@ -9,4 +9,5 @@ gem "kramdown-parser-gfm"
 gem "jekyll-redirect-from"
 gem "jekyll-sitemap"
 gem "webrick"
-# gem 'wdm', '>= 0.1.0'
+
+gem 'wdm', '>= 0.1.0'

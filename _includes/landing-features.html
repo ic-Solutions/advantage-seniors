@@ -1,0 +1,31 @@
+<section class="features">
+  <div class="row">
+    {% for item in site.data.features %}
+    <div class="col-6 bg-white shadow border px-md-5 py-3 py-md-5 my-4 my-md-5">
+      <div class="row justify-content-center">
+        <!-- <div class="col-md-6 align-self-center text-center {% cycle '', 'order-md-2' %}"> -->
+        <img width="300" height="300" loading="lazy" src="{{item.image}}"
+          alt="{{item.title}} elder care services in bangalore" title="elder care services in banglaore" />
+        <!-- </div>
+        <div class="col-md-6 align-self-center order-md-1"> -->
+        <div>
+          <h2>{{item.title}}</h2>
+          {% for paragraph in item.description %}
+          <p>{{paragraph}}</p>
+          {% endfor %} {% if item.link %}
+          <a class="btn btn-primary" aria-label="{{item.title}}" href="{{item.link}}"
+            title="elder care services in banglaore">{% if item.button-text %}{{item.button-text}}{% else %}Read
+            More{% endif %}</a>{% endif %}
+
+          {% if item.link2 %}
+          <a class="btn ml-2" style="color: white; background-color: #20652D;" href="{{item.link2}}"
+            aria-label="elder care services in banglaore" title="elder care services in banglaore">{% if
+            item.button-2-text %}{{item.button-2-text}}{% else %}Read
+            More{% endif %}</a>{% endif %}
+        </div>
+        <!-- </div> -->
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
