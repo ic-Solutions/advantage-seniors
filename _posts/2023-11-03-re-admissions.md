@@ -8,7 +8,7 @@ author:
   - Soumya Lakshmi
 ---
 
->“WHAT BIG DEAL, PATIENTS GET RE-ADMITTED”, MANY ARE TOLD
+>“What big Deal, Patients get re-admitted”, many are told
 
 Anirudh is fed up with the frequent readmissions of his mother, Jayadevi and has no qualms of showing his frustration. ‘It is a painful process and especially I am far away in Bangalore and mother lives in Bhubaneshwar. Each time I have to fly down and imagine the inconveniences causing to my mother and my plight. Doctors give vague answers’. **‘What big deal’**, the attitude of doctors and hospitals irks Anirudh. 
 
